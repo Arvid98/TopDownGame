@@ -1,4 +1,4 @@
-using System.Linq;
+using System.Collections.Generic;
 using Unity.Collections;
 using Unity.Netcode;
 using UnityEngine;
@@ -25,7 +25,7 @@ public class InventorySystem : NetworkBehaviour
 
     public void AddItem(string itemName, int quantity)
     {
-        if (IsServer)
+        if (IsServer) 
         {
             int index = GetItemIndex(itemName);
             if (index >= 0)
@@ -44,6 +44,7 @@ public class InventorySystem : NetworkBehaviour
             }
         }
     }
+
 
     public void RemoveItem(string itemName, int quantity)
     {
@@ -84,8 +85,14 @@ public class InventorySystem : NetworkBehaviour
         Debug.Log($"Inventory updated: {changeEvent.Type}");
     }
 
-    public NetworkList<InventoryItemData> GetInventory()
+    public List<InventoryItemData> GetInventory()
     {
-        return inventory;
+        List<InventoryItemData> inventoryList = new List<InventoryItemData>();
+        foreach (var item in inventory)
+        {
+            inventoryList.Add(item);
+        }
+        return inventoryList;
     }
+
 }

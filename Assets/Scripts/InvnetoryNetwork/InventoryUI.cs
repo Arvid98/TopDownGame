@@ -1,10 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class InventoryUI : MonoBehaviour
 {
-    public GameObject inventoryPanel;
-    public Text inventoryText;
+    public TextMeshProUGUI inventoryText;
 
     public void UpdateInventoryUI(InventorySystem inventorySystem)
     {
