@@ -1,0 +1,6817 @@
+fileFormatVersion: 2
+guid: 68a56af7effe9c4449c5e8de39583ead
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6567106371338268606
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_0
+  - first:
+      213: 8938959128493918263
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_1
+  - first:
+      213: -5502723610997726120
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_2
+  - first:
+      213: 5787634437058640829
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_3
+  - first:
+      213: -2290698301590976314
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_4
+  - first:
+      213: -689634386703670308
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_5
+  - first:
+      213: -2972839181085686829
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_6
+  - first:
+      213: -9117691470602105106
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_7
+  - first:
+      213: 536036593748421320
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_8
+  - first:
+      213: 6136529020577169983
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_9
+  - first:
+      213: -7578154869027550485
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_10
+  - first:
+      213: 6897723863891031639
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_11
+  - first:
+      213: 7688666238777588381
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_12
+  - first:
+      213: -294731791808125323
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_13
+  - first:
+      213: -8675072224841315748
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_14
+  - first:
+      213: 7066796410319882287
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_15
+  - first:
+      213: 3854671765536459337
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_16
+  - first:
+      213: -7918671077119584350
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_17
+  - first:
+      213: 1449402490367062105
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_18
+  - first:
+      213: -4364518834194767720
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_19
+  - first:
+      213: 934826692354783830
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_20
+  - first:
+      213: -2665061689555040470
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_21
+  - first:
+      213: -878485656246867911
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_22
+  - first:
+      213: -7939870611765251091
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_23
+  - first:
+      213: 8808055205276342292
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_24
+  - first:
+      213: 2107392492168584696
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_25
+  - first:
+      213: -1587564792716239215
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_26
+  - first:
+      213: -7689263559065113234
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_27
+  - first:
+      213: -3919639818486181088
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_28
+  - first:
+      213: -7641409650013212393
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_29
+  - first:
+      213: 8623044120399969380
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_30
+  - first:
+      213: 6691873512597499360
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_31
+  - first:
+      213: -1060236233317825815
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_32
+  - first:
+      213: 2573553042077603655
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_33
+  - first:
+      213: 4642612370595586624
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_34
+  - first:
+      213: -2265024446851110504
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_35
+  - first:
+      213: -2308773894331159468
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_36
+  - first:
+      213: 5956497539634532911
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_37
+  - first:
+      213: -801288748242585237
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_38
+  - first:
+      213: 1708533288230798490
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_39
+  - first:
+      213: 1894112385806977688
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_40
+  - first:
+      213: 8774923429055605848
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_41
+  - first:
+      213: -7431943726320553214
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_42
+  - first:
+      213: -3619432693363281516
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_43
+  - first:
+      213: 7670271319292347906
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_44
+  - first:
+      213: 5564087206481633986
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_45
+  - first:
+      213: -8076180875466677834
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_46
+  - first:
+      213: -5721261363013589212
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_47
+  - first:
+      213: 2138017609219163288
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_48
+  - first:
+      213: -6238240410068292462
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_49
+  - first:
+      213: 5099527841569706264
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_50
+  - first:
+      213: 3410295784411402521
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_51
+  - first:
+      213: -9209204894944893952
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_52
+  - first:
+      213: -2873308008043119014
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_53
+  - first:
+      213: -7710519552343857542
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_54
+  - first:
+      213: 4370804169089109306
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_55
+  - first:
+      213: 6388874951846376609
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_56
+  - first:
+      213: -4644297381531433130
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_57
+  - first:
+      213: 2598737858324178321
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_58
+  - first:
+      213: 2206564450659822576
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_59
+  - first:
+      213: 5657570468331873281
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_60
+  - first:
+      213: -8058222969646415201
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_61
+  - first:
+      213: -6469323028422737426
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_62
+  - first:
+      213: -3319247697830448051
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_63
+  - first:
+      213: -7080482938752009421
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_64
+  - first:
+      213: -6585592739178697792
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_65
+  - first:
+      213: -2799440584882723097
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_66
+  - first:
+      213: -6356449266470329297
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_67
+  - first:
+      213: -8917105358608176387
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_68
+  - first:
+      213: -8502134340870582856
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_69
+  - first:
+      213: -7930080022738898660
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_70
+  - first:
+      213: 5014164468359549724
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_71
+  - first:
+      213: 8618173040765536209
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_72
+  - first:
+      213: 738826187992971511
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_73
+  - first:
+      213: 2306296787508737775
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_74
+  - first:
+      213: -1954109629932282533
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_75
+  - first:
+      213: 7041877224194839661
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_76
+  - first:
+      213: -3024826121752424308
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_77
+  - first:
+      213: -8897992299129317863
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_78
+  - first:
+      213: -7926409568764346042
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_79
+  - first:
+      213: 438426264755306971
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_80
+  - first:
+      213: -8849416946532729163
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_81
+  - first:
+      213: -4749023827289777391
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_82
+  - first:
+      213: 295182154488065999
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_83
+  - first:
+      213: -6579064983117630596
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_84
+  - first:
+      213: -7775617197404989576
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_85
+  - first:
+      213: -6567797901121629293
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_86
+  - first:
+      213: -4317615805731108002
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_87
+  - first:
+      213: 7080712989632533101
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_88
+  - first:
+      213: 1180511656699219741
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_89
+  - first:
+      213: -2193119182225193334
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_90
+  - first:
+      213: -7454753660502512256
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_91
+  - first:
+      213: -417837416019994433
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_92
+  - first:
+      213: -5774143084202813839
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_93
+  - first:
+      213: -5435478648134973968
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_94
+  - first:
+      213: -3637419240807256938
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_95
+  - first:
+      213: -4868317375418760442
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_96
+  - first:
+      213: -7032464668081465383
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_97
+  - first:
+      213: -6398012170502039622
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_98
+  - first:
+      213: -8389331231222128569
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_99
+  - first:
+      213: 5098089429047580928
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_100
+  - first:
+      213: 2352261029206288273
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_101
+  - first:
+      213: -6541865341724708168
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_102
+  - first:
+      213: 9036734744136420446
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_103
+  - first:
+      213: 7095139309674048414
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_104
+  - first:
+      213: 2832800358179241543
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_105
+  - first:
+      213: 5512207536388880064
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_106
+  - first:
+      213: -6714865263942161137
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_107
+  - first:
+      213: -5827342699506553570
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_108
+  - first:
+      213: 4194973897269877311
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_109
+  - first:
+      213: -6916106220363285423
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_110
+  - first:
+      213: -3730467198782693238
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_111
+  - first:
+      213: 1314349053023482934
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_112
+  - first:
+      213: -6192469272796141156
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_113
+  - first:
+      213: 7181811127660712980
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_114
+  - first:
+      213: -9120694328104863676
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_115
+  - first:
+      213: 8745157763656564259
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_116
+  - first:
+      213: -4661684877824340715
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_117
+  - first:
+      213: -8083819270020378467
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_118
+  - first:
+      213: -8488147170775571991
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_119
+  - first:
+      213: -6744902324610343479
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_120
+  - first:
+      213: 4952856283726946686
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_121
+  - first:
+      213: -1619762976757574588
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_122
+  - first:
+      213: -2001433428673885101
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_123
+  - first:
+      213: -7246354285146617075
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_124
+  - first:
+      213: -3121821793531502922
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_125
+  - first:
+      213: -8471096341117390581
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_126
+  - first:
+      213: 8062976849741253208
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_127
+  - first:
+      213: -3912372225267961652
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_128
+  - first:
+      213: -5273307097729141253
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_129
+  - first:
+      213: 6455066465653219363
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_130
+  - first:
+      213: -4501020173762455563
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_131
+  - first:
+      213: 3788159329930514996
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_132
+  - first:
+      213: 7948369403666891020
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_133
+  - first:
+      213: 8020429758966837856
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_134
+  - first:
+      213: 2192594988041000559
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_135
+  - first:
+      213: 3219781523273990831
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_136
+  - first:
+      213: 5441165777579288377
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_137
+  - first:
+      213: 5633195971210651827
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_138
+  - first:
+      213: -4214942483711784905
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_139
+  - first:
+      213: 520607385335851185
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_140
+  - first:
+      213: 3292166031321643782
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_141
+  - first:
+      213: -2583747327747742601
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_142
+  - first:
+      213: 109845497648766736
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_143
+  - first:
+      213: 7614052702975156012
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_144
+  - first:
+      213: 4775329550941343109
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_145
+  - first:
+      213: -6779287680599516213
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_146
+  - first:
+      213: 2628542931383637902
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_147
+  - first:
+      213: 2963166568812237829
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_148
+  - first:
+      213: -2078215274472043481
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_149
+  - first:
+      213: 3090013446122744645
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_150
+  - first:
+      213: 3940852422155207401
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_151
+  - first:
+      213: 4866875461487088352
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_152
+  - first:
+      213: 5774181449269667839
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_153
+  - first:
+      213: 8571188467750374011
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_154
+  - first:
+      213: 3583519564208379266
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_155
+  - first:
+      213: -1902082407539769058
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_156
+  - first:
+      213: 988974868360003219
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_157
+  - first:
+      213: 6159604844901054377
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_158
+  - first:
+      213: -5878862805408687386
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_159
+  - first:
+      213: -3430817879527922828
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_160
+  - first:
+      213: -551653442385055187
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_161
+  - first:
+      213: -7011374314028245413
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_162
+  - first:
+      213: 1837127154712693606
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_163
+  - first:
+      213: 100030322532529237
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_164
+  - first:
+      213: 7950090043301233714
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_165
+  - first:
+      213: 365174160929585141
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_166
+  - first:
+      213: -1767046079503451391
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_167
+  - first:
+      213: 4694823240684910450
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_168
+  - first:
+      213: 5332443593323027650
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_169
+  - first:
+      213: -2084662294728599024
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_170
+  - first:
+      213: 7709477033174869622
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_171
+  - first:
+      213: -7515082350914926809
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_172
+  - first:
+      213: 6589000668111211930
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_173
+  - first:
+      213: -2034049888245984341
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_174
+  - first:
+      213: -1563645353743651032
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_175
+  - first:
+      213: 4197574272421940600
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_176
+  - first:
+      213: 6647223431107562973
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_177
+  - first:
+      213: 1038209787989953513
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_178
+  - first:
+      213: -7744797469565708239
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_179
+  - first:
+      213: 3573131527957341856
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_180
+  - first:
+      213: -402414248413883608
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_181
+  - first:
+      213: -2476532017390830404
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_182
+  - first:
+      213: -5825895690818975684
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_183
+  - first:
+      213: 3105846143815346223
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_184
+  - first:
+      213: 7381145890450173771
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_185
+  - first:
+      213: 7751110612072243653
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_186
+  - first:
+      213: -6388586933887062939
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_187
+  - first:
+      213: -8637999920788815184
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_188
+  - first:
+      213: -3135216471910665662
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_189
+  - first:
+      213: 2451902512058008041
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_190
+  - first:
+      213: 50534070346292729
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_191
+  - first:
+      213: 1624503618650993737
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_192
+  - first:
+      213: 3344238351528232118
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_193
+  - first:
+      213: -5568599104604297650
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_194
+  - first:
+      213: -2041398161104670941
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_195
+  - first:
+      213: 1509936162437104805
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_196
+  - first:
+      213: 8231413644835458402
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_197
+  - first:
+      213: -8754490230983931065
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_198
+  - first:
+      213: 4503128272158924187
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_199
+  - first:
+      213: 4067775643542030025
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_200
+  - first:
+      213: 4108768195705633092
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_201
+  - first:
+      213: 518236956900079731
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_202
+  - first:
+      213: -1563114512870905435
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_203
+  - first:
+      213: 1901386227662073237
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_204
+  - first:
+      213: -3992523830826546558
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_205
+  - first:
+      213: 5389537317269013561
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_206
+  - first:
+      213: 5596024797726317775
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_207
+  - first:
+      213: 5107299947670256438
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_208
+  - first:
+      213: 1280425304703313632
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_209
+  - first:
+      213: 3337747764382155684
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_210
+  - first:
+      213: -732291515549191374
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_211
+  - first:
+      213: 8751713346705238910
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_212
+  - first:
+      213: -2807479383839749661
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_213
+  - first:
+      213: 778363004346667685
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_214
+  - first:
+      213: -4562866460874054809
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_215
+  - first:
+      213: 2970881513540246201
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_216
+  - first:
+      213: 5192309543875520074
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_217
+  - first:
+      213: -4276269995369360301
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_218
+  - first:
+      213: 8498064957752291051
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_219
+  - first:
+      213: 2932741035921392357
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_220
+  - first:
+      213: 7568006894112910424
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_221
+  - first:
+      213: -8933130691767936299
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_222
+  - first:
+      213: 7065764674334606189
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_223
+  - first:
+      213: 5667815842692295144
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_224
+  - first:
+      213: 8222387947698494049
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_225
+  - first:
+      213: 4448725744683508284
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_226
+  - first:
+      213: -4546282392267335510
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_227
+  - first:
+      213: 4633627295285486395
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_228
+  - first:
+      213: -5995100836623162877
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_229
+  - first:
+      213: 1884223210147138388
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_230
+  - first:
+      213: 6991793508435575148
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_231
+  - first:
+      213: -820366141182874413
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_232
+  - first:
+      213: 1399746704895817867
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_233
+  - first:
+      213: -406440390310082671
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_234
+  - first:
+      213: -587777941234572044
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_235
+  - first:
+      213: 4669403869888610806
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_236
+  - first:
+      213: 7576118224847097097
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_237
+  - first:
+      213: 7197032388528458397
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_238
+  - first:
+      213: 6942487712701019167
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_239
+  - first:
+      213: 8340591684272565682
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_240
+  - first:
+      213: -3285155918859045077
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_241
+  - first:
+      213: 7881020327291780917
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_242
+  - first:
+      213: -991709384218477773
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_243
+  - first:
+      213: -7466942395137412180
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_244
+  - first:
+      213: -9188294529970180477
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_245
+  - first:
+      213: 3843311897922627911
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_246
+  - first:
+      213: -1786917865316051365
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_247
+  - first:
+      213: -1434983511009608631
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_248
+  - first:
+      213: -7727014701012842009
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_249
+  - first:
+      213: -1371231850923013786
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_250
+  - first:
+      213: 3908808420328693011
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_251
+  - first:
+      213: 6897839670101003623
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_252
+  - first:
+      213: -7296602356483748556
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_253
+  - first:
+      213: -2413237833987394805
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_254
+  - first:
+      213: -7884223115736268931
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_255
+  - first:
+      213: 1739222336394665356
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_256
+  - first:
+      213: 1390298842936969318
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_257
+  - first:
+      213: 2439222176258854492
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_258
+  - first:
+      213: 3661329903658284762
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_259
+  - first:
+      213: -935469746858437927
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_260
+  - first:
+      213: 3228051821555336404
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_261
+  - first:
+      213: 2597110728926653479
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_262
+  - first:
+      213: -9106463498806450388
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_263
+  - first:
+      213: -3694960133815905084
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_264
+  - first:
+      213: -5786602086163122241
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_265
+  - first:
+      213: -3174011853217243
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_266
+  - first:
+      213: 477690637958804816
+    second: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_267
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2978
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2409d2e9c83fcd4a0800000000000000
+      internalID: -6567106371338268606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2975
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7388d9b77ff8d0c70800000000000000
+      internalID: 8938959128493918263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2975
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854635dc70662a3b0800000000000000
+      internalID: -5502723610997726120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2927
+        width: 386
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbb2b63bdec15050800000000000000
+      internalID: 5787634437058640829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 2975
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c84416080ec530e0800000000000000
+      internalID: -2290698301590976314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_5
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2927
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd322abdd2ded66f0800000000000000
+      internalID: -689634386703670308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_6
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2927
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3460df38a5eb6d0800000000000000
+      internalID: -2972839181085686829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2789
+        width: 38
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee07234ae3777180800000000000000
+      internalID: -9117691470602105106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2789
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca2cf42172607700800000000000000
+      internalID: 536036593748421320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2789
+        width: 32
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32c069a1a4592550800000000000000
+      internalID: 6136529020577169983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2792
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea47b22c4cf4d690800000000000000
+      internalID: -7578154869027550485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2798
+        width: 38
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b5f9fe43a9bf50800000000000000
+      internalID: 6897723863891031639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2789
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a70e63531a3ba60800000000000000
+      internalID: 7688666238777588381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_13
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2789
+        width: 134
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57623453ff6e8ebf0800000000000000
+      internalID: -294731791808125323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2741
+        width: 134
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac97526c3fb9780800000000000000
+      internalID: -8675072224841315748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2741
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f284f19c4ed421260800000000000000
+      internalID: 7066796410319882287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2744
+        width: 134
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a478e3c8b8e7530800000000000000
+      internalID: 3854671765536459337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 2744
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7902b3c9a3b1290800000000000000
+      internalID: -7918671077119584350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_18
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2741
+        width: 125
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95035eeb2ef4d1410800000000000000
+      internalID: 1449402490367062105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_19
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2750
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890a1589e3d1e63c0800000000000000
+      internalID: -4364518834194767720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_20
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2687
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a3c5c7ceb29fc00800000000000000
+      internalID: 934826692354783830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2495
+        width: 337
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27c191738cc30bd0800000000000000
+      internalID: -2665061689555040470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2474
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938212733fdfec3f0800000000000000
+      internalID: -878485656246867911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2255
+        width: 2017
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de33b2feeb9efc190800000000000000
+      internalID: -7939870611765251091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2234
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418d688ca8f7c3a70800000000000000
+      internalID: 8808055205276342292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_25
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2234
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd98026e46fe3d10800000000000000
+      internalID: 2107392492168584696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_26
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 2231
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5b387b36d7f9e0800000000000000
+      internalID: -1587564792716239215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_27
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 2231
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d6191588f3a4590800000000000000
+      internalID: -7689263559065113234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_28
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 2231
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02397ab2a54aa99c0800000000000000
+      internalID: -3919639818486181088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_29
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 2234
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71178b3c86244f590800000000000000
+      internalID: -7641409650013212393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2036
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf5fec0f43ba770800000000000000
+      internalID: 8623044120399969380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_31
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2036
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed2830318f4edc50800000000000000
+      internalID: 6691873512597499360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_32
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2033
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2c71f53c84941f0800000000000000
+      internalID: -1060236233317825815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2033
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74759a34bd817b320800000000000000
+      internalID: 2573553042077603655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_34
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2033
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422f2b7a5fdd6040800000000000000
+      internalID: 4642612370595586624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_35
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2036
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8992dd524440190e0800000000000000
+      internalID: -2265024446851110504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1892
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c22b1206695ffd0800000000000000
+      internalID: -2308773894331159468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1892
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22976314fab9a250800000000000000
+      internalID: 5956497539634532911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1889
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69bb7ef02041e4f0800000000000000
+      internalID: -801288748242585237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_39
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1889
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a944de339fde5b710800000000000000
+      internalID: 1708533288230798490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_40
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1889
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a41b0fd2d394a10800000000000000
+      internalID: 1894112385806977688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_41
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1892
+        width: 110
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cac100e5ac6c970800000000000000
+      internalID: 8774923429055605848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20378f99e8e6cd890800000000000000
+      internalID: -7431943726320553214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49175a7542135cdc0800000000000000
+      internalID: -3619432693363281516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20689454027427a60800000000000000
+      internalID: 7670271319292347906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c222a1a5db973d40800000000000000
+      internalID: 5564087206481633986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_46
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b161008844abef80800000000000000
+      internalID: -8076180875466677834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_47
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1739
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42768665a1ff990b0800000000000000
+      internalID: -5721261363013589212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 2017
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894c90910b3cbad10800000000000000
+      internalID: 2138017609219163288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1343
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c646e06615d69a0800000000000000
+      internalID: -6238240410068292462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_50
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1346
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8111afead8925c640800000000000000
+      internalID: 5099527841569706264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_51
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1343
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9119ad882fdc35f20800000000000000
+      internalID: 3410295784411402521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_52
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1346
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0046505c0f4523080800000000000000
+      internalID: -9209204894944893952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_53
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1343
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5efd421795ff18d0800000000000000
+      internalID: -2873308008043119014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_54
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1346
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7627d8b15bbef490800000000000000
+      internalID: -7710519552343857542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_55
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1343
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d4a59fb3738ac30800000000000000
+      internalID: 4370804169089109306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_56
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1346
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b1334be7d9a850800000000000000
+      internalID: 6388874951846376609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_57
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1343
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ca8653242c8fb0800000000000000
+      internalID: -4644297381531433130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_58
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1346
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a5cd3052901420800000000000000
+      internalID: 2598737858324178321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1394
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb659f4daa4f9e10800000000000000
+      internalID: 2206564450659822576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_60
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1394
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10469a8ad5ab38e40800000000000000
+      internalID: 5657570468331873281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_61
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1394
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92055547e07b2090800000000000000
+      internalID: -8058222969646415201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1394
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cb994bf85836a0800000000000000
+      internalID: -6469323028422737426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1394
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4478411ec9afe1d0800000000000000
+      internalID: -3319247697830448051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1394
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf87df7421dbd90800000000000000
+      internalID: -7080482938752009421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_65
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1394
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbacd1bb464b94a0800000000000000
+      internalID: -6585592739178697792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_66
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1394
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6e040ce936629d0800000000000000
+      internalID: -2799440584882723097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_67
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1394
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246e3fe11b59c7a0800000000000000
+      internalID: -6356449266470329297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_68
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1394
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa6d63dbe3104480800000000000000
+      internalID: -8917105358608176387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_69
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1364
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd42cbfcd9520a80800000000000000
+      internalID: -8502134340870582856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11f9341c32b2f190800000000000000
+      internalID: -7930080022738898660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_71
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1364
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13d4fd8404e59540800000000000000
+      internalID: 5014164468359549724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_72
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78da338b6e99770800000000000000
+      internalID: 8618173040765536209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_73
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1364
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8b316e086d04a00800000000000000
+      internalID: 738826187992971511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_74
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6351e75bc910020800000000000000
+      internalID: 2306296787508737775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_75
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1364
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d57b715ab91e4e0800000000000000
+      internalID: -1954109629932282533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_76
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d641c04a606c9b160800000000000000
+      internalID: 7041877224194839661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_77
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1364
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80df912ba8a506d0800000000000000
+      internalID: -3024826121752424308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_78
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9165c34c52bf38480800000000000000
+      internalID: -8897992299129317863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1298
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6414b8d3e7cbff190800000000000000
+      internalID: -7926409568764346042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1298
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd101fa6d5a951600800000000000000
+      internalID: 438426264755306971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_81
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1298
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be38906c2e803580800000000000000
+      internalID: -8849416946532729163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_82
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1298
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bd6809df3181eb0800000000000000
+      internalID: -4749023827289777391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_83
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1298
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfab460b92b81400800000000000000
+      internalID: 295182154488065999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1202
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ff07514772b4a0800000000000000
+      internalID: -6579064983117630596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1199
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877d14f1b55771490800000000000000
+      internalID: -7775617197404989576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1202
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393d61b4b9e7ad4a0800000000000000
+      internalID: -6567797901121629293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_87
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1202
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b09c6ec4fb414c0800000000000000
+      internalID: -4317615805731108002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_88
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1199
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629a87e2feb34260800000000000000
+      internalID: 7080712989632533101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_89
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1202
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fc3ced815026010800000000000000
+      internalID: 1180511656699219741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_90
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1202
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a864f5139b97091e0800000000000000
+      internalID: -2193119182225193334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_91
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1199
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d64b1fa056b8890800000000000000
+      internalID: -7454753660502512256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_92
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1202
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d24c751b833af0800000000000000
+      internalID: -417837416019994433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_93
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1106
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17610d7257f1edfa0800000000000000
+      internalID: -5774143084202813839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_94
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1103
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5c1b9c7fc4194b0800000000000000
+      internalID: -5435478648134973968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_95
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1106
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c238ce87a458dc0800000000000000
+      internalID: -3637419240807256938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_96
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1106
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6038d48f323407cb0800000000000000
+      internalID: -4868317375418760442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_97
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1103
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d48bd4aaa76e90800000000000000
+      internalID: -7032464668081465383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1106
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7999c34d1b537a0800000000000000
+      internalID: -6398012170502039622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 959
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7402aeb91bb139b80800000000000000
+      internalID: -8389331231222128569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_100
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 962
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091e8b235d00c640800000000000000
+      internalID: 5098089429047580928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_101
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1058
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197e5d871f8e4a020800000000000000
+      internalID: 2352261029206288273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_102
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 959
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b23f0ac120a635a0800000000000000
+      internalID: -6541865341724708168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_103
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 962
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c8ea10f5ee86d70800000000000000
+      internalID: 9036734744136420446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_104
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1058
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b28094c9ff67260800000000000000
+      internalID: 7095139309674048414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_105
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 959
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7fdcbae0205720800000000000000
+      internalID: 2832800358179241543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_106
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 962
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b0b6ac8b4f7c40800000000000000
+      internalID: 5512207536388880064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_107
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1058
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d2e1c8e9100d2a0800000000000000
+      internalID: -6714865263942161137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_108
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 959
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d227b70be112fa0800000000000000
+      internalID: -5827342699506553570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_109
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 962
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a9ecc988a873a30800000000000000
+      internalID: 4194973897269877311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_110
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1058
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c7062290e0500a0800000000000000
+      internalID: -6916106220363285423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_111
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 959
+        width: 44
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80af4af8d7ba3cc0800000000000000
+      internalID: -3730467198782693238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_112
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 962
+        width: 134
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634f55000818d3210800000000000000
+      internalID: 1314349053023482934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_113
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1058
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e678610eef0aa0800000000000000
+      internalID: -6192469272796141156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_114
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1010
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4141a247b2beaa360800000000000000
+      internalID: 7181811127660712980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1010
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448b36405d8cc6180800000000000000
+      internalID: -9120694328104863676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_116
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1010
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ebf77f6aa0d5970800000000000000
+      internalID: 8745157763656564259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_117
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1010
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d48726d4e5e4fb0800000000000000
+      internalID: -4661684877824340715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_118
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1010
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d905afd243180df80800000000000000
+      internalID: -8083819270020378467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_119
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1010
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e16facce1b043a80800000000000000
+      internalID: -8488147170775571991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_120
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1010
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdd4e0621b4562a0800000000000000
+      internalID: -6744902324610343479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_121
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1010
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712b177c841cb440800000000000000
+      internalID: 4952856283726946686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_122
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1010
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444190e87227589e0800000000000000
+      internalID: -1619762976757574588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_123
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1010
+        width: 65
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c0d4296ea7934e0800000000000000
+      internalID: -2001433428673885101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_124
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 980
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bc435ab27cf6b90800000000000000
+      internalID: -7246354285146617075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 962
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be5b707e9f0da4d0800000000000000
+      internalID: -3121821793531502922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_126
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 980
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01369172ce907a80800000000000000
+      internalID: -8471096341117390581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_127
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 962
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a8601b9b275ef60800000000000000
+      internalID: 8062976849741253208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_128
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 980
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07cc3903674b9c0800000000000000
+      internalID: -3912372225267961652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_129
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 962
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5fe40422371d6b0800000000000000
+      internalID: -5273307097729141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_130
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 980
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320ebc600c0059950800000000000000
+      internalID: 6455066465653219363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_131
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 962
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79508dff92981c0800000000000000
+      internalID: -4501020173762455563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_132
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 980
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432171d07de329430800000000000000
+      internalID: 3788159329930514996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_133
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 962
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0106214cd74e4e60800000000000000
+      internalID: 7948369403666891020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 914
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b0392f5a4e4f60800000000000000
+      internalID: 8020429758966837856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_135
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 914
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665c765689ad6e10800000000000000
+      internalID: 2192594988041000559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_136
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 914
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2cc1d7c36feac20800000000000000
+      internalID: 3219781523273990831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_137
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 914
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93720a83277e28b40800000000000000
+      internalID: 5441165777579288377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_138
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 914
+        width: 287
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b82c2ec3e12d2e40800000000000000
+      internalID: 5633195971210651827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_139
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 818
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73808ad84248185c0800000000000000
+      internalID: -4214942483711784905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_140
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 815
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8636e98a1993700800000000000000
+      internalID: 520607385335851185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_141
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 818
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb886109f10bd20800000000000000
+      internalID: 3292166031321643782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_142
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 818
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742b34ae7fa42cd0800000000000000
+      internalID: -2583747327747742601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_143
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 815
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fd78be5ef368100800000000000000
+      internalID: 109845497648766736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_144
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 818
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fdfe5a79c8aa960800000000000000
+      internalID: 7614052702975156012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_145
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 818
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dc8410de0654240800000000000000
+      internalID: 4775329550941343109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_146
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 815
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb1fafc5c12be1a0800000000000000
+      internalID: -6779287680599516213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_147
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 818
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e875cf59ed57a7420800000000000000
+      internalID: 2628542931383637902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_148
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 722
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504dd587b484f1920800000000000000
+      internalID: 2963166568812237829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_149
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 719
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c8d4ef732b823e0800000000000000
+      internalID: -2078215274472043481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 722
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ba35f8bdee1ea20800000000000000
+      internalID: 3090013446122744645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_151
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 722
+        width: 137
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e28ccef568b0b630800000000000000
+      internalID: 3940852422155207401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_152
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 719
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2d008427d9a8340800000000000000
+      internalID: 4866875461487088352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_153
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 722
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff76e586f63022050800000000000000
+      internalID: 5774181449269667839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_154
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 623
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a8f23df7af2f670800000000000000
+      internalID: 8571188467750374011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_155
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2859d4eae083bb130800000000000000
+      internalID: 3583519564208379266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_156
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e118215c0227a95e0800000000000000
+      internalID: -1902082407539769058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_157
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef268276b89bd00800000000000000
+      internalID: 988974868360003219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_158
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73a11b8ff4b7550800000000000000
+      internalID: 6159604844901054377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_159
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 623
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eadb501d651a6ea0800000000000000
+      internalID: -5878862805408687386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_160
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473eda9d0594360d0800000000000000
+      internalID: -3430817879527922828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_161
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22748fed122858f0800000000000000
+      internalID: -551653442385055187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_162
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e5c01953892be90800000000000000
+      internalID: -7011374314028245413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_163
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 623
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcfd7e969ce7910800000000000000
+      internalID: 1837127154712693606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_164
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 623
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b1516c01636100800000000000000
+      internalID: 100030322532529237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_165
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 623
+        width: 242
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2340753e5c4645e60800000000000000
+      internalID: 7950090043301233714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_166
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 575
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7fb5fe6fb511500800000000000000
+      internalID: 365174160929585141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_167
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 635
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3371f3f03a77e0800000000000000
+      internalID: -1767046079503451391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_168
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 623
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277b548fcdc572140800000000000000
+      internalID: 4694823240684910450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_169
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 578
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc93d41235a00a40800000000000000
+      internalID: 5332443593323027650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_170
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 587
+        width: 47
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a1d0e10bac113e0800000000000000
+      internalID: -2084662294728599024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 527
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676ab6ed3809dfa60800000000000000
+      internalID: 7709477033174869622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_172
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72788ef1b6015b790800000000000000
+      internalID: -7515082350914926809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_173
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d84979235d07b50800000000000000
+      internalID: 6589000668111211930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3dcab476a95c3e0800000000000000
+      internalID: -2034049888245984341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_175
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f6b67d5d0dc4ae0800000000000000
+      internalID: -1563645353743651032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_176
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 527
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d4702af87c04a30800000000000000
+      internalID: 4197574272421940600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddc1d9fd7eaf3c50800000000000000
+      internalID: 6647223431107562973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_178
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb897f2d46786e00800000000000000
+      internalID: 1038209787989953513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_179
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13811313cb3f48490800000000000000
+      internalID: -7744797469565708239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_180
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 527
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a665a38130569130800000000000000
+      internalID: 3573131527957341856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_181
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 527
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8231cb68f565a6af0800000000000000
+      internalID: -402414248413883608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_182
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 527
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb98c504791add0800000000000000
+      internalID: -2476532017390830404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_183
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 539
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3881427cb2462fa0800000000000000
+      internalID: -5825895690818975684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_184
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 539
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f286121cc9e2a1b20800000000000000
+      internalID: 3105846143815346223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_185
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 431
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fed9394191f6660800000000000000
+      internalID: 7381145890450173771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a357d80a719b60800000000000000
+      internalID: 7751110612072243653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_187
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ca5f4280e2757a0800000000000000
+      internalID: -6388586933887062939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_188
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2c78f86d8af1880800000000000000
+      internalID: -8637999920788815184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_189
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242bfc9da397d74d0800000000000000
+      internalID: -3135216471910665662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_190
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 431
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10b1f0858e60220800000000000000
+      internalID: 2451902512058008041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_191
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd9b00287883b000800000000000000
+      internalID: 50534070346292729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_192
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94477062f656b8610800000000000000
+      internalID: 1624503618650993737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_193
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4041bef0f196e20800000000000000
+      internalID: 3344238351528232118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_194
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 431
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a0893e9c58b2b0800000000000000
+      internalID: -5568599104604297650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_195
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 431
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f6832303f7ba3e0800000000000000
+      internalID: -2041398161104670941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_196
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 431
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4849390fe54f410800000000000000
+      internalID: 1509936162437104805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_197
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 395
+        width: 278
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d88bb191bdb3270800000000000000
+      internalID: 8231413644835458402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_198
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 479
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b4398a48dc18680800000000000000
+      internalID: -8754490230983931065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_199
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 395
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d1d001e435e7e30800000000000000
+      internalID: 4503128272158924187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_200
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 335
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c60f435564a37830800000000000000
+      internalID: 4067775643542030025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_201
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449f471a7e6450930800000000000000
+      internalID: 4108768195705633092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_202
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378328d34c5213700800000000000000
+      internalID: 518236956900079731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_203
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9621dd1a3be4ae0800000000000000
+      internalID: -1563114512870905435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_204
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d2e9833b4136a10800000000000000
+      internalID: 1901386227662073237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_205
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 335
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a4d4aaab4b798c0800000000000000
+      internalID: -3992523830826546558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_206
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934088392ab7bca40800000000000000
+      internalID: 5389537317269013561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_207
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc11ce87e219ad40800000000000000
+      internalID: 5596024797726317775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_208
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bb1462e36c0e640800000000000000
+      internalID: 5107299947670256438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_209
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 335
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e62348d70cf4c110800000000000000
+      internalID: 1280425304703313632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_210
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 335
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a34ad558ef025e20800000000000000
+      internalID: 3337747764382155684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_211
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 335
+        width: 242
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23378a71fb066d5f0800000000000000
+      internalID: -732291515549191374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_212
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 287
+        width: 242
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b29669be4547970800000000000000
+      internalID: 8751713346705238910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_213
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 251
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9cff30064d909d0800000000000000
+      internalID: -2807479383839749661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_214
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2936c470d4dca00800000000000000
+      internalID: 778363004346667685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_215
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ee0201217da0c0800000000000000
+      internalID: -4562866460874054809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_216
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba57540ff0ba3920800000000000000
+      internalID: 2970881513540246201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_217
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a462296250ace0840800000000000000
+      internalID: 5192309543875520074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_218
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354195a8813a7a4c0800000000000000
+      internalID: -4276269995369360301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_219
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 239
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee250ded013fe570800000000000000
+      internalID: 8498064957752291051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_220
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e24e401f6033b820800000000000000
+      internalID: 2932741035921392357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_221
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cae455c26f60960800000000000000
+      internalID: 7568006894112910424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_222
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da580137f4270480800000000000000
+      internalID: -8933130691767936299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_223
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 239
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63c7380983ae0260800000000000000
+      internalID: 7065764674334606189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_224
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 191
+        width: 242
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e96104ca7028ae40800000000000000
+      internalID: 5667815842692295144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_225
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 191
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a950c364acb1270800000000000000
+      internalID: 8222387947698494049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_226
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 125
+        width: 242
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32eef29e7c0dbd30800000000000000
+      internalID: 4448725744683508284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_227
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 206
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8da40604c58e0c0800000000000000
+      internalID: -4546282392267335510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_228
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ab0d9973fd4040800000000000000
+      internalID: 4633627295285486395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_229
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ed607d8f1dcca0800000000000000
+      internalID: -5995100836623162877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_230
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bcd5ec60b162a10800000000000000
+      internalID: 1884223210147138388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_231
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614f2dd627d70160800000000000000
+      internalID: 6991793508435575148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_232
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc690157597d94f0800000000000000
+      internalID: -820366141182874413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_233
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88b6d04636ec6310800000000000000
+      internalID: 1399746704895817867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_234
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19742315e980c5af0800000000000000
+      internalID: -406440390310082671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_235
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 143
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f427ed931bc7d7f0800000000000000
+      internalID: -587777941234572044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_236
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 194
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f18b81841e0dc040800000000000000
+      internalID: 4669403869888610806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dcf50b267c32960800000000000000
+      internalID: 7576118224847097097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_238
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 143
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a483b63def0e360800000000000000
+      internalID: 7197032388528458397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_239
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 47
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14fe05bacba85060800000000000000
+      internalID: 6942487712701019167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_240
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 47
+        width: 242
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda4ad42fbbfb370800000000000000
+      internalID: 8340591684272565682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_241
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 143
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2772a8e818c862d0800000000000000
+      internalID: -3285155918859045077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_242
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 146
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ffbd37b320f5d60800000000000000
+      internalID: 7881020327291780917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_243
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b7c31c19dbc32f0800000000000000
+      internalID: -991709384218477773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_244
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3b7830477106890800000000000000
+      internalID: -7466942395137412180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_245
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e66718ece9c7080800000000000000
+      internalID: -9188294529970180477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_246
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749e5b4fecf265530800000000000000
+      internalID: 3843311897922627911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_247
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5699034ba79337e0800000000000000
+      internalID: -1786917865316051365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_248
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cbabf791ae51ce0800000000000000
+      internalID: -1434983511009608631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_249
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e988e3a11124c490800000000000000
+      internalID: -7727014701012842009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_250
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 47
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669480d85e768fce0800000000000000
+      internalID: -1371231850923013786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_251
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 95
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5fbc6c80ee3630800000000000000
+      internalID: 3908808420328693011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_252
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 98
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76dc7f532ac0abf50800000000000000
+      internalID: 6897839670101003623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_253
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 101
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d028ad0d24dba90800000000000000
+      internalID: -7296602356483748556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_254
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 98
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f5a2d9f4728ed0800000000000000
+      internalID: -2413237833987394805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_255
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 47
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fbd9049dc959290800000000000000
+      internalID: -7884223115736268931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_256
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 47
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9a3a0085f22810800000000000000
+      internalID: 1739222336394665356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_257
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 86
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66805e87e655b4310800000000000000
+      internalID: 1390298842936969318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_258
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 86
+        width: 77
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e0a2055abd9d120800000000000000
+      internalID: 2439222176258854492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_259
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad631191628afc230800000000000000
+      internalID: 3661329903658284762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_260
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2d068b83b8403f0800000000000000
+      internalID: -935469746858437927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_261
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4cb5c57085ccc20800000000000000
+      internalID: 3228051821555336404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_262
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c6708a27aca0420800000000000000
+      internalID: 2597110728926653479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_263
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a49922b75f9180800000000000000
+      internalID: -9106463498806450388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_264
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c45ca4c55dd8bcc0800000000000000
+      internalID: -3694960133815905084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_265
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb776b5bf0cd1bfa0800000000000000
+      internalID: -5786602086163122241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_266
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e9f6c049b4fff0800000000000000
+      internalID: -3174011853217243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Tilesheet (NO WATER LAYER)_267
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0557014ba1911a600800000000000000
+      internalID: 477690637958804816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

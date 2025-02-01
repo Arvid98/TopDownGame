@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 54901a5824dbd5048ad249baac722b0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5168412113593379590
+    second: Griffin_attack_0
+  - first:
+      213: 5544781495727863889
+    second: Griffin_attack_1
+  - first:
+      213: -5606356049436069824
+    second: Griffin_attack_2
+  - first:
+      213: 2784883892410916905
+    second: Griffin_attack_3
+  - first:
+      213: -2176042491962703792
+    second: Griffin_attack_4
+  - first:
+      213: -3705010114453228174
+    second: Griffin_attack_5
+  - first:
+      213: -4375937317252643894
+    second: Griffin_attack_6
+  - first:
+      213: -4524728358706125578
+    second: Griffin_attack_7
+  - first:
+      213: 5427353100756721482
+    second: Griffin_attack_8
+  - first:
+      213: -8841826802400005969
+    second: Griffin_attack_9
+  - first:
+      213: -4318575685188700844
+    second: Griffin_attack_10
+  - first:
+      213: 3566439390681991675
+    second: Griffin_attack_11
+  - first:
+      213: -79608697617215206
+    second: Griffin_attack_12
+  - first:
+      213: 3646561335783736613
+    second: Griffin_attack_13
+  - first:
+      213: 2511003323790431896
+    second: Griffin_attack_14
+  - first:
+      213: -5065704423561660751
+    second: Griffin_attack_15
+  - first:
+      213: 1943516829254412667
+    second: Griffin_attack_16
+  - first:
+      213: -4164998891743119664
+    second: Griffin_attack_17
+  - first:
+      213: 8984299905356557336
+    second: Griffin_attack_18
+  - first:
+      213: 8761446910112565238
+    second: Griffin_attack_19
+  - first:
+      213: -5487639218028252461
+    second: Griffin_attack_20
+  - first:
+      213: -2630053233448673860
+    second: Griffin_attack_21
+  - first:
+      213: 1339716368026260631
+    second: Griffin_attack_22
+  - first:
+      213: -4909848604108712454
+    second: Griffin_attack_23
+  - first:
+      213: 5472243574101675517
+    second: Griffin_attack_24
+  - first:
+      213: 8152654535631264518
+    second: Griffin_attack_25
+  - first:
+      213: 237069357939235689
+    second: Griffin_attack_26
+  - first:
+      213: -1864299765755429867
+    second: Griffin_attack_27
+  - first:
+      213: -5600224704982275717
+    second: Griffin_attack_28
+  - first:
+      213: -9097443087707016822
+    second: Griffin_attack_29
+  - first:
+      213: 5416810387541243102
+    second: Griffin_attack_30
+  - first:
+      213: -740526774230546275
+    second: Griffin_attack_31
+  - first:
+      213: 2949621921695713993
+    second: Griffin_attack_32
+  - first:
+      213: -8911353226685963000
+    second: Griffin_attack_33
+  - first:
+      213: 8820744789174780853
+    second: Griffin_attack_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Griffin_attack_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b2f831f63e9b740800000000000000
+      internalID: 5168412113593379590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 287
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b402946503fc40800000000000000
+      internalID: 5544781495727863889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 319
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040300570e83232b0800000000000000
+      internalID: -5606356049436069824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_3
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 319
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9202cdb2525e5a620800000000000000
+      internalID: 2784883892410916905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 319
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050486af1e42dc1e0800000000000000
+      internalID: -2176042491962703792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_5
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 287
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27539ce4ee8259cc0800000000000000
+      internalID: -3705010114453228174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 287
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3c7c5d13c8543c0800000000000000
+      internalID: -4375937317252643894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 287
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46f22e78fe431c0800000000000000
+      internalID: -4524728358706125578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_8
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 299
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1839c3e4d15b40800000000000000
+      internalID: 5427353100756721482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 299
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa07b658e558b4580800000000000000
+      internalID: -8841826802400005969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45530bc8b465114c0800000000000000
+      internalID: -4318575685188700844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 221
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf98f82eab98e7130800000000000000
+      internalID: 3566439390681991675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 215
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a119e71bf4c25eef0800000000000000
+      internalID: -79608697617215206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 223
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525401fe6303b9230800000000000000
+      internalID: 3646561335783736613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 215
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8969a581830e8d220800000000000000
+      internalID: 2511003323790431896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_15
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 223
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67b708aa003b9b0800000000000000
+      internalID: -5065704423561660751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_16
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 215
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79e3be4242c8fa10800000000000000
+      internalID: 1943516829254412667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d671c73393f236c0800000000000000
+      internalID: -4164998891743119664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 125
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c6a5eb925aeac70800000000000000
+      internalID: 8984299905356557336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 119
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f704bb6b89e69970800000000000000
+      internalID: 8761446910112565238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 127
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27ce9b43df7d3b0800000000000000
+      internalID: -5487639218028252461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 119
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd9cefc48c208bd0800000000000000
+      internalID: -2630053233448673860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7945bf740f0a79210800000000000000
+      internalID: 1339716368026260631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 119
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5172345b6bcdbb0800000000000000
+      internalID: -4909848604108712454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 31
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd8eb6998051fb40800000000000000
+      internalID: 5472243574101675517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 71
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b57c40b1c042170800000000000000
+      internalID: 8152654535631264518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 77
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b1913335d3a4300800000000000000
+      internalID: 237069357939235689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 77
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cbd439d3da026e0800000000000000
+      internalID: -1864299765755429867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_28
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 71
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b792a255d410842b0800000000000000
+      internalID: -5600224704982275717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_29
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 71
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81f3e846b36fb180800000000000000
+      internalID: -9097443087707016822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ba0519506c2b40800000000000000
+      internalID: 5416810387541243102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 37
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98825382de19b5f0800000000000000
+      internalID: -740526774230546275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 31
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac06092892fe820800000000000000
+      internalID: 2949621921695713993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8052a576473845480800000000000000
+      internalID: -8911353226685963000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Griffin_attack_34
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b30425c6a4996a70800000000000000
+      internalID: 8820744789174780853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
