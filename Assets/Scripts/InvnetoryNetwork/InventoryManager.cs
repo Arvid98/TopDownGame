@@ -10,6 +10,7 @@ public class InventoryManager : MonoBehaviour
         if (NetworkManager.Singleton.IsServer)
         {
             inventorySystem.AddItem(itemName, quantity); // on server
+            Debug.Log("added item" + itemName);
         }
         else
         {
@@ -22,6 +23,7 @@ public class InventoryManager : MonoBehaviour
         if (NetworkManager.Singleton.IsServer)
         {
             inventorySystem.RemoveItem(itemName, quantity); // on server
+            Debug.Log("remove item" + itemName);
         }
         else
         {

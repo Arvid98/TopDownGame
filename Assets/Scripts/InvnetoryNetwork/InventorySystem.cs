@@ -15,6 +15,7 @@ public class InventorySystem : NetworkBehaviour
         }
     }
 
+
     public override void OnNetworkDespawn()
     {
         if (IsClient)
