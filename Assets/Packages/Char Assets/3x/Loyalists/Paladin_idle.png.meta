@@ -131,19 +131,19 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 215
-        width: 192
-        height: 62
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 367f2bf3e3155d290800000000000000
-      internalID: -7866291846334187677
+      spriteID: 98ea24d500708ab40ad12e1903ebfd8d
+      internalID: 1751708973
       vertices: []
       indices: 
       edges: []
@@ -152,20 +152,20 @@ TextureImporter:
       name: Paladin_idle_1
       rect:
         serializedVersion: 2
-        x: 5
-        y: 143
-        width: 38
-        height: 62
+        x: 48
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 877ac4c7a44664830800000000000000
-      internalID: 4055038785569466232
+      spriteID: 284eb442e2a655d41aed272703dd51f2
+      internalID: 147425137
       vertices: []
       indices: 
       edges: []
@@ -174,20 +174,20 @@ TextureImporter:
       name: Paladin_idle_2
       rect:
         serializedVersion: 2
-        x: 53
-        y: 143
-        width: 38
-        height: 62
+        x: 96
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3207c8e017d13b4f0800000000000000
-      internalID: -814274736211333085
+      spriteID: 4dd314289b938da428845a7990e9f376
+      internalID: 1168888854
       vertices: []
       indices: 
       edges: []
@@ -196,20 +196,20 @@ TextureImporter:
       name: Paladin_idle_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 143
-        width: 38
-        height: 59
+        x: 144
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 08b6ee04edd685860800000000000000
-      internalID: 7518880379234577280
+      spriteID: 48b5e1054db14ed4a9afcf8b34136f36
+      internalID: 1987170929
       vertices: []
       indices: 
       edges: []
@@ -218,20 +218,20 @@ TextureImporter:
       name: Paladin_idle_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 143
-        width: 38
-        height: 59
+        x: 0
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: dc53e0749c8e30ae0800000000000000
-      internalID: -1584166692726098483
+      spriteID: 3914d488f3f03484e81f0398bf1de4e7
+      internalID: -601331563
       vertices: []
       indices: 
       edges: []
@@ -240,20 +240,20 @@ TextureImporter:
       name: Paladin_idle_5
       rect:
         serializedVersion: 2
-        x: 5
-        y: 71
-        width: 38
-        height: 62
+        x: 48
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cd9dd5d7c6880cab0800000000000000
-      internalID: -4989838387585361444
+      spriteID: 7bb0b4eb9f0a9264cbb1b0dbb48926fc
+      internalID: -1383002123
       vertices: []
       indices: 
       edges: []
@@ -262,20 +262,20 @@ TextureImporter:
       name: Paladin_idle_6
       rect:
         serializedVersion: 2
-        x: 53
-        y: 71
-        width: 38
-        height: 62
+        x: 96
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3f2b82a726b4801c0800000000000000
-      internalID: -4537293738247408909
+      spriteID: e72950a5c30d3a2409639e47065bc395
+      internalID: -562358150
       vertices: []
       indices: 
       edges: []
@@ -284,20 +284,20 @@ TextureImporter:
       name: Paladin_idle_7
       rect:
         serializedVersion: 2
-        x: 101
-        y: 71
-        width: 38
-        height: 59
+        x: 144
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f7e8b2af97f94f5f0800000000000000
-      internalID: -723778293862789505
+      spriteID: de7a4e69a65963a43bffdf9f621084c2
+      internalID: -762293758
       vertices: []
       indices: 
       edges: []
@@ -306,20 +306,20 @@ TextureImporter:
       name: Paladin_idle_8
       rect:
         serializedVersion: 2
-        x: 149
+        x: 0
         y: 71
-        width: 38
-        height: 59
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6882951cf8dc272d0800000000000000
-      internalID: -3282335161091807098
+      spriteID: 101c7f50c476dd240a38261663039c5e
+      internalID: -308582721
       vertices: []
       indices: 
       edges: []
@@ -328,20 +328,152 @@ TextureImporter:
       name: Paladin_idle_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 192
-        height: 61
+        x: 48
+        y: 71
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43a43f9c4eca72740800000000000000
-      internalID: 5127256799425284660
+      spriteID: 3811c4e787a04034cac57cc3a9412c77
+      internalID: 338230505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30752fcdcc61ad458eb91021a625eaa
+      internalID: 23132447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 71
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5504224a9cf2409c75bab3e4d509c
+      internalID: 1100362013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8778ddef4d1fc84bbfa0aba23d7900e
+      internalID: -314890099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b80fa31eaf874bb590c4eb0c986d5
+      internalID: -872219705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15a58a220a6dff41bda5585bab55286
+      internalID: 1200486096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_idle_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225a6e4f5feb45f4da1b8726fb4dc0bb
+      internalID: 629189609
       vertices: []
       indices: 
       edges: []
@@ -350,7 +482,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d450bbccde46c7841bae4751e3d2f192
     internalID: 0
     vertices: []
     indices: 
@@ -359,7 +491,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_idle_0: 1751708973
+      Paladin_idle_1: 147425137
+      Paladin_idle_10: 23132447
+      Paladin_idle_11: 1100362013
+      Paladin_idle_12: -314890099
+      Paladin_idle_13: -872219705
+      Paladin_idle_14: 1200486096
+      Paladin_idle_15: 629189609
+      Paladin_idle_2: 1168888854
+      Paladin_idle_3: 1987170929
+      Paladin_idle_4: -601331563
+      Paladin_idle_5: -1383002123
+      Paladin_idle_6: -562358150
+      Paladin_idle_7: -762293758
+      Paladin_idle_8: -308582721
+      Paladin_idle_9: 338230505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
