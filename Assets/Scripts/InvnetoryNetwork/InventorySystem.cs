@@ -5,58 +5,91 @@ using UnityEngine;
 
 public class InventorySystem : NetworkBehaviour
 {
-    private NetworkList<InventoryItemData> inventory = new NetworkList<InventoryItemData>();
+  
+    private NetworkList<InventoryItemData> inventory;
+
+    private void Awake()
+    {
+        inventory = new NetworkList<InventoryItemData>();
+    }
 
     public override void OnNetworkSpawn()
     {
         if (IsClient)
         {
-            inventory.OnListChanged += OnInventoryChanged;
+            inventory.OnListChanged += HandleInventoryChanged;
         }
     }
-
 
     public override void OnNetworkDespawn()
     {
         if (IsClient)
         {
-            inventory.OnListChanged -= OnInventoryChanged;
+            inventory.OnListChanged -= HandleInventoryChanged;
         }
     }
 
+    
     public void AddItem(string itemName, int quantity)
     {
-        if (IsServer) 
+        if (!IsServer)
         {
-            int index = GetItemIndex(itemName);
-            if (index >= 0)
+          
+            return;
+        }
+
+        int index = GetItemIndex(itemName);
+        if (index >= 0)
+        {
+            var item = inventory[index];
+            item.quantity += quantity;
+            inventory[index] = item;
+        }
+        else
+        {
+            InventoryItemData newItem = new InventoryItemData
             {
-                var item = inventory[index];
-                item.quantity += quantity;
-                inventory[index] = item;
-            }
-            else
-            {
-                inventory.Add(new InventoryItemData
-                {
-                    itemName = new FixedString32Bytes(itemName),
-                    quantity = quantity
-                });
-            }
+                itemName = new FixedString32Bytes(itemName),
+                quantity = quantity
+            };
+            inventory.Add(newItem);
         }
     }
 
 
     public void RemoveItem(string itemName, int quantity)
     {
-        if (IsServer)
+        if (!IsServer)
         {
-            int index = GetItemIndex(itemName);
-            if (index >= 0)
-            {
-                var item = inventory[index];
-                item.quantity -= quantity;
+          
+            return;
+        }
 
+        int index = GetItemIndex(itemName);
+        if (index >= 0)
+        {
+            var item = inventory[index];
+            item.quantity -= quantity;
+            if (item.quantity <= 0)
+            {
+                inventory.RemoveAt(index);
+            }
+            else
+            {
+                inventory[index] = item;
+            }
+        }
+    }
+
+    public bool TryRemoveItem(string itemName, int quantity)
+    {
+        int index = GetItemIndex(itemName);
+        if (index >= 0)
+        {
+            var item = inventory[index];
+            if (item.quantity >= quantity)
+            {
+                item.quantity -= quantity;
                 if (item.quantity <= 0)
                 {
                     inventory.RemoveAt(index);
@@ -65,10 +98,11 @@ public class InventorySystem : NetworkBehaviour
                 {
                     inventory[index] = item;
                 }
+                return true;
             }
         }
+        return false;
     }
-
     private int GetItemIndex(string itemName)
     {
         for (int i = 0; i < inventory.Count; i++)
@@ -78,22 +112,22 @@ public class InventorySystem : NetworkBehaviour
                 return i;
             }
         }
-        return -1; 
+        return -1;
     }
 
-    private void OnInventoryChanged(NetworkListEvent<InventoryItemData> changeEvent)
+    private void HandleInventoryChanged(NetworkListEvent<InventoryItemData> changeEvent)
     {
-        Debug.Log($"Inventory updated: {changeEvent.Type}");
+     
     }
+
 
     public List<InventoryItemData> GetInventory()
     {
-        List<InventoryItemData> inventoryList = new List<InventoryItemData>();
-        foreach (var item in inventory)
+        List<InventoryItemData> list = new List<InventoryItemData>();
+        for (int i = 0; i < inventory.Count; i++)
         {
-            inventoryList.Add(item);
+            list.Add(inventory[i]);
         }
-        return inventoryList;
+        return list;
     }
-
 }

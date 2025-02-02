@@ -1,36 +1,69 @@
 using UnityEngine;
-using TMPro;
 using UnityEngine.UI;
+using Unity.Netcode;
+using System.Collections;
 
 public class TestUI : MonoBehaviour
 {
-    public InventoryManager inventoryManager;
-    public InventoryUI inventoryUI;
-    public TMP_Text inventoryDisplay;
-    public Button addItemButton;
-    public Button removeItemButton;
+    [SerializeField] private Button addItemButton;
+    [SerializeField] private Button removeItemButton;
+    [SerializeField] private InventoryUI inventoryUI;
 
-    void Start()
-    {
-        //addItemButton.onClick.AddListener(() => inventoryManager.RequestAddItem("Sword", 1));
-        //removeItemButton.onClick.AddListener(() => inventoryManager.RequestRemoveItem("Sword", 1));
-    }
+    private InventoryManager inventoryManager;
 
-    void Update()
+    private IEnumerator Start()
     {
-        if (inventoryUI != null && inventoryManager.inventorySystem != null)
+      
+        while (NetworkManager.Singleton == null ||
+               NetworkManager.Singleton.SpawnManager == null ||
+               NetworkManager.Singleton.SpawnManager.GetLocalPlayerObject() == null)
         {
-            inventoryUI.UpdateInventoryUI(inventoryManager.inventorySystem);
-           
+            yield return null;
+        }
+
+   
+        GameObject localPlayer = NetworkManager.Singleton.SpawnManager.GetLocalPlayerObject().gameObject;
+        inventoryManager = localPlayer.GetComponent<InventoryManager>();
+
+        if (inventoryManager == null)
+        {
+            Debug.LogError("InventoryManager saknas på den lokala spelaren!");
+        }
+
+        if (addItemButton != null)
+        {
+            addItemButton.onClick.AddListener(() =>
+            {
+                if (inventoryManager != null)
+                    inventoryManager.RequestAddItem("Sword", 1);
+            });
+        }
+        else
+        {
+            Debug.LogError("addItemButton är inte tilldelad i Inspector!");
+        }
+
+        if (removeItemButton != null)
+        {
+            removeItemButton.onClick.AddListener(() =>
+            {
+                if (inventoryManager != null)
+                    inventoryManager.RequestRemoveItem("Sword", 1);
+            });
+        }
+        else
+        {
+            Debug.LogError("removeItemButton är inte tilldelad i Inspector!");
         }
     }
-    public void AddItem()
-    {
-        inventoryManager.RequestAddItem("Sword", 1);
-    }
 
-    public void RemoveItem()
+    private void Update()
     {
-        inventoryManager.RequestRemoveItem("Sword", 1);
+      
+        if (inventoryUI != null && inventoryManager != null)
+        {
+            InventorySystem invSystem = inventoryManager.GetComponent<InventorySystem>();
+            inventoryUI.UpdateInventoryUI(invSystem);
+        }
     }
 }

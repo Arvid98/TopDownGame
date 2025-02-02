@@ -1,45 +1,43 @@
 using Unity.Netcode;
 using UnityEngine;
 
-public class InventoryManager : MonoBehaviour
+public class InventoryManager : NetworkBehaviour
 {
-    public InventorySystem inventorySystem; 
+    private InventorySystem inventorySystem;
 
+    private void Awake()
+    {
+        inventorySystem = GetComponent<InventorySystem>();
+        if (inventorySystem == null)
+        {
+            Debug.LogError("InventorySystem saknas på " + gameObject.name);
+        }
+    }
+
+ 
     public void RequestAddItem(string itemName, int quantity)
     {
-        if (NetworkManager.Singleton.IsServer)
-        {
-            inventorySystem.AddItem(itemName, quantity); // on server
-            Debug.Log("added item" + itemName);
-        }
-        else
-        {
-            SubmitAddItemRequestServerRpc(itemName, quantity);
-        }
+        SubmitAddItemServerRpc(itemName, quantity);
     }
 
+  
     public void RequestRemoveItem(string itemName, int quantity)
     {
-        if (NetworkManager.Singleton.IsServer)
-        {
-            inventorySystem.RemoveItem(itemName, quantity); // on server
-            Debug.Log("remove item" + itemName);
-        }
-        else
-        {
-            SubmitRemoveItemRequestServerRpc(itemName, quantity);
-        }
+        SubmitRemoveItemServerRpc(itemName, quantity);
     }
 
-    [ServerRpc]
-    private void SubmitAddItemRequestServerRpc(string itemName, int quantity)
+
+    [ServerRpc(RequireOwnership = true)]
+    private void SubmitAddItemServerRpc(string itemName, int quantity, ServerRpcParams rpcParams = default)
     {
         inventorySystem.AddItem(itemName, quantity);
+        Debug.Log($"Added {itemName} x{quantity} to inventory of client {OwnerClientId}");
     }
 
-    [ServerRpc]
-    private void SubmitRemoveItemRequestServerRpc(string itemName, int quantity)
+    [ServerRpc(RequireOwnership = true)]
+    private void SubmitRemoveItemServerRpc(string itemName, int quantity, ServerRpcParams rpcParams = default)
     {
         inventorySystem.RemoveItem(itemName, quantity);
+        Debug.Log($"Removed {itemName} x{quantity} from inventory of client {OwnerClientId}");
     }
 }
