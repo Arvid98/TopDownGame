@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 13d35719037a7374b94d723defba6a9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -147490168726128864
+    second: YoungGreenDragon_fly_0
+  - first:
+      213: 2857218251488041220
+    second: YoungGreenDragon_fly_1
+  - first:
+      213: -5116500092562455323
+    second: YoungGreenDragon_fly_2
+  - first:
+      213: -6148286821363335905
+    second: YoungGreenDragon_fly_3
+  - first:
+      213: 1636081227669933878
+    second: YoungGreenDragon_fly_4
+  - first:
+      213: -3505642204960211263
+    second: YoungGreenDragon_fly_5
+  - first:
+      213: -5564807048885239881
+    second: YoungGreenDragon_fly_6
+  - first:
+      213: 5903954481456974860
+    second: YoungGreenDragon_fly_7
+  - first:
+      213: 2434509735268260300
+    second: YoungGreenDragon_fly_8
+  - first:
+      213: -4723710773463443734
+    second: YoungGreenDragon_fly_9
+  - first:
+      213: -7401666087573220515
+    second: YoungGreenDragon_fly_10
+  - first:
+      213: -5287562952333448449
+    second: YoungGreenDragon_fly_11
+  - first:
+      213: -3082625358270788748
+    second: YoungGreenDragon_fly_12
+  - first:
+      213: -499290208532398320
+    second: YoungGreenDragon_fly_13
+  - first:
+      213: -7633792011167172158
+    second: YoungGreenDragon_fly_14
+  - first:
+      213: -9056493669577768285
+    second: YoungGreenDragon_fly_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0277735197204fdf0800000000000000
+      internalID: -147490168726128864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40915bd8cd0e6a720800000000000000
+      internalID: 2857218251488041220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4cf81364a8ef8b0800000000000000
+      internalID: -5116500092562455323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3c6306b5ecaaa0800000000000000
+      internalID: -6148286821363335905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f83fe453784b610800000000000000
+      internalID: 1636081227669933878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cebabffcf4795fc0800000000000000
+      internalID: -3505642204960211263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bffa9ff875d5c2b0800000000000000
+      internalID: -5564807048885239881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8155025f0fe150800000000000000
+      internalID: 5903954481456974860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 31
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc915e4a4bd19c120800000000000000
+      internalID: 2434509735268260300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6960e2412027eb0800000000000000
+      internalID: -4723710773463443734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d539428b8eff74990800000000000000
+      internalID: -7401666087573220515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa26a2728dce96b0800000000000000
+      internalID: -5287562952333448449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b88a0b1905835d0800000000000000
+      internalID: -3082625358270788748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f7890633a2219f0800000000000000
+      internalID: -499290208532398320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c97a258c925f0690800000000000000
+      internalID: -7633792011167172158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YoungGreenDragon_fly_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a24e3aadfed05280800000000000000
+      internalID: -9056493669577768285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YoungGreenDragon_fly_0: -147490168726128864
+      YoungGreenDragon_fly_1: 2857218251488041220
+      YoungGreenDragon_fly_10: -7401666087573220515
+      YoungGreenDragon_fly_11: -5287562952333448449
+      YoungGreenDragon_fly_12: -3082625358270788748
+      YoungGreenDragon_fly_13: -499290208532398320
+      YoungGreenDragon_fly_14: -7633792011167172158
+      YoungGreenDragon_fly_15: -9056493669577768285
+      YoungGreenDragon_fly_2: -5116500092562455323
+      YoungGreenDragon_fly_3: -6148286821363335905
+      YoungGreenDragon_fly_4: 1636081227669933878
+      YoungGreenDragon_fly_5: -3505642204960211263
+      YoungGreenDragon_fly_6: -5564807048885239881
+      YoungGreenDragon_fly_7: 5903954481456974860
+      YoungGreenDragon_fly_8: 2434509735268260300
+      YoungGreenDragon_fly_9: -4723710773463443734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

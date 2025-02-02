@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: dbd910483f1a77c4dae455e0d56c1c31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6687717640158396455
+    second: FrostGiant_attack_hitbox_0
+  - first:
+      213: 5462812302634806663
+    second: FrostGiant_attack_hitbox_1
+  - first:
+      213: 3024943740036839657
+    second: FrostGiant_attack_hitbox_2
+  - first:
+      213: -5955245092985183847
+    second: FrostGiant_attack_hitbox_3
+  - first:
+      213: -4201943357055208132
+    second: FrostGiant_attack_hitbox_4
+  - first:
+      213: 7759671306666720755
+    second: FrostGiant_attack_hitbox_5
+  - first:
+      213: -3843447814616790224
+    second: FrostGiant_attack_hitbox_6
+  - first:
+      213: 4872164892040944135
+    second: FrostGiant_attack_hitbox_7
+  - first:
+      213: -5268712285303112696
+    second: FrostGiant_attack_hitbox_8
+  - first:
+      213: 2545169473047396679
+    second: FrostGiant_attack_hitbox_9
+  - first:
+      213: -5161529692661919855
+    second: FrostGiant_attack_hitbox_10
+  - first:
+      213: -4475239190689509917
+    second: FrostGiant_attack_hitbox_11
+  - first:
+      213: 4690287605152050246
+    second: FrostGiant_attack_hitbox_12
+  - first:
+      213: 8556631290554495293
+    second: FrostGiant_attack_hitbox_13
+  - first:
+      213: -4718653431863557672
+    second: FrostGiant_attack_hitbox_14
+  - first:
+      213: 9220382145144544035
+    second: FrostGiant_attack_hitbox_15
+  - first:
+      213: 4471642050617533046
+    second: FrostGiant_attack_hitbox_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 383
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfbe344d347033a0800000000000000
+      internalID: -6687717640158396455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 397
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d6e2598decfcb40800000000000000
+      internalID: 5462812302634806663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 403
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8ff620e42caf920800000000000000
+      internalID: 3024943740036839657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 411
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991ea32e328ba5da0800000000000000
+      internalID: -5955245092985183847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35796497c2bfa5c0800000000000000
+      internalID: -4201943357055208132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 289
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd39afd0f3efab60800000000000000
+      internalID: 7759671306666720755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_6
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 289
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc309739459aac0800000000000000
+      internalID: -3843447814616790224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 289
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ada3dc7286d9340800000000000000
+      internalID: 4872164892040944135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 161
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c75c26716c1e6b0800000000000000
+      internalID: -5268712285303112696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741882e9622425320800000000000000
+      internalID: 2545169473047396679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 161
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f414b67109e58b0800000000000000
+      internalID: -5161529692661919855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_11
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed8b0abaa1c4e1c0800000000000000
+      internalID: -4475239190689509917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 51
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c61870abf371140800000000000000
+      internalID: 4690287605152050246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 51
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d313e73e2d24fb670800000000000000
+      internalID: 8556631290554495293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 73
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1489744b9f38eb0800000000000000
+      internalID: -4718653431863557672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 51
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bd1b695b065ff70800000000000000
+      internalID: 9220382145144544035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrostGiant_attack_hitbox_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e1c5d0c67e0e30800000000000000
+      internalID: 4471642050617533046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FrostGiant_attack_hitbox_0: -6687717640158396455
+      FrostGiant_attack_hitbox_1: 5462812302634806663
+      FrostGiant_attack_hitbox_10: -5161529692661919855
+      FrostGiant_attack_hitbox_11: -4475239190689509917
+      FrostGiant_attack_hitbox_12: 4690287605152050246
+      FrostGiant_attack_hitbox_13: 8556631290554495293
+      FrostGiant_attack_hitbox_14: -4718653431863557672
+      FrostGiant_attack_hitbox_15: 9220382145144544035
+      FrostGiant_attack_hitbox_16: 4471642050617533046
+      FrostGiant_attack_hitbox_2: 3024943740036839657
+      FrostGiant_attack_hitbox_3: -5955245092985183847
+      FrostGiant_attack_hitbox_4: -4201943357055208132
+      FrostGiant_attack_hitbox_5: 7759671306666720755
+      FrostGiant_attack_hitbox_6: -3843447814616790224
+      FrostGiant_attack_hitbox_7: 4872164892040944135
+      FrostGiant_attack_hitbox_8: -5268712285303112696
+      FrostGiant_attack_hitbox_9: 2545169473047396679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 4eb5b69094d34c34a9670d85be31447f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 238192640672109003
+    second: Bulette_attack_0
+  - first:
+      213: -9110249995507322504
+    second: Bulette_attack_1
+  - first:
+      213: 8615407564283154034
+    second: Bulette_attack_2
+  - first:
+      213: -5753015479573843209
+    second: Bulette_attack_3
+  - first:
+      213: -5167553191774741260
+    second: Bulette_attack_4
+  - first:
+      213: -6313582731671423372
+    second: Bulette_attack_5
+  - first:
+      213: 9075912201116872457
+    second: Bulette_attack_6
+  - first:
+      213: 518764844947652199
+    second: Bulette_attack_7
+  - first:
+      213: -7770439150272110680
+    second: Bulette_attack_8
+  - first:
+      213: -2659031280050403689
+    second: Bulette_attack_9
+  - first:
+      213: -3765214349642848905
+    second: Bulette_attack_10
+  - first:
+      213: -1728713422259586090
+    second: Bulette_attack_11
+  - first:
+      213: -5121759495788232902
+    second: Bulette_attack_12
+  - first:
+      213: -1432215872885569097
+    second: Bulette_attack_13
+  - first:
+      213: -3227776071569984187
+    second: Bulette_attack_14
+  - first:
+      213: -1342975061489156665
+    second: Bulette_attack_15
+  - first:
+      213: -9158778794129424459
+    second: Bulette_attack_16
+  - first:
+      213: 8823360353355274223
+    second: Bulette_attack_17
+  - first:
+      213: -1028867774882297242
+    second: Bulette_attack_18
+  - first:
+      213: -3691428195740778419
+    second: Bulette_attack_19
+  - first:
+      213: 4583657325925884534
+    second: Bulette_attack_20
+  - first:
+      213: -873486568926849112
+    second: Bulette_attack_21
+  - first:
+      213: -5840966994295689085
+    second: Bulette_attack_22
+  - first:
+      213: -8279224534019562498
+    second: Bulette_attack_23
+  - first:
+      213: 1123433360281808048
+    second: Bulette_attack_24
+  - first:
+      213: 4163285267753160080
+    second: Bulette_attack_25
+  - first:
+      213: 3933747988447900416
+    second: Bulette_attack_26
+  - first:
+      213: 622869013842754698
+    second: Bulette_attack_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bulette_attack_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc19f57d1fa3e4300800000000000000
+      internalID: 238192640672109003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87138c2b5e3e19180800000000000000
+      internalID: -9110249995507322504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 148
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e8f488883109770800000000000000
+      internalID: 8615407564283154034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 144
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f27da0f6ee2920b0800000000000000
+      internalID: -5753015479573843209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc945e30c92948b0800000000000000
+      internalID: -5167553191774741260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_5
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 143
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763fa2d4f5a168a0800000000000000
+      internalID: -6313582731671423372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f64388f0e14fd70800000000000000
+      internalID: 9075912201116872457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_7
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 143
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb011c0e5033700800000000000000
+      internalID: 518764844947652199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1e3b23cad92490800000000000000
+      internalID: -7770439150272110680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 116
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79681f19329391bd0800000000000000
+      internalID: -2659031280050403689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a55a7f754fbbc0800000000000000
+      internalID: -3765214349642848905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db74c33d406208e0800000000000000
+      internalID: -1728713422259586090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 111
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ffe84ffdadbe8b0800000000000000
+      internalID: -5121759495788232902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9caf6704fbf1ce0800000000000000
+      internalID: -1432215872885569097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545b09fa3c2a433d0800000000000000
+      internalID: -3227776071569984187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdfab50c4bcc5de0800000000000000
+      internalID: -1342975061489156665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bff887463b75e080800000000000000
+      internalID: -9158778794129424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe791034e7fd27a70800000000000000
+      internalID: 8823360353355274223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a4b4db53ab8b1f0800000000000000
+      internalID: -1028867774882297242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_19
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 31
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40820f2d9965ccc0800000000000000
+      internalID: -3691428195740778419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672edeb7d0c6c9f30800000000000000
+      internalID: 4583657325925884534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_21
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 32
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75a0fe790c0e3f0800000000000000
+      internalID: -873486568926849112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 31
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38079382777b0fea0800000000000000
+      internalID: -5840966994295689085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a01ac6294a1d80800000000000000
+      internalID: -8279224534019562498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcab6060bc379f00800000000000000
+      internalID: 1123433360281808048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d4b0b94e5f6c930800000000000000
+      internalID: 4163285267753160080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003385f14fa779630800000000000000
+      internalID: 3933747988447900416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bulette_attack_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf1b76110e4a800800000000000000
+      internalID: 622869013842754698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bulette_attack_0: 238192640672109003
+      Bulette_attack_1: -9110249995507322504
+      Bulette_attack_10: -3765214349642848905
+      Bulette_attack_11: -1728713422259586090
+      Bulette_attack_12: -5121759495788232902
+      Bulette_attack_13: -1432215872885569097
+      Bulette_attack_14: -3227776071569984187
+      Bulette_attack_15: -1342975061489156665
+      Bulette_attack_16: -9158778794129424459
+      Bulette_attack_17: 8823360353355274223
+      Bulette_attack_18: -1028867774882297242
+      Bulette_attack_19: -3691428195740778419
+      Bulette_attack_2: 8615407564283154034
+      Bulette_attack_20: 4583657325925884534
+      Bulette_attack_21: -873486568926849112
+      Bulette_attack_22: -5840966994295689085
+      Bulette_attack_23: -8279224534019562498
+      Bulette_attack_24: 1123433360281808048
+      Bulette_attack_25: 4163285267753160080
+      Bulette_attack_26: 3933747988447900416
+      Bulette_attack_27: 622869013842754698
+      Bulette_attack_3: -5753015479573843209
+      Bulette_attack_4: -5167553191774741260
+      Bulette_attack_5: -6313582731671423372
+      Bulette_attack_6: 9075912201116872457
+      Bulette_attack_7: 518764844947652199
+      Bulette_attack_8: -7770439150272110680
+      Bulette_attack_9: -2659031280050403689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

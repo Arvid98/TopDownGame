@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 09c7781cafc5e984898579cef0b492a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8503057940692534088
+    second: PurpleWorm_attack_0
+  - first:
+      213: 1343829323097103284
+    second: PurpleWorm_attack_1
+  - first:
+      213: 2193253775967215013
+    second: PurpleWorm_attack_2
+  - first:
+      213: 9002064316415472472
+    second: PurpleWorm_attack_3
+  - first:
+      213: 6225784169884672630
+    second: PurpleWorm_attack_4
+  - first:
+      213: -6287233134414974137
+    second: PurpleWorm_attack_5
+  - first:
+      213: 3575418720797057476
+    second: PurpleWorm_attack_6
+  - first:
+      213: 538850728668845940
+    second: PurpleWorm_attack_7
+  - first:
+      213: 6518498793728260623
+    second: PurpleWorm_attack_8
+  - first:
+      213: -7355918363704111831
+    second: PurpleWorm_attack_9
+  - first:
+      213: 337877700345213869
+    second: PurpleWorm_attack_10
+  - first:
+      213: 7057889296173122268
+    second: PurpleWorm_attack_11
+  - first:
+      213: -5056895737509585997
+    second: PurpleWorm_attack_12
+  - first:
+      213: -9103920363278976917
+    second: PurpleWorm_attack_13
+  - first:
+      213: 210834611195627320
+    second: PurpleWorm_attack_14
+  - first:
+      213: -5177791574893721877
+    second: PurpleWorm_attack_15
+  - first:
+      213: 4394599723514665442
+    second: PurpleWorm_attack_16
+  - first:
+      213: 3613583851760305791
+    second: PurpleWorm_attack_17
+  - first:
+      213: 3572808242909894178
+    second: PurpleWorm_attack_18
+  - first:
+      213: -5488336720675128983
+    second: PurpleWorm_attack_19
+  - first:
+      213: -5824557913917390207
+    second: PurpleWorm_attack_20
+  - first:
+      213: 7522499480313712862
+    second: PurpleWorm_attack_21
+  - first:
+      213: -7788655453705856390
+    second: PurpleWorm_attack_22
+  - first:
+      213: -2855863334123389940
+    second: PurpleWorm_attack_23
+  - first:
+      213: 4201951692634724420
+    second: PurpleWorm_attack_24
+  - first:
+      213: -828628268237611895
+    second: PurpleWorm_attack_25
+  - first:
+      213: -2710216958584236641
+    second: PurpleWorm_attack_26
+  - first:
+      213: 825593135736608990
+    second: PurpleWorm_attack_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PurpleWorm_attack_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 207
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcf474aad11ff980800000000000000
+      internalID: -8503057940692534088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 199
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbd4f146ad36a210800000000000000
+      internalID: 1343829323097103284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 194
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad5fca50b0007e10800000000000000
+      internalID: 2193253775967215013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 199
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853f9210dc1cdec70800000000000000
+      internalID: 9002064316415472472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_4
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 201
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e93687bd666650800000000000000
+      internalID: 6225784169884672630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 192
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743312386c24fb8a0800000000000000
+      internalID: -6287233134414974137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 193
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e36812607e9130800000000000000
+      internalID: 3575418720797057476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 192
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477544df1e16a7700800000000000000
+      internalID: 538850728668845940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 143
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a3cfccd1c567a50800000000000000
+      internalID: 6518498793728260623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc4a6b8378ae990800000000000000
+      internalID: -7355918363704111831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 143
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da33a927af160b400800000000000000
+      internalID: 337877700345213869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 143
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd24e6aabe8a2f160800000000000000
+      internalID: 7057889296173122268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbdd8b8e1c42d9b0800000000000000
+      internalID: -5056895737509585997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68bf4b0aa068a180800000000000000
+      internalID: -9103920363278976917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8374caa36f80de200800000000000000
+      internalID: 210834611195627320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_15
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60379eef9c428b0800000000000000
+      internalID: -5177791574893721877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 79
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91f1a3a21ccfc30800000000000000
+      internalID: 4394599723514665442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c24a1e57062230800000000000000
+      internalID: 3613583851760305791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2265b39da2a259130800000000000000
+      internalID: 3572808242909894178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 56
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9693d6cb4d285d3b0800000000000000
+      internalID: -5488336720675128983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_20
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1828347ef630b2fa0800000000000000
+      internalID: -5824557913917390207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0d823eb69456860800000000000000
+      internalID: 7522499480313712862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 50
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a14f3812329e390800000000000000
+      internalID: -7788655453705856390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_23
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c338abd6fed58d0800000000000000
+      internalID: -2855863334123389940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44818d23dc4505a30800000000000000
+      internalID: 4201951692634724420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c99d4fafe1084f0800000000000000
+      internalID: -828628268237611895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95d8571900636ad0800000000000000
+      internalID: -2710216958584236641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PurpleWorm_attack_27
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 15
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8d4903598157b00800000000000000
+      internalID: 825593135736608990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PurpleWorm_attack_0: -8503057940692534088
+      PurpleWorm_attack_1: 1343829323097103284
+      PurpleWorm_attack_10: 337877700345213869
+      PurpleWorm_attack_11: 7057889296173122268
+      PurpleWorm_attack_12: -5056895737509585997
+      PurpleWorm_attack_13: -9103920363278976917
+      PurpleWorm_attack_14: 210834611195627320
+      PurpleWorm_attack_15: -5177791574893721877
+      PurpleWorm_attack_16: 4394599723514665442
+      PurpleWorm_attack_17: 3613583851760305791
+      PurpleWorm_attack_18: 3572808242909894178
+      PurpleWorm_attack_19: -5488336720675128983
+      PurpleWorm_attack_2: 2193253775967215013
+      PurpleWorm_attack_20: -5824557913917390207
+      PurpleWorm_attack_21: 7522499480313712862
+      PurpleWorm_attack_22: -7788655453705856390
+      PurpleWorm_attack_23: -2855863334123389940
+      PurpleWorm_attack_24: 4201951692634724420
+      PurpleWorm_attack_25: -828628268237611895
+      PurpleWorm_attack_26: -2710216958584236641
+      PurpleWorm_attack_27: 825593135736608990
+      PurpleWorm_attack_3: 9002064316415472472
+      PurpleWorm_attack_4: 6225784169884672630
+      PurpleWorm_attack_5: -6287233134414974137
+      PurpleWorm_attack_6: 3575418720797057476
+      PurpleWorm_attack_7: 538850728668845940
+      PurpleWorm_attack_8: 6518498793728260623
+      PurpleWorm_attack_9: -7355918363704111831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

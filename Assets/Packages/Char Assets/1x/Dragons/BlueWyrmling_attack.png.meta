@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: c3527446fe8716449871b29e7152f5ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 552563201066399668
+    second: BlueWyrmling_attack_0
+  - first:
+      213: -4995151195291408172
+    second: BlueWyrmling_attack_1
+  - first:
+      213: -3190593046489292670
+    second: BlueWyrmling_attack_2
+  - first:
+      213: -2906470498428293643
+    second: BlueWyrmling_attack_3
+  - first:
+      213: -7174552877028920685
+    second: BlueWyrmling_attack_4
+  - first:
+      213: -8976141564886095679
+    second: BlueWyrmling_attack_5
+  - first:
+      213: -2798549807199283013
+    second: BlueWyrmling_attack_6
+  - first:
+      213: 2316440542388926103
+    second: BlueWyrmling_attack_7
+  - first:
+      213: 3944459854345196048
+    second: BlueWyrmling_attack_8
+  - first:
+      213: -3303902184107814237
+    second: BlueWyrmling_attack_9
+  - first:
+      213: -3112450831723867886
+    second: BlueWyrmling_attack_10
+  - first:
+      213: 5693713609722269373
+    second: BlueWyrmling_attack_11
+  - first:
+      213: 3714620696595699086
+    second: BlueWyrmling_attack_12
+  - first:
+      213: 458803929913718962
+    second: BlueWyrmling_attack_13
+  - first:
+      213: -147454505096034250
+    second: BlueWyrmling_attack_14
+  - first:
+      213: 4659194188070957043
+    second: BlueWyrmling_attack_15
+  - first:
+      213: -3938775792915344302
+    second: BlueWyrmling_attack_16
+  - first:
+      213: 4180880174375482271
+    second: BlueWyrmling_attack_17
+  - first:
+      213: 4853222529387827156
+    second: BlueWyrmling_attack_18
+  - first:
+      213: -6031684500587664295
+    second: BlueWyrmling_attack_19
+  - first:
+      213: 4080585623319309194
+    second: BlueWyrmling_attack_20
+  - first:
+      213: -4763674455074675730
+    second: BlueWyrmling_attack_21
+  - first:
+      213: 910024259179575667
+    second: BlueWyrmling_attack_22
+  - first:
+      213: 4174135336868984121
+    second: BlueWyrmling_attack_23
+  - first:
+      213: -6955381381910865574
+    second: BlueWyrmling_attack_24
+  - first:
+      213: -2381506951301174856
+    second: BlueWyrmling_attack_25
+  - first:
+      213: 8398203647007126903
+    second: BlueWyrmling_attack_26
+  - first:
+      213: -2704125950068869358
+    second: BlueWyrmling_attack_27
+  - first:
+      213: 2228686355950707079
+    second: BlueWyrmling_attack_28
+  - first:
+      213: -1179908579485368695
+    second: BlueWyrmling_attack_29
+  - first:
+      213: 4634352829112328411
+    second: BlueWyrmling_attack_30
+  - first:
+      213: -4124797273915153834
+    second: BlueWyrmling_attack_31
+  - first:
+      213: -3238644057437308083
+    second: BlueWyrmling_attack_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 159
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7f383cd491ba700800000000000000
+      internalID: 552563201066399668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 153
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a94d0478adaab0800000000000000
+      internalID: -4995151195291408172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280ac29578cb8b3d0800000000000000
+      internalID: -3190593046489292670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd67071b742aa7d0800000000000000
+      internalID: -2906470498428293643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923f66bb2ede6c90800000000000000
+      internalID: -7174552877028920685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8685bedc65e6380800000000000000
+      internalID: -8976141564886095679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb816a717cd8929d0800000000000000
+      internalID: -2798549807199283013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 143
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796b7687666a52020800000000000000
+      internalID: 2316440542388926103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012d801c6598db630800000000000000
+      internalID: 3944459854345196048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2dd97e77e2622d0800000000000000
+      internalID: -3303902184107814237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211da32857a5ec4d0800000000000000
+      internalID: -3112450831723867886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe8d488c52240f40800000000000000
+      internalID: 5693713609722269373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8596e7b7dbfc8330800000000000000
+      internalID: 3714620696595699086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87f005ebffd5600800000000000000
+      internalID: 458803929913718962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 112
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638483ba8e224fdf0800000000000000
+      internalID: -147454505096034250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffa887bd68c8a040800000000000000
+      internalID: 4659194188070957043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2549f5de848a659c0800000000000000
+      internalID: -3938775792915344302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93bf1a0e58750a30800000000000000
+      internalID: 4180880174375482271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df85105d2c1a5340800000000000000
+      internalID: 4853222529387827156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c2e3967e62b4ca0800000000000000
+      internalID: -6031684500587664295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b6389210721a830800000000000000
+      internalID: 4080585623319309194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3eba7725704edb0800000000000000
+      internalID: -4763674455074675730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379f2610e3e01ac00800000000000000
+      internalID: 910024259179575667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_23
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 64
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9353b7e29f18de930800000000000000
+      internalID: 4174135336868984121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5956ddfb75897f90800000000000000
+      internalID: -6955381381910865574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 15
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9e199ab0033fed0800000000000000
+      internalID: -2381506951301174856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ff3ba8b96c8470800000000000000
+      internalID: 8398203647007126903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ba3686c3097ad0800000000000000
+      internalID: -2704125950068869358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 37
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a332ce62edee10800000000000000
+      internalID: 2228686355950707079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb65cf56f10afe0800000000000000
+      internalID: -1179908579485368695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0211f1857805040800000000000000
+      internalID: 4634352829112328411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652a9c5cbb6c1c6c0800000000000000
+      internalID: -4124797273915153834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueWyrmling_attack_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 15
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bf48a83660e03d0800000000000000
+      internalID: -3238644057437308083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueWyrmling_attack_0: 552563201066399668
+      BlueWyrmling_attack_1: -4995151195291408172
+      BlueWyrmling_attack_10: -3112450831723867886
+      BlueWyrmling_attack_11: 5693713609722269373
+      BlueWyrmling_attack_12: 3714620696595699086
+      BlueWyrmling_attack_13: 458803929913718962
+      BlueWyrmling_attack_14: -147454505096034250
+      BlueWyrmling_attack_15: 4659194188070957043
+      BlueWyrmling_attack_16: -3938775792915344302
+      BlueWyrmling_attack_17: 4180880174375482271
+      BlueWyrmling_attack_18: 4853222529387827156
+      BlueWyrmling_attack_19: -6031684500587664295
+      BlueWyrmling_attack_2: -3190593046489292670
+      BlueWyrmling_attack_20: 4080585623319309194
+      BlueWyrmling_attack_21: -4763674455074675730
+      BlueWyrmling_attack_22: 910024259179575667
+      BlueWyrmling_attack_23: 4174135336868984121
+      BlueWyrmling_attack_24: -6955381381910865574
+      BlueWyrmling_attack_25: -2381506951301174856
+      BlueWyrmling_attack_26: 8398203647007126903
+      BlueWyrmling_attack_27: -2704125950068869358
+      BlueWyrmling_attack_28: 2228686355950707079
+      BlueWyrmling_attack_29: -1179908579485368695
+      BlueWyrmling_attack_3: -2906470498428293643
+      BlueWyrmling_attack_30: 4634352829112328411
+      BlueWyrmling_attack_31: -4124797273915153834
+      BlueWyrmling_attack_32: -3238644057437308083
+      BlueWyrmling_attack_4: -7174552877028920685
+      BlueWyrmling_attack_5: -8976141564886095679
+      BlueWyrmling_attack_6: -2798549807199283013
+      BlueWyrmling_attack_7: 2316440542388926103
+      BlueWyrmling_attack_8: 3944459854345196048
+      BlueWyrmling_attack_9: -3303902184107814237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

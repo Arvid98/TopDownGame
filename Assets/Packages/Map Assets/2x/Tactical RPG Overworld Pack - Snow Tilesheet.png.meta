@@ -1,0 +1,6201 @@
+fileFormatVersion: 2
+guid: d280ad3a38f49fd4cbe26e40a8d25144
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6190362529998128072
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_0
+  - first:
+      213: -5752710547793173106
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_1
+  - first:
+      213: 6436149957955198584
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_2
+  - first:
+      213: 3067221667510469336
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_3
+  - first:
+      213: -1253028343715018233
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_4
+  - first:
+      213: 4261672286612518927
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_5
+  - first:
+      213: -2491539347545423197
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_6
+  - first:
+      213: -8813270162918307644
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_7
+  - first:
+      213: 3997042362650330288
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_8
+  - first:
+      213: 8313031013223939710
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_9
+  - first:
+      213: -8045517581789850123
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_10
+  - first:
+      213: 6296739607951238137
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_11
+  - first:
+      213: -3106463942136869767
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_12
+  - first:
+      213: -6741510210148142497
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_13
+  - first:
+      213: -3371192775652801244
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_14
+  - first:
+      213: 718756481663603431
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_15
+  - first:
+      213: -8204620963146287700
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_16
+  - first:
+      213: -2323039553503518997
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_17
+  - first:
+      213: 2934329146127709282
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_18
+  - first:
+      213: 943631628007953052
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_19
+  - first:
+      213: -8324270201396913652
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_20
+  - first:
+      213: -4120849742296680077
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_21
+  - first:
+      213: 5762932570458849760
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_22
+  - first:
+      213: 6475409902796451412
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_23
+  - first:
+      213: 2244125314411079766
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_24
+  - first:
+      213: 7621123464467327721
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_25
+  - first:
+      213: -6473412400097155157
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_26
+  - first:
+      213: 7156650468724186972
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_27
+  - first:
+      213: -5841470877143409076
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_28
+  - first:
+      213: 7386625270846345654
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_29
+  - first:
+      213: -4455981606033907477
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_30
+  - first:
+      213: 7372221935398948647
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_31
+  - first:
+      213: 5545475959607170086
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_32
+  - first:
+      213: 2709226152328887372
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_33
+  - first:
+      213: 3338772852402545698
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_34
+  - first:
+      213: -600011518051082376
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_35
+  - first:
+      213: 7942411619090247126
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_36
+  - first:
+      213: -2152311435839706639
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_37
+  - first:
+      213: -3940419772418927101
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_38
+  - first:
+      213: -175275097119980600
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_39
+  - first:
+      213: -3512589317540182419
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_40
+  - first:
+      213: -7405118902658019060
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_41
+  - first:
+      213: 5165280411545080749
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_42
+  - first:
+      213: -3314821761745026875
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_43
+  - first:
+      213: -1104095313188491458
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_44
+  - first:
+      213: 5780342027350866501
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_45
+  - first:
+      213: 7767878680853090687
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_46
+  - first:
+      213: -8074865267248470919
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_47
+  - first:
+      213: 1852309958011951566
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_48
+  - first:
+      213: -6329291824288507734
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_49
+  - first:
+      213: -7340391583384366134
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_50
+  - first:
+      213: 688133534656485736
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_51
+  - first:
+      213: 1501635164922512042
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_52
+  - first:
+      213: 6149731131703203495
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_53
+  - first:
+      213: -4188543370617896777
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_54
+  - first:
+      213: 3430834097137116483
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_55
+  - first:
+      213: -7091879991706032429
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_56
+  - first:
+      213: 586682539200253888
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_57
+  - first:
+      213: -402697821097340853
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_58
+  - first:
+      213: 2522650996310724614
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_59
+  - first:
+      213: 3895605661307993524
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_60
+  - first:
+      213: -169433994189751880
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_61
+  - first:
+      213: -8702609896483008938
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_62
+  - first:
+      213: -7919947585378382788
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_63
+  - first:
+      213: -4588405471296810351
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_64
+  - first:
+      213: -401434119175307507
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_65
+  - first:
+      213: 732539051903134330
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_66
+  - first:
+      213: -4327555659635686277
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_67
+  - first:
+      213: 3522523795360599884
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_68
+  - first:
+      213: -7092786160614556880
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_69
+  - first:
+      213: 8596955381103436935
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_70
+  - first:
+      213: -7194458846362602608
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_71
+  - first:
+      213: 1147580548178790717
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_72
+  - first:
+      213: 8870506035754527205
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_73
+  - first:
+      213: 4729780011646116952
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_74
+  - first:
+      213: -4134526462490128064
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_75
+  - first:
+      213: -5355719753932684817
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_76
+  - first:
+      213: 5258916982492751043
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_77
+  - first:
+      213: -5937925598978772255
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_78
+  - first:
+      213: -7608931967613709612
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_79
+  - first:
+      213: -2431996152174479687
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_80
+  - first:
+      213: -8555753981483348729
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_81
+  - first:
+      213: 3758098299731611855
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_82
+  - first:
+      213: -160989145514507681
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_83
+  - first:
+      213: 4673416040907102345
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_84
+  - first:
+      213: -7806837891039115381
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_85
+  - first:
+      213: -917460038849421998
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_86
+  - first:
+      213: -7887989058782555189
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_87
+  - first:
+      213: -1104517486434184027
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_88
+  - first:
+      213: -6579898643392168316
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_89
+  - first:
+      213: -1373852253724891881
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_90
+  - first:
+      213: 46540892394651101
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_91
+  - first:
+      213: -8893933269143043146
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_92
+  - first:
+      213: 4025466624063145587
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_93
+  - first:
+      213: -3735896340613342559
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_94
+  - first:
+      213: -7720037218718225019
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_95
+  - first:
+      213: -6069150834901366882
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_96
+  - first:
+      213: 7495432072169281524
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_97
+  - first:
+      213: 5274085304462488603
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_98
+  - first:
+      213: 4620673830379406247
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_99
+  - first:
+      213: -4681751667864066446
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_100
+  - first:
+      213: -7110289378624823000
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_101
+  - first:
+      213: -6638889950972943316
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_102
+  - first:
+      213: -3943960944323611438
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_103
+  - first:
+      213: -6020976895354036459
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_104
+  - first:
+      213: 4042696033739036896
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_105
+  - first:
+      213: 3006887304329632017
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_106
+  - first:
+      213: -8431066019780749676
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_107
+  - first:
+      213: 7028479868431645964
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_108
+  - first:
+      213: -2525857323513062988
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_109
+  - first:
+      213: -3914520634168610707
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_110
+  - first:
+      213: 8806495082015491064
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_111
+  - first:
+      213: -1631393513077150763
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_112
+  - first:
+      213: -4331230718880095571
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_113
+  - first:
+      213: 1149693217561530354
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_114
+  - first:
+      213: -3381901313749606682
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_115
+  - first:
+      213: -4028121273278509226
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_116
+  - first:
+      213: -8014713842413866016
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_117
+  - first:
+      213: -3981736312527119114
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_118
+  - first:
+      213: 3827622250655473635
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_119
+  - first:
+      213: 7498031610714659990
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_120
+  - first:
+      213: 8667706639046523747
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_121
+  - first:
+      213: -3141486188075789525
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_122
+  - first:
+      213: -8844982715565531092
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_123
+  - first:
+      213: 670731719578001834
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_124
+  - first:
+      213: 3942593615436864999
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_125
+  - first:
+      213: 6954170235275313705
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_126
+  - first:
+      213: -6044755732864026861
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_127
+  - first:
+      213: -5287979344775523855
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_128
+  - first:
+      213: 155151307256241665
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_129
+  - first:
+      213: -2557410980609835424
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_130
+  - first:
+      213: 5566576987432493356
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_131
+  - first:
+      213: -8963372056132700384
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_132
+  - first:
+      213: 6285115499559162855
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_133
+  - first:
+      213: -3926734212300119022
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_134
+  - first:
+      213: 4524328689663006097
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_135
+  - first:
+      213: -2571085265894497842
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_136
+  - first:
+      213: 5467416629704859057
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_137
+  - first:
+      213: -1130929362260453875
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_138
+  - first:
+      213: -1752890684287888031
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_139
+  - first:
+      213: 5862055216315773506
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_140
+  - first:
+      213: -6704015042548492108
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_141
+  - first:
+      213: -3164749152543090034
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_142
+  - first:
+      213: 8988668644364608070
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_143
+  - first:
+      213: -2435341647069196071
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_144
+  - first:
+      213: -9077432002343524073
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_145
+  - first:
+      213: -6070860175528761216
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_146
+  - first:
+      213: 7568357068007779432
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_147
+  - first:
+      213: -8891417132613357133
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_148
+  - first:
+      213: 8204556931711175689
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_149
+  - first:
+      213: -2974649696083059024
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_150
+  - first:
+      213: -1950735154338803037
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_151
+  - first:
+      213: -6054944990555174586
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_152
+  - first:
+      213: -4718832142621288275
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_153
+  - first:
+      213: 4955720769977422575
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_154
+  - first:
+      213: 6477699691561668938
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_155
+  - first:
+      213: -6894042340323233426
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_156
+  - first:
+      213: 5012798586278365675
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_157
+  - first:
+      213: -3688829314483989092
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_158
+  - first:
+      213: -3037178642574209844
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_159
+  - first:
+      213: -710160345068738265
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_160
+  - first:
+      213: 7489209735743088974
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_161
+  - first:
+      213: -2327936300668726884
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_162
+  - first:
+      213: -5278317613208637039
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_163
+  - first:
+      213: -3646075245161830103
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_164
+  - first:
+      213: -2630535370407582276
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_165
+  - first:
+      213: 3494769321785251857
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_166
+  - first:
+      213: -3035103410756261350
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_167
+  - first:
+      213: 2556940020112178969
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_168
+  - first:
+      213: -84040054134885512
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_169
+  - first:
+      213: -1127934754255500734
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_170
+  - first:
+      213: 1739521697193834248
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_171
+  - first:
+      213: 7762089359530265503
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_172
+  - first:
+      213: 4392155396157027053
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_173
+  - first:
+      213: -8599786114659385215
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_174
+  - first:
+      213: -5412753684036970462
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_175
+  - first:
+      213: 5653003230577353703
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_176
+  - first:
+      213: 5747970713520075783
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_177
+  - first:
+      213: -3329679855336197045
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_178
+  - first:
+      213: -4741643836254967879
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_179
+  - first:
+      213: 1295521610887913359
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_180
+  - first:
+      213: 118140603073632007
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_181
+  - first:
+      213: -1667172300848909117
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_182
+  - first:
+      213: -5517405078122403619
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_183
+  - first:
+      213: -5466928188072912074
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_184
+  - first:
+      213: 4769951601970147759
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_185
+  - first:
+      213: -8349351548802647925
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_186
+  - first:
+      213: -2018797770207250492
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_187
+  - first:
+      213: 1433646371692089083
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_188
+  - first:
+      213: -3366196372651603637
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_189
+  - first:
+      213: -6955460918831578959
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_190
+  - first:
+      213: -1191188991742601682
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_191
+  - first:
+      213: 3201694680532308847
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_192
+  - first:
+      213: 5199634790619699815
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_193
+  - first:
+      213: 5315376009499686066
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_194
+  - first:
+      213: 8090174216660995730
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_195
+  - first:
+      213: 7191057623303300226
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_196
+  - first:
+      213: 562764261291744259
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_197
+  - first:
+      213: -8599616275503726215
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_198
+  - first:
+      213: -6078039803155216346
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_199
+  - first:
+      213: 5995216068523358493
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_200
+  - first:
+      213: 1252561652499935328
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_201
+  - first:
+      213: -6829272727996672692
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_202
+  - first:
+      213: 5731864502963735787
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_203
+  - first:
+      213: -4502459384170599531
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_204
+  - first:
+      213: 1133545250849623168
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_205
+  - first:
+      213: 8986628969715831927
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_206
+  - first:
+      213: -7193440457443496403
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_207
+  - first:
+      213: -6890555495884634926
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_208
+  - first:
+      213: -9133207286988205741
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_209
+  - first:
+      213: 8490779216657489736
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_210
+  - first:
+      213: -2932791725375258450
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_211
+  - first:
+      213: -4827177250572213420
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_212
+  - first:
+      213: 2648023481581562689
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_213
+  - first:
+      213: 7639702452680962504
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_214
+  - first:
+      213: -8046674432508398121
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_215
+  - first:
+      213: 5996530544900450298
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_216
+  - first:
+      213: 4944270831418043058
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_217
+  - first:
+      213: -7174247619784206453
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_218
+  - first:
+      213: -4593343704658170767
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_219
+  - first:
+      213: 3687081337112814517
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_220
+  - first:
+      213: 2742456732498679597
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_221
+  - first:
+      213: -8835344266413023612
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_222
+  - first:
+      213: -8581921436905633924
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_223
+  - first:
+      213: 2955097810301135179
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_224
+  - first:
+      213: -8596128540605642516
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_225
+  - first:
+      213: 4103590443195863995
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_226
+  - first:
+      213: -2124044928229937696
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_227
+  - first:
+      213: 937740639487073719
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_228
+  - first:
+      213: -4244462398325345648
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_229
+  - first:
+      213: -1164361469174805747
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_230
+  - first:
+      213: -1256111424452590498
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_231
+  - first:
+      213: -3927771554705323487
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_232
+  - first:
+      213: -3009718540130806450
+    second: Tactical RPG Overworld Pack - Snow Tilesheet_233
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1985
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34d6f4ce598e550800000000000000
+      internalID: 6190362529998128072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1983
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8525276c344a20b0800000000000000
+      internalID: -5752710547793173106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1983
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e901d594cc15950800000000000000
+      internalID: 6436149957955198584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1951
+        width: 258
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2c7531bd5f09a20800000000000000
+      internalID: 3067221667510469336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1983
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ace573c595c9ee0800000000000000
+      internalID: -1253028343715018233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1951
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f087aa88d50842b30800000000000000
+      internalID: 4261672286612518927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1951
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a285a50a264c6dd0800000000000000
+      internalID: -2491539347545423197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1859
+        width: 26
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c884b54b79f0b580800000000000000
+      internalID: -8813270162918307644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1859
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b406f10ad8587730800000000000000
+      internalID: 3997042362650330288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1859
+        width: 22
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eb40689a1dd5370800000000000000
+      internalID: 8313031013223939710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1861
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59147e264985090800000000000000
+      internalID: -8045517581789850123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1865
+        width: 26
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e017df43826750800000000000000
+      internalID: 6296739607951238137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1859
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c4f5dd08f93e4d0800000000000000
+      internalID: -3106463942136869767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1859
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5273729e285172a0800000000000000
+      internalID: -6741510210148142497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 1345
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4250ad9280e1731d0800000000000000
+      internalID: -3371192775652801244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 895
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e29191463989f900800000000000000
+      internalID: 718756481663603431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 897
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca531f634b4532e80800000000000000
+      internalID: -8204620963146287700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 929
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee9d3685d7e2cfd0800000000000000
+      internalID: -2323039553503518997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 895
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647409cfc4d8b820800000000000000
+      internalID: 2934329146127709282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 897
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92dc3257f3781d00800000000000000
+      internalID: 943631628007953052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 929
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a1e5f0b504a7c80800000000000000
+      internalID: -8324270201396913652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 895
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37975a91efccfc6c0800000000000000
+      internalID: -4120849742296680077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 897
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e18ab6b3ac0aff40800000000000000
+      internalID: 5762932570458849760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 929
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eaa379ff64dd950800000000000000
+      internalID: 6475409902796451412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 895
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6582fe4651cb42f10800000000000000
+      internalID: 2244125314411079766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 897
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea28f8996ba3c960800000000000000
+      internalID: 7621123464467327721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 929
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7a99f38b1d926a0800000000000000
+      internalID: -6473412400097155157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 895
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f10f90fa7815360800000000000000
+      internalID: 7156650468724186972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 897
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ed31acf2deeeea0800000000000000
+      internalID: -5841470877143409076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 929
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b158bd3c80928660800000000000000
+      internalID: 7386625270846345654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 929
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0acae865c2922c0800000000000000
+      internalID: -4455981606033907477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 909
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0cc06ac46f4660800000000000000
+      internalID: 7372221935398948647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6249ada010d75fc40800000000000000
+      internalID: 5545475959607170086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 929
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cf2c9d4da199520800000000000000
+      internalID: 2709226152328887372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 909
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224eb2d3834b55e20800000000000000
+      internalID: 3338772852402545698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1c6d04b45ca7f0800000000000000
+      internalID: -600011518051082376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 929
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd2fcf694d193e60800000000000000
+      internalID: 7942411619090247126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 909
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f963cc07247122e0800000000000000
+      internalID: -2152311435839706639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3065b0f1811d059c0800000000000000
+      internalID: -3940419772418927101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 929
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c301325a3c419df0800000000000000
+      internalID: -175275097119980600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 909
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d668f2e40a6c04fc0800000000000000
+      internalID: -3512589317540182419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01d98f879bbb3990800000000000000
+      internalID: -7405118902658019060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 929
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da39d6fda23cea740800000000000000
+      internalID: 5165280411545080749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 909
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0047d9b236ff1d0800000000000000
+      internalID: -3314821761745026875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 897
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe93399277da0f0800000000000000
+      internalID: -1104095313188491458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 865
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a7284c276e73050800000000000000
+      internalID: 5780342027350866501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 801
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f711496118c0dcb60800000000000000
+      internalID: 7767878680853090687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 801
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e38862d050ff80800000000000000
+      internalID: -8074865267248470919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 865
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec99835c71ab4b910800000000000000
+      internalID: 1852309958011951566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 801
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8df7dae96d928a0800000000000000
+      internalID: -6329291824288507734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 865
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac39b18feb0b12a90800000000000000
+      internalID: -7340391583384366134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 865
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869db3bcdcdbc8900800000000000000
+      internalID: 688133534656485736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_52
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 865
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2017bf931e6d410800000000000000
+      internalID: 1501635164922512042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 737
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69451b1eb385550800000000000000
+      internalID: 6149731131703203495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 799
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c00c0ffd4fd5c0800000000000000
+      internalID: -4188543370617896777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 801
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345e72b1f65cc9f20800000000000000
+      internalID: 3430834097137116483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 737
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d669a0d8b4949d90800000000000000
+      internalID: -7091879991706032429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 799
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf84f839a0542800800000000000000
+      internalID: 586682539200253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_58
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 801
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b405bad1774596af0800000000000000
+      internalID: -402697821097340853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_59
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 799
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d26f27b1420320800000000000000
+      internalID: 2522650996310724614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 801
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd734b85b8ff0630800000000000000
+      internalID: 3895605661307993524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_61
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 735
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9b1731eac06adf0800000000000000
+      internalID: -169433994189751880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_62
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 737
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec455586e1a3780800000000000000
+      internalID: -8702609896483008938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 705
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c0fcdf1a1b61290800000000000000
+      internalID: -7919947585378382788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_64
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 735
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19215e5c885b250c0800000000000000
+      internalID: -4588405471296810351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_65
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 737
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f75d5abc1dd6af0800000000000000
+      internalID: -401434119175307507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_66
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 705
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa9c4f2608a2a00800000000000000
+      internalID: 732539051903134330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_67
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 705
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b740fa15e0f61f3c0800000000000000
+      internalID: -4327555659635686277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_68
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 705
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f445f8ab482e030800000000000000
+      internalID: 3522523795360599884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_69
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 705
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b33cce09c519d90800000000000000
+      internalID: -7092786160614556880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 639
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784ad88de558e4770800000000000000
+      internalID: 8596955381103436935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_71
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 641
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f36f0cc5282c90800000000000000
+      internalID: -7194458846362602608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_72
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 673
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39485dad660def00800000000000000
+      internalID: 1147580548178790717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_73
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 653
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e96b17dd3e5a1b70800000000000000
+      internalID: 8870506035754527205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_74
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 673
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854e8e37cdd83a140800000000000000
+      internalID: 4729780011646116952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 641
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d2d886163f96c0800000000000000
+      internalID: -4134526462490128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 639
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1cc467249aca5b0800000000000000
+      internalID: -5355719753932684817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_77
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 641
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4efb4f12d6bf840800000000000000
+      internalID: 5258916982492751043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 673
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2fb22d020489da0800000000000000
+      internalID: -5937925598978772255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_79
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 653
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2554670b4a76690800000000000000
+      internalID: -7608931967613709612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_80
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 673
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f5868260df3ed0800000000000000
+      internalID: -2431996152174479687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_81
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 641
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d0d0c851bd34980800000000000000
+      internalID: -8555753981483348729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_82
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 639
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0908a0e72772430800000000000000
+      internalID: 3758098299731611855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_83
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 641
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f520ae0a93d04cdf0800000000000000
+      internalID: -160989145514507681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_84
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 673
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98851edd02f4bd040800000000000000
+      internalID: 4673416040907102345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_85
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 653
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87cd8dec4a88a390800000000000000
+      internalID: -7806837891039115381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_86
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 673
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d93c0a4f68443f0800000000000000
+      internalID: -917460038849421998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_87
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 641
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3191f4ebb388290800000000000000
+      internalID: -7887989058782555189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_88
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 639
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a412e4b237fba0f0800000000000000
+      internalID: -1104517486434184027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_89
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 641
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef88eab018fa4a0800000000000000
+      internalID: -6579898643392168316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_90
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 673
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715abda77a81fece0800000000000000
+      internalID: -1373852253724891881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_91
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 653
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd76bee1b855a000800000000000000
+      internalID: 46540892394651101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_92
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 673
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b343b450d6629480800000000000000
+      internalID: -8893933269143043146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_93
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 641
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376897611945dd730800000000000000
+      internalID: 4025466624063145587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_94
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 639
+        width: 30
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5f04621e672cc0800000000000000
+      internalID: -3735896340613342559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_95
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 641
+        width: 90
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d61855d0becd490800000000000000
+      internalID: -7720037218718225019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_96
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 673
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97407da87b06cba0800000000000000
+      internalID: -6069150834901366882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_97
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 653
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f758b3d1cf150860800000000000000
+      internalID: 7495432072169281524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_98
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 673
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14389f14a0513940800000000000000
+      internalID: 5274085304462488603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_99
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 641
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a345ba0e5eef1040800000000000000
+      internalID: 4620673830379406247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 609
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ae5eb9a3170fb0800000000000000
+      internalID: -4681751667864066446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_101
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a5d86b7d235d90800000000000000
+      internalID: -7110289378624823000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_102
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 545
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24e85193ccedd3a0800000000000000
+      internalID: -6638889950972943316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 609
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4b399ca6c3449c0800000000000000
+      internalID: -3943960944323611438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_104
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 545
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f96970a61317ca0800000000000000
+      internalID: -6020976895354036459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_105
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 609
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e855e1af9a8a1830800000000000000
+      internalID: 4042696033739036896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_106
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 609
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191336721c9ab920800000000000000
+      internalID: 3006887304329632017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_107
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 609
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4961a1def16defa80800000000000000
+      internalID: -8431066019780749676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_108
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d3adca33d2a8160800000000000000
+      internalID: 7028479868431645964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_109
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b95fa6952a52fcd0800000000000000
+      internalID: -2525857323513062988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_110
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 545
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6071762934dca9c0800000000000000
+      internalID: -3914520634168610707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_111
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 481
+        width: 92
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f302c74e94f63a70800000000000000
+      internalID: 8806495082015491064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_112
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe82c4e302c59e0800000000000000
+      internalID: -1631393513077150763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_113
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 545
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da264e8eb9064e3c0800000000000000
+      internalID: -4331230718880095571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_114
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff4e69d3e784ff00800000000000000
+      internalID: 1149693217561530354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_115
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 545
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee17885ca21111d0800000000000000
+      internalID: -3381901313749606682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_116
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 479
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f4a0a3b0d3918c0800000000000000
+      internalID: -4028121273278509226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 481
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3f38e593406c090800000000000000
+      internalID: -8014713842413866016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 479
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc1c8e7be70eb8c0800000000000000
+      internalID: -3981736312527119114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_119
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 481
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef53b848227e1530800000000000000
+      internalID: 3827622250655473635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_120
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1c4f060c5e0860800000000000000
+      internalID: 7498031610714659990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_121
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bb9a5c341e94870800000000000000
+      internalID: 8667706639046523747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2352fcc4f23764d0800000000000000
+      internalID: -3141486188075789525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_123
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c202f3a351f404580800000000000000
+      internalID: -8844982715565531092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1a80df1faee4900800000000000000
+      internalID: 670731719578001834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_125
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 415
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed56d52108e6b630800000000000000
+      internalID: 3942593615436864999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_126
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9220e25fbfc228060800000000000000
+      internalID: 6954170235275313705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_127
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31732acffa6bc1ca0800000000000000
+      internalID: -6044755732864026861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f15d078dc25d96b0800000000000000
+      internalID: -5287979344775523855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_129
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 415
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e127bba45372200800000000000000
+      internalID: 155151307256241665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_130
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 415
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e311c4340428cd0800000000000000
+      internalID: -2557410980609835424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_131
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 162
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2127cee644704d40800000000000000
+      internalID: 5566576987432493356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_132
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 383
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273c8cda94bb9380800000000000000
+      internalID: -8963372056132700384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_133
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 423
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e396833f37393750800000000000000
+      internalID: 6285115499559162855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_134
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 415
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2146a74e9007189c0800000000000000
+      internalID: -3926734212300119022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_135
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195d87ae8f4a9ce30800000000000000
+      internalID: 4524328689663006097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_136
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec12e17a29ba15cd0800000000000000
+      internalID: -2571085265894497842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_137
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd1f94057a20eb40800000000000000
+      internalID: 5467416629704859057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_138
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d061868acb12e40f0800000000000000
+      internalID: -1130929362260453875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165dde8b53b7ca7e0800000000000000
+      internalID: -1752890684287888031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2423a3629243a5150800000000000000
+      internalID: 5862055216315773506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8950496dd86f2a0800000000000000
+      internalID: -6704015042548492108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_142
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 351
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a537fc96d8414d0800000000000000
+      internalID: -3164749152543090034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_143
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6426b0f028a2ebc70800000000000000
+      internalID: 8988668644364608070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_144
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d9bbccade33ed0800000000000000
+      internalID: -2435341647069196071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_145
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 385
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7192d8b20bb760280800000000000000
+      internalID: -9077432002343524073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_146
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 391
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088ea8cc5d8ffbba0800000000000000
+      internalID: -6070860175528761216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cabeb87a4380960800000000000000
+      internalID: 7568357068007779432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_148
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 351
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b132c40a375b9480800000000000000
+      internalID: -8891417132613357133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_149
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 263
+        width: 186
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c0d1e4f017cd170800000000000000
+      internalID: 8204556931711175689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_150
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 359
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bedebd9cdbe7b6d0800000000000000
+      internalID: -2974649696083059024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_151
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 359
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2d4ca66b89de4e0800000000000000
+      internalID: -1950735154338803037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_152
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498d6f8c9388fba0800000000000000
+      internalID: -6054944990555174586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_153
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8dc50fa27538eb0800000000000000
+      internalID: -4718832142621288275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_154
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29784a8c146c440800000000000000
+      internalID: 4955720769977422575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_155
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d0359c8965e950800000000000000
+      internalID: 6477699691561668938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_156
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f78684017350a0800000000000000
+      internalID: -6894042340323233426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_157
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 287
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9c3b951c9019540800000000000000
+      internalID: 5012798586278365675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_158
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9552216845aeccc0800000000000000
+      internalID: -3688829314483989092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc06f1cd16c9d5d0800000000000000
+      internalID: -3037178642574209844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_160
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729eb92cde00526f0800000000000000
+      internalID: -710160345068738265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_161
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 287
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e492d5b33940fe760800000000000000
+      internalID: 7489209735743088974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_162
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9157eab44281bfd0800000000000000
+      internalID: -2327936300668726884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_163
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191f205b816afb6b0800000000000000
+      internalID: -5278317613208637039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_164
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 319
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929a8cbd1e9866dc0800000000000000
+      internalID: -3646075245161830103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_165
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb561cd84067e7bd0800000000000000
+      internalID: -2630535370407582276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_166
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11851fc9e2aef7030800000000000000
+      internalID: 3494769321785251857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_167
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aeb41578521e5d0800000000000000
+      internalID: -3035103410756261350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f34caa6631c7320800000000000000
+      internalID: 2556940020112178969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_169
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873b26a140e65def0800000000000000
+      internalID: -84040054134885512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_170
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a88ca2155c850f0800000000000000
+      internalID: -1127934754255500734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_171
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807b25864c5042810800000000000000
+      internalID: 1739521697193834248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_172
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 223
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b04ada52b78bb60800000000000000
+      internalID: 7762089359530265503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_173
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2314aef0214fc30800000000000000
+      internalID: 4392155396157027053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_174
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 223
+        width: 162
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1800463a71c67a880800000000000000
+      internalID: -8599786114659385215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_175
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 263
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2281a4ec33902e4b0800000000000000
+      internalID: -5412753684036970462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e2b0cc70837e40800000000000000
+      internalID: 5653003230577353703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_177
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 223
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70476bee8e4e4cf40800000000000000
+      internalID: 5747970713520075783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_178
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 191
+        width: 162
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4479ee10d99ac1d0800000000000000
+      internalID: -3329679855336197045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_179
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 167
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72a90ad0c423eb0800000000000000
+      internalID: -4741643836254967879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fd0d78a0e9af110800000000000000
+      internalID: 1295521610887913359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_181
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70711c7a048b3a100800000000000000
+      internalID: 118140603073632007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_182
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b78c10a30dd8e0800000000000000
+      internalID: -1667172300848909117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_183
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8e39c505d3e63b0800000000000000
+      internalID: -5517405078122403619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_184
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b185927c19124b0800000000000000
+      internalID: -5466928188072912074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_185
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17c3fa5b5423240800000000000000
+      internalID: 4769951601970147759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_186
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88b2ccc005212c80800000000000000
+      internalID: -8349351548802647925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_187
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c73271cf1acbf3e0800000000000000
+      internalID: -2018797770207250492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_188
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe0c3e77c555e310800000000000000
+      internalID: 1433646371692089083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_189
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 159
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4984e3eb3ed841d0800000000000000
+      internalID: -3366196372651603637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_190
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 162
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b08eeb552d397f90800000000000000
+      internalID: -6955460918831578959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_191
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 127
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2693d65ceb087fe0800000000000000
+      internalID: -1191188991742601682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_192
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 83
+        width: 162
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d2604954be6c20800000000000000
+      internalID: 3201694680532308847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_193
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 129
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a56a01b40d82840800000000000000
+      internalID: 5199634790619699815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_194
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 137
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4bcdd815204c940800000000000000
+      internalID: 5315376009499686066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e4a132692164070800000000000000
+      internalID: 8090174216660995730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_196
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ab5cfec4cbc360800000000000000
+      internalID: 7191057623303300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c549e2d175fc700800000000000000
+      internalID: 562764261291744259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_198
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971cee56f8608a880800000000000000
+      internalID: -8599616275503726215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_199
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6288f3a700776aba0800000000000000
+      internalID: -6078039803155216346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_200
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d197c041049433350800000000000000
+      internalID: 5995216068523358493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_201
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f884cf2ef16110800000000000000
+      internalID: 1252561652499935328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_202
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45de7d03ac8931a0800000000000000
+      internalID: -6829272727996672692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_203
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec03df856cab8f40800000000000000
+      internalID: 5731864502963735787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_204
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b23ee8b0d0481c0800000000000000
+      internalID: -4502459384170599531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_205
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 31
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c09bd56692bbf00800000000000000
+      internalID: 1133545250849623168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_206
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 31
+        width: 162
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774952c4f6be6bc70800000000000000
+      internalID: 8986628969715831927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_207
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 95
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e28253404cb2c90800000000000000
+      internalID: -7193440457443496403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_208
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 97
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d44ea2c844df50a0800000000000000
+      internalID: -6890555495884634926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_209
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511f0fbc54504180800000000000000
+      internalID: -9133207286988205741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_210
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f932326be45d570800000000000000
+      internalID: 8490779216657489736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_211
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08dc0e671ac47d0800000000000000
+      internalID: -2932791725375258450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_212
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453ebc7bddb620db0800000000000000
+      internalID: -4827177250572213420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_213
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bef80a35bafb420800000000000000
+      internalID: 2648023481581562689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_214
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1bab167eca50a60800000000000000
+      internalID: 7639702452680962504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_215
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d57e1b9c38745090800000000000000
+      internalID: -8046674432508398121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_216
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 31
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7229572c4f73350800000000000000
+      internalID: 5996530544900450298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_217
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 63
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6ff310249d9440800000000000000
+      internalID: 4944270831418043058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_218
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 65
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b871214fcc3ff6c90800000000000000
+      internalID: -7174247619784206453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_219
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 67
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca298bc3a2140c0800000000000000
+      internalID: -4593343704658170767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_220
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 65
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e49ce0f42b2330800000000000000
+      internalID: 3687081337112814517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_221
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2756783ed92f0620800000000000000
+      internalID: 2742456732498679597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_222
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eda2c833d826580800000000000000
+      internalID: -8835344266413023612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_223
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 57
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c770eee0ce3e6e880800000000000000
+      internalID: -8581921436905633924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_224
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 57
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49a88b3dcd920920800000000000000
+      internalID: 2955097810301135179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_225
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88a95f2aa64b880800000000000000
+      internalID: -8596128540605642516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_226
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3906e24c1e2f830800000000000000
+      internalID: 4103590443195863995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_227
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed62e53460e582e0800000000000000
+      internalID: -2124044928229937696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_228
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd131ca426830d00800000000000000
+      internalID: 937740639487073719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_229
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b055dfe3a815c0800000000000000
+      internalID: -4244462398325345648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_230
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b0fafa96b57dfe0800000000000000
+      internalID: -1164361469174805747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_231
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54813b8055619ee0800000000000000
+      internalID: -1256111424452590498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_232
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ac7eac490cd79c0800000000000000
+      internalID: -3927771554705323487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tactical RPG Overworld Pack - Snow Tilesheet_233
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4598951fe45b36d0800000000000000
+      internalID: -3009718540130806450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tactical RPG Overworld Pack - Snow Tilesheet_0: 6190362529998128072
+      Tactical RPG Overworld Pack - Snow Tilesheet_1: -5752710547793173106
+      Tactical RPG Overworld Pack - Snow Tilesheet_10: -8045517581789850123
+      Tactical RPG Overworld Pack - Snow Tilesheet_100: -4681751667864066446
+      Tactical RPG Overworld Pack - Snow Tilesheet_101: -7110289378624823000
+      Tactical RPG Overworld Pack - Snow Tilesheet_102: -6638889950972943316
+      Tactical RPG Overworld Pack - Snow Tilesheet_103: -3943960944323611438
+      Tactical RPG Overworld Pack - Snow Tilesheet_104: -6020976895354036459
+      Tactical RPG Overworld Pack - Snow Tilesheet_105: 4042696033739036896
+      Tactical RPG Overworld Pack - Snow Tilesheet_106: 3006887304329632017
+      Tactical RPG Overworld Pack - Snow Tilesheet_107: -8431066019780749676
+      Tactical RPG Overworld Pack - Snow Tilesheet_108: 7028479868431645964
+      Tactical RPG Overworld Pack - Snow Tilesheet_109: -2525857323513062988
+      Tactical RPG Overworld Pack - Snow Tilesheet_11: 6296739607951238137
+      Tactical RPG Overworld Pack - Snow Tilesheet_110: -3914520634168610707
+      Tactical RPG Overworld Pack - Snow Tilesheet_111: 8806495082015491064
+      Tactical RPG Overworld Pack - Snow Tilesheet_112: -1631393513077150763
+      Tactical RPG Overworld Pack - Snow Tilesheet_113: -4331230718880095571
+      Tactical RPG Overworld Pack - Snow Tilesheet_114: 1149693217561530354
+      Tactical RPG Overworld Pack - Snow Tilesheet_115: -3381901313749606682
+      Tactical RPG Overworld Pack - Snow Tilesheet_116: -4028121273278509226
+      Tactical RPG Overworld Pack - Snow Tilesheet_117: -8014713842413866016
+      Tactical RPG Overworld Pack - Snow Tilesheet_118: -3981736312527119114
+      Tactical RPG Overworld Pack - Snow Tilesheet_119: 3827622250655473635
+      Tactical RPG Overworld Pack - Snow Tilesheet_12: -3106463942136869767
+      Tactical RPG Overworld Pack - Snow Tilesheet_120: 7498031610714659990
+      Tactical RPG Overworld Pack - Snow Tilesheet_121: 8667706639046523747
+      Tactical RPG Overworld Pack - Snow Tilesheet_122: -3141486188075789525
+      Tactical RPG Overworld Pack - Snow Tilesheet_123: -8844982715565531092
+      Tactical RPG Overworld Pack - Snow Tilesheet_124: 670731719578001834
+      Tactical RPG Overworld Pack - Snow Tilesheet_125: 3942593615436864999
+      Tactical RPG Overworld Pack - Snow Tilesheet_126: 6954170235275313705
+      Tactical RPG Overworld Pack - Snow Tilesheet_127: -6044755732864026861
+      Tactical RPG Overworld Pack - Snow Tilesheet_128: -5287979344775523855
+      Tactical RPG Overworld Pack - Snow Tilesheet_129: 155151307256241665
+      Tactical RPG Overworld Pack - Snow Tilesheet_13: -6741510210148142497
+      Tactical RPG Overworld Pack - Snow Tilesheet_130: -2557410980609835424
+      Tactical RPG Overworld Pack - Snow Tilesheet_131: 5566576987432493356
+      Tactical RPG Overworld Pack - Snow Tilesheet_132: -8963372056132700384
+      Tactical RPG Overworld Pack - Snow Tilesheet_133: 6285115499559162855
+      Tactical RPG Overworld Pack - Snow Tilesheet_134: -3926734212300119022
+      Tactical RPG Overworld Pack - Snow Tilesheet_135: 4524328689663006097
+      Tactical RPG Overworld Pack - Snow Tilesheet_136: -2571085265894497842
+      Tactical RPG Overworld Pack - Snow Tilesheet_137: 5467416629704859057
+      Tactical RPG Overworld Pack - Snow Tilesheet_138: -1130929362260453875
+      Tactical RPG Overworld Pack - Snow Tilesheet_139: -1752890684287888031
+      Tactical RPG Overworld Pack - Snow Tilesheet_14: -3371192775652801244
+      Tactical RPG Overworld Pack - Snow Tilesheet_140: 5862055216315773506
+      Tactical RPG Overworld Pack - Snow Tilesheet_141: -6704015042548492108
+      Tactical RPG Overworld Pack - Snow Tilesheet_142: -3164749152543090034
+      Tactical RPG Overworld Pack - Snow Tilesheet_143: 8988668644364608070
+      Tactical RPG Overworld Pack - Snow Tilesheet_144: -2435341647069196071
+      Tactical RPG Overworld Pack - Snow Tilesheet_145: -9077432002343524073
+      Tactical RPG Overworld Pack - Snow Tilesheet_146: -6070860175528761216
+      Tactical RPG Overworld Pack - Snow Tilesheet_147: 7568357068007779432
+      Tactical RPG Overworld Pack - Snow Tilesheet_148: -8891417132613357133
+      Tactical RPG Overworld Pack - Snow Tilesheet_149: 8204556931711175689
+      Tactical RPG Overworld Pack - Snow Tilesheet_15: 718756481663603431
+      Tactical RPG Overworld Pack - Snow Tilesheet_150: -2974649696083059024
+      Tactical RPG Overworld Pack - Snow Tilesheet_151: -1950735154338803037
+      Tactical RPG Overworld Pack - Snow Tilesheet_152: -6054944990555174586
+      Tactical RPG Overworld Pack - Snow Tilesheet_153: -4718832142621288275
+      Tactical RPG Overworld Pack - Snow Tilesheet_154: 4955720769977422575
+      Tactical RPG Overworld Pack - Snow Tilesheet_155: 6477699691561668938
+      Tactical RPG Overworld Pack - Snow Tilesheet_156: -6894042340323233426
+      Tactical RPG Overworld Pack - Snow Tilesheet_157: 5012798586278365675
+      Tactical RPG Overworld Pack - Snow Tilesheet_158: -3688829314483989092
+      Tactical RPG Overworld Pack - Snow Tilesheet_159: -3037178642574209844
+      Tactical RPG Overworld Pack - Snow Tilesheet_16: -8204620963146287700
+      Tactical RPG Overworld Pack - Snow Tilesheet_160: -710160345068738265
+      Tactical RPG Overworld Pack - Snow Tilesheet_161: 7489209735743088974
+      Tactical RPG Overworld Pack - Snow Tilesheet_162: -2327936300668726884
+      Tactical RPG Overworld Pack - Snow Tilesheet_163: -5278317613208637039
+      Tactical RPG Overworld Pack - Snow Tilesheet_164: -3646075245161830103
+      Tactical RPG Overworld Pack - Snow Tilesheet_165: -2630535370407582276
+      Tactical RPG Overworld Pack - Snow Tilesheet_166: 3494769321785251857
+      Tactical RPG Overworld Pack - Snow Tilesheet_167: -3035103410756261350
+      Tactical RPG Overworld Pack - Snow Tilesheet_168: 2556940020112178969
+      Tactical RPG Overworld Pack - Snow Tilesheet_169: -84040054134885512
+      Tactical RPG Overworld Pack - Snow Tilesheet_17: -2323039553503518997
+      Tactical RPG Overworld Pack - Snow Tilesheet_170: -1127934754255500734
+      Tactical RPG Overworld Pack - Snow Tilesheet_171: 1739521697193834248
+      Tactical RPG Overworld Pack - Snow Tilesheet_172: 7762089359530265503
+      Tactical RPG Overworld Pack - Snow Tilesheet_173: 4392155396157027053
+      Tactical RPG Overworld Pack - Snow Tilesheet_174: -8599786114659385215
+      Tactical RPG Overworld Pack - Snow Tilesheet_175: -5412753684036970462
+      Tactical RPG Overworld Pack - Snow Tilesheet_176: 5653003230577353703
+      Tactical RPG Overworld Pack - Snow Tilesheet_177: 5747970713520075783
+      Tactical RPG Overworld Pack - Snow Tilesheet_178: -3329679855336197045
+      Tactical RPG Overworld Pack - Snow Tilesheet_179: -4741643836254967879
+      Tactical RPG Overworld Pack - Snow Tilesheet_18: 2934329146127709282
+      Tactical RPG Overworld Pack - Snow Tilesheet_180: 1295521610887913359
+      Tactical RPG Overworld Pack - Snow Tilesheet_181: 118140603073632007
+      Tactical RPG Overworld Pack - Snow Tilesheet_182: -1667172300848909117
+      Tactical RPG Overworld Pack - Snow Tilesheet_183: -5517405078122403619
+      Tactical RPG Overworld Pack - Snow Tilesheet_184: -5466928188072912074
+      Tactical RPG Overworld Pack - Snow Tilesheet_185: 4769951601970147759
+      Tactical RPG Overworld Pack - Snow Tilesheet_186: -8349351548802647925
+      Tactical RPG Overworld Pack - Snow Tilesheet_187: -2018797770207250492
+      Tactical RPG Overworld Pack - Snow Tilesheet_188: 1433646371692089083
+      Tactical RPG Overworld Pack - Snow Tilesheet_189: -3366196372651603637
+      Tactical RPG Overworld Pack - Snow Tilesheet_19: 943631628007953052
+      Tactical RPG Overworld Pack - Snow Tilesheet_190: -6955460918831578959
+      Tactical RPG Overworld Pack - Snow Tilesheet_191: -1191188991742601682
+      Tactical RPG Overworld Pack - Snow Tilesheet_192: 3201694680532308847
+      Tactical RPG Overworld Pack - Snow Tilesheet_193: 5199634790619699815
+      Tactical RPG Overworld Pack - Snow Tilesheet_194: 5315376009499686066
+      Tactical RPG Overworld Pack - Snow Tilesheet_195: 8090174216660995730
+      Tactical RPG Overworld Pack - Snow Tilesheet_196: 7191057623303300226
+      Tactical RPG Overworld Pack - Snow Tilesheet_197: 562764261291744259
+      Tactical RPG Overworld Pack - Snow Tilesheet_198: -8599616275503726215
+      Tactical RPG Overworld Pack - Snow Tilesheet_199: -6078039803155216346
+      Tactical RPG Overworld Pack - Snow Tilesheet_2: 6436149957955198584
+      Tactical RPG Overworld Pack - Snow Tilesheet_20: -8324270201396913652
+      Tactical RPG Overworld Pack - Snow Tilesheet_200: 5995216068523358493
+      Tactical RPG Overworld Pack - Snow Tilesheet_201: 1252561652499935328
+      Tactical RPG Overworld Pack - Snow Tilesheet_202: -6829272727996672692
+      Tactical RPG Overworld Pack - Snow Tilesheet_203: 5731864502963735787
+      Tactical RPG Overworld Pack - Snow Tilesheet_204: -4502459384170599531
+      Tactical RPG Overworld Pack - Snow Tilesheet_205: 1133545250849623168
+      Tactical RPG Overworld Pack - Snow Tilesheet_206: 8986628969715831927
+      Tactical RPG Overworld Pack - Snow Tilesheet_207: -7193440457443496403
+      Tactical RPG Overworld Pack - Snow Tilesheet_208: -6890555495884634926
+      Tactical RPG Overworld Pack - Snow Tilesheet_209: -9133207286988205741
+      Tactical RPG Overworld Pack - Snow Tilesheet_21: -4120849742296680077
+      Tactical RPG Overworld Pack - Snow Tilesheet_210: 8490779216657489736
+      Tactical RPG Overworld Pack - Snow Tilesheet_211: -2932791725375258450
+      Tactical RPG Overworld Pack - Snow Tilesheet_212: -4827177250572213420
+      Tactical RPG Overworld Pack - Snow Tilesheet_213: 2648023481581562689
+      Tactical RPG Overworld Pack - Snow Tilesheet_214: 7639702452680962504
+      Tactical RPG Overworld Pack - Snow Tilesheet_215: -8046674432508398121
+      Tactical RPG Overworld Pack - Snow Tilesheet_216: 5996530544900450298
+      Tactical RPG Overworld Pack - Snow Tilesheet_217: 4944270831418043058
+      Tactical RPG Overworld Pack - Snow Tilesheet_218: -7174247619784206453
+      Tactical RPG Overworld Pack - Snow Tilesheet_219: -4593343704658170767
+      Tactical RPG Overworld Pack - Snow Tilesheet_22: 5762932570458849760
+      Tactical RPG Overworld Pack - Snow Tilesheet_220: 3687081337112814517
+      Tactical RPG Overworld Pack - Snow Tilesheet_221: 2742456732498679597
+      Tactical RPG Overworld Pack - Snow Tilesheet_222: -8835344266413023612
+      Tactical RPG Overworld Pack - Snow Tilesheet_223: -8581921436905633924
+      Tactical RPG Overworld Pack - Snow Tilesheet_224: 2955097810301135179
+      Tactical RPG Overworld Pack - Snow Tilesheet_225: -8596128540605642516
+      Tactical RPG Overworld Pack - Snow Tilesheet_226: 4103590443195863995
+      Tactical RPG Overworld Pack - Snow Tilesheet_227: -2124044928229937696
+      Tactical RPG Overworld Pack - Snow Tilesheet_228: 937740639487073719
+      Tactical RPG Overworld Pack - Snow Tilesheet_229: -4244462398325345648
+      Tactical RPG Overworld Pack - Snow Tilesheet_23: 6475409902796451412
+      Tactical RPG Overworld Pack - Snow Tilesheet_230: -1164361469174805747
+      Tactical RPG Overworld Pack - Snow Tilesheet_231: -1256111424452590498
+      Tactical RPG Overworld Pack - Snow Tilesheet_232: -3927771554705323487
+      Tactical RPG Overworld Pack - Snow Tilesheet_233: -3009718540130806450
+      Tactical RPG Overworld Pack - Snow Tilesheet_24: 2244125314411079766
+      Tactical RPG Overworld Pack - Snow Tilesheet_25: 7621123464467327721
+      Tactical RPG Overworld Pack - Snow Tilesheet_26: -6473412400097155157
+      Tactical RPG Overworld Pack - Snow Tilesheet_27: 7156650468724186972
+      Tactical RPG Overworld Pack - Snow Tilesheet_28: -5841470877143409076
+      Tactical RPG Overworld Pack - Snow Tilesheet_29: 7386625270846345654
+      Tactical RPG Overworld Pack - Snow Tilesheet_3: 3067221667510469336
+      Tactical RPG Overworld Pack - Snow Tilesheet_30: -4455981606033907477
+      Tactical RPG Overworld Pack - Snow Tilesheet_31: 7372221935398948647
+      Tactical RPG Overworld Pack - Snow Tilesheet_32: 5545475959607170086
+      Tactical RPG Overworld Pack - Snow Tilesheet_33: 2709226152328887372
+      Tactical RPG Overworld Pack - Snow Tilesheet_34: 3338772852402545698
+      Tactical RPG Overworld Pack - Snow Tilesheet_35: -600011518051082376
+      Tactical RPG Overworld Pack - Snow Tilesheet_36: 7942411619090247126
+      Tactical RPG Overworld Pack - Snow Tilesheet_37: -2152311435839706639
+      Tactical RPG Overworld Pack - Snow Tilesheet_38: -3940419772418927101
+      Tactical RPG Overworld Pack - Snow Tilesheet_39: -175275097119980600
+      Tactical RPG Overworld Pack - Snow Tilesheet_4: -1253028343715018233
+      Tactical RPG Overworld Pack - Snow Tilesheet_40: -3512589317540182419
+      Tactical RPG Overworld Pack - Snow Tilesheet_41: -7405118902658019060
+      Tactical RPG Overworld Pack - Snow Tilesheet_42: 5165280411545080749
+      Tactical RPG Overworld Pack - Snow Tilesheet_43: -3314821761745026875
+      Tactical RPG Overworld Pack - Snow Tilesheet_44: -1104095313188491458
+      Tactical RPG Overworld Pack - Snow Tilesheet_45: 5780342027350866501
+      Tactical RPG Overworld Pack - Snow Tilesheet_46: 7767878680853090687
+      Tactical RPG Overworld Pack - Snow Tilesheet_47: -8074865267248470919
+      Tactical RPG Overworld Pack - Snow Tilesheet_48: 1852309958011951566
+      Tactical RPG Overworld Pack - Snow Tilesheet_49: -6329291824288507734
+      Tactical RPG Overworld Pack - Snow Tilesheet_5: 4261672286612518927
+      Tactical RPG Overworld Pack - Snow Tilesheet_50: -7340391583384366134
+      Tactical RPG Overworld Pack - Snow Tilesheet_51: 688133534656485736
+      Tactical RPG Overworld Pack - Snow Tilesheet_52: 1501635164922512042
+      Tactical RPG Overworld Pack - Snow Tilesheet_53: 6149731131703203495
+      Tactical RPG Overworld Pack - Snow Tilesheet_54: -4188543370617896777
+      Tactical RPG Overworld Pack - Snow Tilesheet_55: 3430834097137116483
+      Tactical RPG Overworld Pack - Snow Tilesheet_56: -7091879991706032429
+      Tactical RPG Overworld Pack - Snow Tilesheet_57: 586682539200253888
+      Tactical RPG Overworld Pack - Snow Tilesheet_58: -402697821097340853
+      Tactical RPG Overworld Pack - Snow Tilesheet_59: 2522650996310724614
+      Tactical RPG Overworld Pack - Snow Tilesheet_6: -2491539347545423197
+      Tactical RPG Overworld Pack - Snow Tilesheet_60: 3895605661307993524
+      Tactical RPG Overworld Pack - Snow Tilesheet_61: -169433994189751880
+      Tactical RPG Overworld Pack - Snow Tilesheet_62: -8702609896483008938
+      Tactical RPG Overworld Pack - Snow Tilesheet_63: -7919947585378382788
+      Tactical RPG Overworld Pack - Snow Tilesheet_64: -4588405471296810351
+      Tactical RPG Overworld Pack - Snow Tilesheet_65: -401434119175307507
+      Tactical RPG Overworld Pack - Snow Tilesheet_66: 732539051903134330
+      Tactical RPG Overworld Pack - Snow Tilesheet_67: -4327555659635686277
+      Tactical RPG Overworld Pack - Snow Tilesheet_68: 3522523795360599884
+      Tactical RPG Overworld Pack - Snow Tilesheet_69: -7092786160614556880
+      Tactical RPG Overworld Pack - Snow Tilesheet_7: -8813270162918307644
+      Tactical RPG Overworld Pack - Snow Tilesheet_70: 8596955381103436935
+      Tactical RPG Overworld Pack - Snow Tilesheet_71: -7194458846362602608
+      Tactical RPG Overworld Pack - Snow Tilesheet_72: 1147580548178790717
+      Tactical RPG Overworld Pack - Snow Tilesheet_73: 8870506035754527205
+      Tactical RPG Overworld Pack - Snow Tilesheet_74: 4729780011646116952
+      Tactical RPG Overworld Pack - Snow Tilesheet_75: -4134526462490128064
+      Tactical RPG Overworld Pack - Snow Tilesheet_76: -5355719753932684817
+      Tactical RPG Overworld Pack - Snow Tilesheet_77: 5258916982492751043
+      Tactical RPG Overworld Pack - Snow Tilesheet_78: -5937925598978772255
+      Tactical RPG Overworld Pack - Snow Tilesheet_79: -7608931967613709612
+      Tactical RPG Overworld Pack - Snow Tilesheet_8: 3997042362650330288
+      Tactical RPG Overworld Pack - Snow Tilesheet_80: -2431996152174479687
+      Tactical RPG Overworld Pack - Snow Tilesheet_81: -8555753981483348729
+      Tactical RPG Overworld Pack - Snow Tilesheet_82: 3758098299731611855
+      Tactical RPG Overworld Pack - Snow Tilesheet_83: -160989145514507681
+      Tactical RPG Overworld Pack - Snow Tilesheet_84: 4673416040907102345
+      Tactical RPG Overworld Pack - Snow Tilesheet_85: -7806837891039115381
+      Tactical RPG Overworld Pack - Snow Tilesheet_86: -917460038849421998
+      Tactical RPG Overworld Pack - Snow Tilesheet_87: -7887989058782555189
+      Tactical RPG Overworld Pack - Snow Tilesheet_88: -1104517486434184027
+      Tactical RPG Overworld Pack - Snow Tilesheet_89: -6579898643392168316
+      Tactical RPG Overworld Pack - Snow Tilesheet_9: 8313031013223939710
+      Tactical RPG Overworld Pack - Snow Tilesheet_90: -1373852253724891881
+      Tactical RPG Overworld Pack - Snow Tilesheet_91: 46540892394651101
+      Tactical RPG Overworld Pack - Snow Tilesheet_92: -8893933269143043146
+      Tactical RPG Overworld Pack - Snow Tilesheet_93: 4025466624063145587
+      Tactical RPG Overworld Pack - Snow Tilesheet_94: -3735896340613342559
+      Tactical RPG Overworld Pack - Snow Tilesheet_95: -7720037218718225019
+      Tactical RPG Overworld Pack - Snow Tilesheet_96: -6069150834901366882
+      Tactical RPG Overworld Pack - Snow Tilesheet_97: 7495432072169281524
+      Tactical RPG Overworld Pack - Snow Tilesheet_98: 5274085304462488603
+      Tactical RPG Overworld Pack - Snow Tilesheet_99: 4620673830379406247
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
