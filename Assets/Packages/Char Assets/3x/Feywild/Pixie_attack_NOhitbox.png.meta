@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixie_attack_NOhitbox_0: -2583557972096571649
+      Pixie_attack_NOhitbox_1: 8796380888770265733
+      Pixie_attack_NOhitbox_10: -5177543399259185410
+      Pixie_attack_NOhitbox_11: -7914346105830947172
+      Pixie_attack_NOhitbox_12: 5759683603701235156
+      Pixie_attack_NOhitbox_13: -1399918492852574711
+      Pixie_attack_NOhitbox_14: -6208317190179060012
+      Pixie_attack_NOhitbox_15: 7261270468681764727
+      Pixie_attack_NOhitbox_16: 8264450523245266449
+      Pixie_attack_NOhitbox_17: 5611785764257419715
+      Pixie_attack_NOhitbox_18: -5161823356252468553
+      Pixie_attack_NOhitbox_19: 5479341378896398075
+      Pixie_attack_NOhitbox_2: 6502458501306220468
+      Pixie_attack_NOhitbox_3: -3020509881338526048
+      Pixie_attack_NOhitbox_4: -7932713085266077745
+      Pixie_attack_NOhitbox_5: -1891404374717735496
+      Pixie_attack_NOhitbox_6: -1382064745965897746
+      Pixie_attack_NOhitbox_7: 2867571090473037150
+      Pixie_attack_NOhitbox_8: 3150088292908599494
+      Pixie_attack_NOhitbox_9: 2512964575091910659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_attack_NOhitbox_0: 7615195861876180908
+      Satyr_attack_NOhitbox_1: -1886521097019729242
+      Satyr_attack_NOhitbox_10: 8602420370672936825
+      Satyr_attack_NOhitbox_11: -3841707479737978205
+      Satyr_attack_NOhitbox_12: 5075686706447545150
+      Satyr_attack_NOhitbox_13: 1154639126893356779
+      Satyr_attack_NOhitbox_14: -4117808715269691947
+      Satyr_attack_NOhitbox_15: -7572864708522341144
+      Satyr_attack_NOhitbox_16: -1055310096637419349
+      Satyr_attack_NOhitbox_17: -976321497174139460
+      Satyr_attack_NOhitbox_18: 6096425658269705712
+      Satyr_attack_NOhitbox_19: -2645434325663157707
+      Satyr_attack_NOhitbox_2: 7262083419383625276
+      Satyr_attack_NOhitbox_3: 6630587433615207236
+      Satyr_attack_NOhitbox_4: -3952183704478505021
+      Satyr_attack_NOhitbox_5: -260110769766875126
+      Satyr_attack_NOhitbox_6: 9189124297634340849
+      Satyr_attack_NOhitbox_7: 6999522630606265047
+      Satyr_attack_NOhitbox_8: -5155102347722856614
+      Satyr_attack_NOhitbox_9: -7226693680047426246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

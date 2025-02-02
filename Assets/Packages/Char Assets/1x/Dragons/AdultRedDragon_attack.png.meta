@@ -1259,7 +1259,53 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_attack_0: 168747214021981268
+      AdultRedDragon_attack_1: 983547667537478892
+      AdultRedDragon_attack_10: 9038961126292320385
+      AdultRedDragon_attack_11: 4577026046103215838
+      AdultRedDragon_attack_12: -3584089769712461384
+      AdultRedDragon_attack_13: 7539743226611135964
+      AdultRedDragon_attack_14: 982116059902314480
+      AdultRedDragon_attack_15: -5969992755938634306
+      AdultRedDragon_attack_16: -5533912081464057951
+      AdultRedDragon_attack_17: -5336232646497298721
+      AdultRedDragon_attack_18: -4972981843132152345
+      AdultRedDragon_attack_19: 8581316840639429206
+      AdultRedDragon_attack_2: 2080548417908424246
+      AdultRedDragon_attack_20: -8994088068544167422
+      AdultRedDragon_attack_21: -4880884126292458588
+      AdultRedDragon_attack_22: -7772635108065323817
+      AdultRedDragon_attack_23: 2027463799162782984
+      AdultRedDragon_attack_24: 5919962366958036731
+      AdultRedDragon_attack_25: -6779892393795669470
+      AdultRedDragon_attack_26: -8445265961825721653
+      AdultRedDragon_attack_27: -4489325374313637437
+      AdultRedDragon_attack_28: 5530527602074557888
+      AdultRedDragon_attack_29: -5106263240096039901
+      AdultRedDragon_attack_3: -5786941900705726007
+      AdultRedDragon_attack_30: 5101194972413947739
+      AdultRedDragon_attack_31: 479947115315469283
+      AdultRedDragon_attack_32: -5572548588747728521
+      AdultRedDragon_attack_33: 8410746476244607287
+      AdultRedDragon_attack_34: 2195635078853344887
+      AdultRedDragon_attack_35: -3824887831133682122
+      AdultRedDragon_attack_36: 2051861470387130186
+      AdultRedDragon_attack_37: -6278700689545096254
+      AdultRedDragon_attack_38: 3206691478939395066
+      AdultRedDragon_attack_39: 5774802217825273326
+      AdultRedDragon_attack_4: 8014870761031558014
+      AdultRedDragon_attack_40: 8176949138235118068
+      AdultRedDragon_attack_41: -8253287324397597458
+      AdultRedDragon_attack_42: 7967579564151392446
+      AdultRedDragon_attack_43: -4877101083835814670
+      AdultRedDragon_attack_44: -8996436774228459460
+      AdultRedDragon_attack_45: -5173842714751027106
+      AdultRedDragon_attack_5: -5108777325454076351
+      AdultRedDragon_attack_6: -2975897197170318262
+      AdultRedDragon_attack_7: 4189427159213464425
+      AdultRedDragon_attack_8: 3454596085153959689
+      AdultRedDragon_attack_9: -5214720621067415814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

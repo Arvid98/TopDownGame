@@ -909,7 +909,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BheurHag_attack_0: -7391930347582364256
+      BheurHag_attack_1: 5952154068237994195
+      BheurHag_attack_10: -8139463497226906822
+      BheurHag_attack_11: 2707166094101791569
+      BheurHag_attack_12: -6371643395625153822
+      BheurHag_attack_13: 6243921183020313536
+      BheurHag_attack_14: 5743515041532426750
+      BheurHag_attack_15: -2088154514519161583
+      BheurHag_attack_16: -7126593867084361371
+      BheurHag_attack_17: -602269165889091305
+      BheurHag_attack_18: -5284833372519474011
+      BheurHag_attack_19: 2471309283847021070
+      BheurHag_attack_2: -7891842167459905438
+      BheurHag_attack_20: -3746473625560206956
+      BheurHag_attack_21: -2114977793658122309
+      BheurHag_attack_22: 6432844919426186306
+      BheurHag_attack_23: 6660932172611295542
+      BheurHag_attack_24: -1400624575846512673
+      BheurHag_attack_25: -3391687598708094152
+      BheurHag_attack_26: 6659202284210514698
+      BheurHag_attack_27: 4686828896873658000
+      BheurHag_attack_28: -218300277615425541
+      BheurHag_attack_29: -10819129276015687
+      BheurHag_attack_3: 9073925995633942317
+      BheurHag_attack_30: -6276812686775242236
+      BheurHag_attack_31: 8515608722895253863
+      BheurHag_attack_4: 8854219803027181349
+      BheurHag_attack_5: 8327929383698039303
+      BheurHag_attack_6: 5418796864128240257
+      BheurHag_attack_7: -2148318734424112903
+      BheurHag_attack_8: 8226738340110395838
+      BheurHag_attack_9: 7655864336579858186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

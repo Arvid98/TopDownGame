@@ -909,7 +909,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_hit_0: 2772434666302810032
+      Efreet_hit_1: 520958620368677855
+      Efreet_hit_10: -2530301026975619882
+      Efreet_hit_11: 6963775184918009600
+      Efreet_hit_12: -6690359395052506520
+      Efreet_hit_13: 3612654797188078206
+      Efreet_hit_14: -3966864693481416389
+      Efreet_hit_15: 6775096358402532195
+      Efreet_hit_16: -2868770467469150997
+      Efreet_hit_17: -8012964812374425677
+      Efreet_hit_18: -5473910418805749914
+      Efreet_hit_19: -4131010336695829879
+      Efreet_hit_2: -5126032525892741392
+      Efreet_hit_20: 5367479131679241594
+      Efreet_hit_21: -1617103110072433624
+      Efreet_hit_22: 6124182971749233054
+      Efreet_hit_23: -7266483998478687688
+      Efreet_hit_24: 4148791831133796868
+      Efreet_hit_25: -4768081377190151301
+      Efreet_hit_26: -4186115117384661825
+      Efreet_hit_27: 694657054003324574
+      Efreet_hit_28: 4140368369369009100
+      Efreet_hit_29: -4205648015019306205
+      Efreet_hit_3: 5439868772085222561
+      Efreet_hit_30: 1427737272897963361
+      Efreet_hit_31: 2369522289333514522
+      Efreet_hit_4: -2432944634979512947
+      Efreet_hit_5: -5883668985940787849
+      Efreet_hit_6: 3388732540137433436
+      Efreet_hit_7: 5491906618775426124
+      Efreet_hit_8: -4828565832965214882
+      Efreet_hit_9: -8969973247282468537
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

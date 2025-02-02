@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cyclops_attack_0: -9065059794094345476
+      Cyclops_attack_1: 4342221194038762369
+      Cyclops_attack_10: 82546375217260853
+      Cyclops_attack_11: 3338606086677307388
+      Cyclops_attack_2: -5767555209319944036
+      Cyclops_attack_3: -7440172149551395328
+      Cyclops_attack_4: 754444226708940207
+      Cyclops_attack_5: -1726755505579635409
+      Cyclops_attack_6: 1730159844756425973
+      Cyclops_attack_7: 1177398708129999848
+      Cyclops_attack_8: -2785171391033866305
+      Cyclops_attack_9: -6988675303346551135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

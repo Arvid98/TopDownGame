@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gog_attack_NOhitbox_0: 2717940125221938529
+      Gog_attack_NOhitbox_1: -413741277058281398
+      Gog_attack_NOhitbox_10: 7646297772347435043
+      Gog_attack_NOhitbox_11: -3017542165801178979
+      Gog_attack_NOhitbox_12: 2367586799483405450
+      Gog_attack_NOhitbox_13: 2393306955095347752
+      Gog_attack_NOhitbox_14: 135641051159966399
+      Gog_attack_NOhitbox_15: -2841552718083134726
+      Gog_attack_NOhitbox_16: 6794840784480386830
+      Gog_attack_NOhitbox_17: 2789730292034291132
+      Gog_attack_NOhitbox_18: 1182281995690212594
+      Gog_attack_NOhitbox_19: -3644565320000047242
+      Gog_attack_NOhitbox_2: 3577128765400184611
+      Gog_attack_NOhitbox_3: 383710059142842518
+      Gog_attack_NOhitbox_4: 750562021872908914
+      Gog_attack_NOhitbox_5: 4735830717071417931
+      Gog_attack_NOhitbox_6: 7488168764801619277
+      Gog_attack_NOhitbox_7: -4816772606728881428
+      Gog_attack_NOhitbox_8: -36569880876239239
+      Gog_attack_NOhitbox_9: 7510566569919056457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

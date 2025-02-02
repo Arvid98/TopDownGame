@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabbitSoldier_attack_NOhitbox_0: 3084419446877131184
+      RabbitSoldier_attack_NOhitbox_1: 6162624410509965665
+      RabbitSoldier_attack_NOhitbox_10: 4252574309170476494
+      RabbitSoldier_attack_NOhitbox_11: -7198090868771201870
+      RabbitSoldier_attack_NOhitbox_12: 2654129820217499783
+      RabbitSoldier_attack_NOhitbox_13: -7406661773566544028
+      RabbitSoldier_attack_NOhitbox_14: -9138279749886926989
+      RabbitSoldier_attack_NOhitbox_15: 1050472406894501729
+      RabbitSoldier_attack_NOhitbox_16: -4342760867060641270
+      RabbitSoldier_attack_NOhitbox_17: 4266858085124148836
+      RabbitSoldier_attack_NOhitbox_18: -5521915467849557016
+      RabbitSoldier_attack_NOhitbox_19: -3577383997093650748
+      RabbitSoldier_attack_NOhitbox_2: -5299716159117661091
+      RabbitSoldier_attack_NOhitbox_3: -6419194895397623128
+      RabbitSoldier_attack_NOhitbox_4: -6668544954554004159
+      RabbitSoldier_attack_NOhitbox_5: -5126997768012269259
+      RabbitSoldier_attack_NOhitbox_6: -7023217707134682416
+      RabbitSoldier_attack_NOhitbox_7: -2733625836865432298
+      RabbitSoldier_attack_NOhitbox_8: -2518965519661931224
+      RabbitSoldier_attack_NOhitbox_9: -914426937203721521
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

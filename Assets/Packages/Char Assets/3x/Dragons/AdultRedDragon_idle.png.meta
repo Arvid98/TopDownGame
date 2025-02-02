@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_idle_0: 8488628544198236698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

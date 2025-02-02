@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medusa_idle_0: -8406447148754612889
+      Medusa_idle_1: 5776539265617427597
+      Medusa_idle_10: 5380998233786370635
+      Medusa_idle_11: -7909393730159268638
+      Medusa_idle_12: 1172312222582160428
+      Medusa_idle_13: -8505834857511606431
+      Medusa_idle_14: 8579762265878536570
+      Medusa_idle_15: -3277757547590777037
+      Medusa_idle_2: 7828600304539526143
+      Medusa_idle_3: 8604546184361958055
+      Medusa_idle_4: 5648560729270772815
+      Medusa_idle_5: 8765948811082239405
+      Medusa_idle_6: 6845762391655345015
+      Medusa_idle_7: -3127843362753733367
+      Medusa_idle_8: -1086200050505736890
+      Medusa_idle_9: 2092713682001854183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

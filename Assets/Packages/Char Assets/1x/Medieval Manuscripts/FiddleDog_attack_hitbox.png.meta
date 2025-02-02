@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FiddleDog_attack_hitbox_0: -6517587061276327060
+      FiddleDog_attack_hitbox_1: -5033469920214101857
+      FiddleDog_attack_hitbox_10: 2329177189635136781
+      FiddleDog_attack_hitbox_11: 8130251293306527383
+      FiddleDog_attack_hitbox_12: -5185195173229688831
+      FiddleDog_attack_hitbox_13: 3511506069984871854
+      FiddleDog_attack_hitbox_2: 3297681909162950076
+      FiddleDog_attack_hitbox_3: 799004095429126054
+      FiddleDog_attack_hitbox_4: -3319004078310074201
+      FiddleDog_attack_hitbox_5: -1712777457746398180
+      FiddleDog_attack_hitbox_6: 7577717171975685343
+      FiddleDog_attack_hitbox_7: -8820925802098605100
+      FiddleDog_attack_hitbox_8: 5706447529714844946
+      FiddleDog_attack_hitbox_9: -906067466285179149
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_die_0: 5033364069088653714
+      Slime_die_1: 5173069555109072072
+      Slime_die_2: 3465651847461016106
+      Slime_die_3: -7940569086879605001
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

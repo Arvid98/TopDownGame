@@ -1409,7 +1409,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_attack_hitbox_0: -2532767078293825202
+      AdultRedDragon_attack_hitbox_1: 3611578349737516363
+      AdultRedDragon_attack_hitbox_10: 1646584908696073312
+      AdultRedDragon_attack_hitbox_11: 274182906356558317
+      AdultRedDragon_attack_hitbox_12: -4968230790502871559
+      AdultRedDragon_attack_hitbox_13: -2161085535542612884
+      AdultRedDragon_attack_hitbox_14: 5113567842545120436
+      AdultRedDragon_attack_hitbox_15: -1915164510222490610
+      AdultRedDragon_attack_hitbox_16: -155651466315665945
+      AdultRedDragon_attack_hitbox_17: -2329964846605461664
+      AdultRedDragon_attack_hitbox_18: -9061173853221361690
+      AdultRedDragon_attack_hitbox_19: -1521003261243811521
+      AdultRedDragon_attack_hitbox_2: 6943480580526170242
+      AdultRedDragon_attack_hitbox_20: -3985367800911234725
+      AdultRedDragon_attack_hitbox_21: -1168852401572542923
+      AdultRedDragon_attack_hitbox_22: -5929041393282866556
+      AdultRedDragon_attack_hitbox_23: -4698426691711202215
+      AdultRedDragon_attack_hitbox_24: 7796013557940885534
+      AdultRedDragon_attack_hitbox_25: -1379473342810130886
+      AdultRedDragon_attack_hitbox_26: 488042415465781605
+      AdultRedDragon_attack_hitbox_27: 4199046569180120114
+      AdultRedDragon_attack_hitbox_28: -1852164473374125813
+      AdultRedDragon_attack_hitbox_29: -2174846762178653352
+      AdultRedDragon_attack_hitbox_3: -4830063357959683317
+      AdultRedDragon_attack_hitbox_30: -2162919135227578225
+      AdultRedDragon_attack_hitbox_31: 4093827249051963238
+      AdultRedDragon_attack_hitbox_32: -6616744861570112574
+      AdultRedDragon_attack_hitbox_33: -456991657866140197
+      AdultRedDragon_attack_hitbox_34: -3073319240305077544
+      AdultRedDragon_attack_hitbox_35: 3448258457343705863
+      AdultRedDragon_attack_hitbox_36: 7060063612971719698
+      AdultRedDragon_attack_hitbox_37: 2206471540149978180
+      AdultRedDragon_attack_hitbox_38: 8763622742850703638
+      AdultRedDragon_attack_hitbox_39: 7615960286674838638
+      AdultRedDragon_attack_hitbox_4: -4189335399526218305
+      AdultRedDragon_attack_hitbox_40: 785605651364251985
+      AdultRedDragon_attack_hitbox_41: 5885613572403339185
+      AdultRedDragon_attack_hitbox_42: 8925342197240086217
+      AdultRedDragon_attack_hitbox_43: 8734639320735873001
+      AdultRedDragon_attack_hitbox_44: 787872057983992759
+      AdultRedDragon_attack_hitbox_45: 7975632058569862891
+      AdultRedDragon_attack_hitbox_46: -624112710677712944
+      AdultRedDragon_attack_hitbox_47: 1581151397393805168
+      AdultRedDragon_attack_hitbox_48: -7903337325101083488
+      AdultRedDragon_attack_hitbox_49: 8877345811153387682
+      AdultRedDragon_attack_hitbox_5: -3784871786209874135
+      AdultRedDragon_attack_hitbox_50: 8193619696936365260
+      AdultRedDragon_attack_hitbox_51: 2387893469834984913
+      AdultRedDragon_attack_hitbox_6: 144373596844802936
+      AdultRedDragon_attack_hitbox_7: 934831694094535667
+      AdultRedDragon_attack_hitbox_8: 3542802300726111512
+      AdultRedDragon_attack_hitbox_9: 3651433220559213731
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

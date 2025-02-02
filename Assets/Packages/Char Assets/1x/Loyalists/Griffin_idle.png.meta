@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Griffin_idle_0: -3786204522268019856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

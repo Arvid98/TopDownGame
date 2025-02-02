@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planetar_idle_0: 6247006988322632248
+      Planetar_idle_1: -5875891897013174918
+      Planetar_idle_10: 6729210194840377178
+      Planetar_idle_11: 2140206058411144155
+      Planetar_idle_12: 9110486367117546016
+      Planetar_idle_13: 4876934907264068024
+      Planetar_idle_14: -978389532927315010
+      Planetar_idle_15: 8316532894761303728
+      Planetar_idle_2: -7217519895852094947
+      Planetar_idle_3: -9150749127194850092
+      Planetar_idle_4: 5518216297222986903
+      Planetar_idle_5: -4102894713613760030
+      Planetar_idle_6: -7632066582696641706
+      Planetar_idle_7: 7360384194222397002
+      Planetar_idle_8: -7033363614108337966
+      Planetar_idle_9: 1362999961739867658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

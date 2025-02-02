@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeathKnight_noOutline_0: -4477142630079352006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

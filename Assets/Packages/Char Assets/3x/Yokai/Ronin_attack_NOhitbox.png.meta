@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ronin_attack_NOhitbox_0: -7456350037203845469
+      Ronin_attack_NOhitbox_1: 2875711545537542723
+      Ronin_attack_NOhitbox_10: -2514240151566326950
+      Ronin_attack_NOhitbox_11: -6389344940167735127
+      Ronin_attack_NOhitbox_12: -4017320934437128544
+      Ronin_attack_NOhitbox_13: -8177105029658366248
+      Ronin_attack_NOhitbox_14: -8044842917630582276
+      Ronin_attack_NOhitbox_15: -3130707849513977806
+      Ronin_attack_NOhitbox_16: 5638487805168583780
+      Ronin_attack_NOhitbox_17: -8878068651513371141
+      Ronin_attack_NOhitbox_18: 7416403810764178037
+      Ronin_attack_NOhitbox_19: 6241404399024371199
+      Ronin_attack_NOhitbox_2: -2419946641072743235
+      Ronin_attack_NOhitbox_3: -1777752713229370263
+      Ronin_attack_NOhitbox_4: 8246376587505279771
+      Ronin_attack_NOhitbox_5: 2539424440927481481
+      Ronin_attack_NOhitbox_6: -6555256946872833061
+      Ronin_attack_NOhitbox_7: 4704934947709265563
+      Ronin_attack_NOhitbox_8: -1823093195178753700
+      Ronin_attack_NOhitbox_9: -2700379525612684087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

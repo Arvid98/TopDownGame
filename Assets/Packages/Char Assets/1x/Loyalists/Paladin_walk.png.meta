@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_walk_0: 4234663633039187050
+      Paladin_walk_1: 8496450384753270499
+      Paladin_walk_10: 4452225599803424345
+      Paladin_walk_11: -2404351691271975114
+      Paladin_walk_12: 4340491993769169748
+      Paladin_walk_2: 695664248118227468
+      Paladin_walk_3: 575521026231983171
+      Paladin_walk_4: 3875201452878108807
+      Paladin_walk_5: 4248002829115950148
+      Paladin_walk_6: 8838590729485803863
+      Paladin_walk_7: -2464983326201541541
+      Paladin_walk_8: -2713059489825538823
+      Paladin_walk_9: 909489775971120939
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

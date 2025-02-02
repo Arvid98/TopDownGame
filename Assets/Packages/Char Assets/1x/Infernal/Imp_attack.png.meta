@@ -959,7 +959,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Imp_attack_0: 7814355260057943461
+      Imp_attack_1: -8612799192307492346
+      Imp_attack_10: -2778989841226766686
+      Imp_attack_11: -5323208568007777368
+      Imp_attack_12: 5142583598483878219
+      Imp_attack_13: 7297974481214981088
+      Imp_attack_14: -6229769447907515410
+      Imp_attack_15: -5368104493812067398
+      Imp_attack_16: 2764325147164913740
+      Imp_attack_17: 9060088187086574158
+      Imp_attack_18: -7502567166667077242
+      Imp_attack_19: -4437928232100736078
+      Imp_attack_2: -7070322053462498323
+      Imp_attack_20: -3775052608767166731
+      Imp_attack_21: -773308444872983956
+      Imp_attack_22: 7526368104742795524
+      Imp_attack_23: 5873677915731097235
+      Imp_attack_24: -9007376242385333696
+      Imp_attack_25: 5213159613651522336
+      Imp_attack_26: 7014847786455314938
+      Imp_attack_27: -436835682028405125
+      Imp_attack_28: 7477224204866087184
+      Imp_attack_29: 1189577222239213797
+      Imp_attack_3: -6846383248038207338
+      Imp_attack_30: -8099480972994308231
+      Imp_attack_31: -6765558052783011521
+      Imp_attack_32: 7979393660921092944
+      Imp_attack_33: 3685919091569471272
+      Imp_attack_4: 3979215175954148729
+      Imp_attack_5: 1750770211707460195
+      Imp_attack_6: -6738106439439038328
+      Imp_attack_7: -2836112140749879004
+      Imp_attack_8: -4002752828078186274
+      Imp_attack_9: -6907609468280060704
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

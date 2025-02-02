@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon_attack_0: 1412167188103901209
+      Demon_attack_1: 5665809299038944316
+      Demon_attack_10: 604044515146654213
+      Demon_attack_11: -6413396634407977764
+      Demon_attack_12: -7592951507680465034
+      Demon_attack_13: -4747113249892347013
+      Demon_attack_14: 2845839600219194232
+      Demon_attack_15: 3521090572565878963
+      Demon_attack_16: -4197337762024288699
+      Demon_attack_17: -8824300321444753094
+      Demon_attack_18: -6324081446268232204
+      Demon_attack_19: 5927376071895845296
+      Demon_attack_2: 2571983377489318032
+      Demon_attack_20: -5255589703022707287
+      Demon_attack_21: 6777520254940328119
+      Demon_attack_22: 6534483506631625310
+      Demon_attack_23: 6665056451181583779
+      Demon_attack_24: -8060279050260987052
+      Demon_attack_25: 8383987425057023146
+      Demon_attack_26: -67523479552751719
+      Demon_attack_27: 5032217958312265499
+      Demon_attack_28: -2875942015421057720
+      Demon_attack_29: 1479545700089137310
+      Demon_attack_3: 3300015845035935843
+      Demon_attack_30: 8192844825126295811
+      Demon_attack_31: -7333223594123205764
+      Demon_attack_32: 4388557744947823937
+      Demon_attack_33: 4292668246310886481
+      Demon_attack_34: -1797424692200862442
+      Demon_attack_35: -1285360597958830227
+      Demon_attack_4: 2771247553034858156
+      Demon_attack_5: -8384051324722684964
+      Demon_attack_6: 3979082603003951685
+      Demon_attack_7: 8647089929124875345
+      Demon_attack_8: -940722744740658230
+      Demon_attack_9: 8877688658054959397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

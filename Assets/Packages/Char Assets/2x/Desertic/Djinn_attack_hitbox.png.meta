@@ -1259,7 +1259,53 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_attack_hitbox_0: -879636705957008146
+      Djinn_attack_hitbox_1: -5239889886361827781
+      Djinn_attack_hitbox_10: 3643467056090045691
+      Djinn_attack_hitbox_11: 2131392535475407672
+      Djinn_attack_hitbox_12: -2147185472435582037
+      Djinn_attack_hitbox_13: 8086514478979350639
+      Djinn_attack_hitbox_14: -1399500025721808918
+      Djinn_attack_hitbox_15: -352065690967757492
+      Djinn_attack_hitbox_16: -1471123911950544839
+      Djinn_attack_hitbox_17: 852549721595770237
+      Djinn_attack_hitbox_18: 9155379261158319577
+      Djinn_attack_hitbox_19: 3912392712385459664
+      Djinn_attack_hitbox_2: 431114108486372642
+      Djinn_attack_hitbox_20: 7651220498149522224
+      Djinn_attack_hitbox_21: -1623928511854246816
+      Djinn_attack_hitbox_22: 3407367594177858507
+      Djinn_attack_hitbox_23: -6938469034838257489
+      Djinn_attack_hitbox_24: -7273354455789506164
+      Djinn_attack_hitbox_25: -6900185574145551258
+      Djinn_attack_hitbox_26: -6458589444004122016
+      Djinn_attack_hitbox_27: -1520063329611771117
+      Djinn_attack_hitbox_28: -5920664138248115209
+      Djinn_attack_hitbox_29: 5355671860634954365
+      Djinn_attack_hitbox_3: -5277117261208532877
+      Djinn_attack_hitbox_30: -5986316358890848342
+      Djinn_attack_hitbox_31: -3280541817455311021
+      Djinn_attack_hitbox_32: 7032651639052021027
+      Djinn_attack_hitbox_33: -1627430419497414190
+      Djinn_attack_hitbox_34: 4443444525199828106
+      Djinn_attack_hitbox_35: -3358863641053602538
+      Djinn_attack_hitbox_36: 4345163440228504273
+      Djinn_attack_hitbox_37: 8986998209020384692
+      Djinn_attack_hitbox_38: 2158112116732012455
+      Djinn_attack_hitbox_39: -5200846194154312930
+      Djinn_attack_hitbox_4: 4488120310655826346
+      Djinn_attack_hitbox_40: -7350408499507563129
+      Djinn_attack_hitbox_41: -8879411402356774304
+      Djinn_attack_hitbox_42: -6965911608632619795
+      Djinn_attack_hitbox_43: -4606807451901124393
+      Djinn_attack_hitbox_44: 5292702035345549577
+      Djinn_attack_hitbox_45: -137646809782291288
+      Djinn_attack_hitbox_5: -8161306300047294152
+      Djinn_attack_hitbox_6: 7200849441304014329
+      Djinn_attack_hitbox_7: -6304553483775765009
+      Djinn_attack_hitbox_8: -6749875761202751372
+      Djinn_attack_hitbox_9: 375090346564789086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

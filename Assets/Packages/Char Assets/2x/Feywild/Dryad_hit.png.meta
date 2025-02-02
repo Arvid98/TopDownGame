@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dryad_hit_0: -7681893749909513905
+      Dryad_hit_1: 5727824738991475196
+      Dryad_hit_2: -4288536552835065735
+      Dryad_hit_3: 906511494568954443
+      Dryad_hit_4: 8337537761826251261
+      Dryad_hit_5: 1348673174289502017
+      Dryad_hit_6: -2316976967341698789
+      Dryad_hit_7: 2075104918789279933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Villager_02_Idle_0: 7012470138667161170
+      Villager_02_Idle_1: -3719173186480010348
+      Villager_02_Idle_10: -5936951558079949197
+      Villager_02_Idle_11: 5864019243729421883
+      Villager_02_Idle_12: 5246869907039177033
+      Villager_02_Idle_13: 8517435921868208911
+      Villager_02_Idle_14: -7245533085708853414
+      Villager_02_Idle_15: -706989468173442454
+      Villager_02_Idle_2: 2473383345690787492
+      Villager_02_Idle_3: -6573233780619711966
+      Villager_02_Idle_4: -1043370591983599068
+      Villager_02_Idle_5: -2690658168342347667
+      Villager_02_Idle_6: -5232409356037426899
+      Villager_02_Idle_7: 2034707528728414391
+      Villager_02_Idle_8: 4074659530389263503
+      Villager_02_Idle_9: 8138506246320499213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

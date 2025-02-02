@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_idle_0: -2167878223180609541
+      Mummy_idle_1: -7860956130040113990
+      Mummy_idle_10: 8009732292202311159
+      Mummy_idle_11: 7570582634576105546
+      Mummy_idle_12: 8741249202391767935
+      Mummy_idle_13: -7755932597968311979
+      Mummy_idle_14: 3965650451239780789
+      Mummy_idle_15: -419506493382651732
+      Mummy_idle_2: 2818871451065359792
+      Mummy_idle_3: -4507263900313198035
+      Mummy_idle_4: 3004307050652603167
+      Mummy_idle_5: 1685324264783994574
+      Mummy_idle_6: 7452472117963454944
+      Mummy_idle_7: -625797690803999313
+      Mummy_idle_8: -5174663582754062504
+      Mummy_idle_9: -4029596584909587243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

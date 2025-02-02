@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElderSnail_die_0: -855870014088145150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

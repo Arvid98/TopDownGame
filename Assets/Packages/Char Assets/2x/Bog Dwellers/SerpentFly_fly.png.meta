@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_fly_0: -6429686795741622509
+      SerpentFly_fly_1: 8420553648294908743
+      SerpentFly_fly_10: -1103267717332995040
+      SerpentFly_fly_11: 3827890536698844926
+      SerpentFly_fly_12: -8185920488433239415
+      SerpentFly_fly_13: 2641784171010147673
+      SerpentFly_fly_14: 1400133705752631040
+      SerpentFly_fly_15: 9081724241862693620
+      SerpentFly_fly_16: -1798147011144605989
+      SerpentFly_fly_17: 8362796544711356382
+      SerpentFly_fly_18: -9083005430136388455
+      SerpentFly_fly_19: -27036015370408644
+      SerpentFly_fly_2: 4929944371308191947
+      SerpentFly_fly_3: 3867852832470325402
+      SerpentFly_fly_4: 7676681499539988422
+      SerpentFly_fly_5: 1712071118843540276
+      SerpentFly_fly_6: 301935549296419804
+      SerpentFly_fly_7: -3162992698013978192
+      SerpentFly_fly_8: 672676932648767966
+      SerpentFly_fly_9: -6159045404833877635
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

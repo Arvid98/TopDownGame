@@ -584,7 +584,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oni_attack_0: -6557488414093776588
+      Oni_attack_1: 1371605836599051253
+      Oni_attack_10: -8667323627113882573
+      Oni_attack_11: 781659294169812500
+      Oni_attack_12: 9171796376598020001
+      Oni_attack_13: -7942387791217318109
+      Oni_attack_14: -3854368371182291284
+      Oni_attack_15: 88766649221513099
+      Oni_attack_16: 6896315906123703840
+      Oni_attack_17: -635794158172857106
+      Oni_attack_18: -8129447401792719911
+      Oni_attack_2: -3348799185272506817
+      Oni_attack_3: 7610453262192758787
+      Oni_attack_4: -3515369853894976613
+      Oni_attack_5: -8364240794664015420
+      Oni_attack_6: 4251226147638776945
+      Oni_attack_7: 6092914510507038257
+      Oni_attack_8: 2831403655313101984
+      Oni_attack_9: 750782739765206104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

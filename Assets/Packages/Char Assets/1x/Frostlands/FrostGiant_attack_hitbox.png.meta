@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostGiant_attack_hitbox_0: -6687717640158396455
+      FrostGiant_attack_hitbox_1: 5462812302634806663
+      FrostGiant_attack_hitbox_10: -5161529692661919855
+      FrostGiant_attack_hitbox_11: -4475239190689509917
+      FrostGiant_attack_hitbox_12: 4690287605152050246
+      FrostGiant_attack_hitbox_13: 8556631290554495293
+      FrostGiant_attack_hitbox_14: -4718653431863557672
+      FrostGiant_attack_hitbox_15: 9220382145144544035
+      FrostGiant_attack_hitbox_16: 4471642050617533046
+      FrostGiant_attack_hitbox_2: 3024943740036839657
+      FrostGiant_attack_hitbox_3: -5955245092985183847
+      FrostGiant_attack_hitbox_4: -4201943357055208132
+      FrostGiant_attack_hitbox_5: 7759671306666720755
+      FrostGiant_attack_hitbox_6: -3843447814616790224
+      FrostGiant_attack_hitbox_7: 4872164892040944135
+      FrostGiant_attack_hitbox_8: -5268712285303112696
+      FrostGiant_attack_hitbox_9: 2545169473047396679
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

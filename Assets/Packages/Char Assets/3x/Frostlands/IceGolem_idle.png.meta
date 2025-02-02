@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceGolem_idle_0: -5759413403508715668
+      IceGolem_idle_1: -1416724478414228782
+      IceGolem_idle_2: -8076141852579299697
+      IceGolem_idle_3: 3413249116636088863
+      IceGolem_idle_4: -8664303146831403847
+      IceGolem_idle_5: 2786302034367644352
+      IceGolem_idle_6: -759046368244174223
+      IceGolem_idle_7: 6725939899543791304
+      IceGolem_idle_8: -3785618442136912212
+      IceGolem_idle_9: -8938056684831196895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

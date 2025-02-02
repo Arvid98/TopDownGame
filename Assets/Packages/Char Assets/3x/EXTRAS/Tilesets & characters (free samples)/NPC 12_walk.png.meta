@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC 12_walk_0: 4859144286628334027
+      NPC 12_walk_1: -7899043110935525750
+      NPC 12_walk_2: -6863482248093780216
+      NPC 12_walk_3: 5164838750356573360
+      NPC 12_walk_4: -4380663166040034617
+      NPC 12_walk_5: 2545604663912937133
+      NPC 12_walk_6: 1643304174708732957
+      NPC 12_walk_7: -8262426079674852430
+      NPC 12_walk_8: -1859732480767372074
+      NPC 12_walk_9: 6106950170048740281
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

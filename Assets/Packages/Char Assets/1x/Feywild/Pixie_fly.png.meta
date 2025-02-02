@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixie_fly_0: -8345079826030773227
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

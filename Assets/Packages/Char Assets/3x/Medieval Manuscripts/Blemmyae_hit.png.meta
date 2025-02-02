@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blemmyae_hit_0: -2075959513027061209
+      Blemmyae_hit_1: -4781848073106190457
+      Blemmyae_hit_10: 252295361783213350
+      Blemmyae_hit_11: 3665588023529500130
+      Blemmyae_hit_12: -9200248222819177014
+      Blemmyae_hit_13: 7206154591363587372
+      Blemmyae_hit_2: 22832185031657270
+      Blemmyae_hit_3: 6149348556628259640
+      Blemmyae_hit_4: 7487159193523204734
+      Blemmyae_hit_5: -6713850815727408366
+      Blemmyae_hit_6: 107612910229752043
+      Blemmyae_hit_7: -1004665900547017555
+      Blemmyae_hit_8: 2090253251892872526
+      Blemmyae_hit_9: -5431640413395784179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

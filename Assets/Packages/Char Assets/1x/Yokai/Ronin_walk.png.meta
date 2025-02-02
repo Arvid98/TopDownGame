@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ronin_walk_0: 7750069406312552491
+      Ronin_walk_1: -7959952451509584419
+      Ronin_walk_2: 3228001192317773711
+      Ronin_walk_3: 8549872923310813943
+      Ronin_walk_4: 4372249810326413307
+      Ronin_walk_5: -447206672595070680
+      Ronin_walk_6: -6172246635908027851
+      Ronin_walk_7: 5511233809818502434
+      Ronin_walk_8: -6935006511734013506
+      Ronin_walk_9: 2592474871316759068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

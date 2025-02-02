@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bulette_attack_0: 238192640672109003
+      Bulette_attack_1: -9110249995507322504
+      Bulette_attack_10: -3765214349642848905
+      Bulette_attack_11: -1728713422259586090
+      Bulette_attack_12: -5121759495788232902
+      Bulette_attack_13: -1432215872885569097
+      Bulette_attack_14: -3227776071569984187
+      Bulette_attack_15: -1342975061489156665
+      Bulette_attack_16: -9158778794129424459
+      Bulette_attack_17: 8823360353355274223
+      Bulette_attack_18: -1028867774882297242
+      Bulette_attack_19: -3691428195740778419
+      Bulette_attack_2: 8615407564283154034
+      Bulette_attack_20: 4583657325925884534
+      Bulette_attack_21: -873486568926849112
+      Bulette_attack_22: -5840966994295689085
+      Bulette_attack_23: -8279224534019562498
+      Bulette_attack_24: 1123433360281808048
+      Bulette_attack_25: 4163285267753160080
+      Bulette_attack_26: 3933747988447900416
+      Bulette_attack_27: 622869013842754698
+      Bulette_attack_3: -5753015479573843209
+      Bulette_attack_4: -5167553191774741260
+      Bulette_attack_5: -6313582731671423372
+      Bulette_attack_6: 9075912201116872457
+      Bulette_attack_7: 518764844947652199
+      Bulette_attack_8: -7770439150272110680
+      Bulette_attack_9: -2659031280050403689
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

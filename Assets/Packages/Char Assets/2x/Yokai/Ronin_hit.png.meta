@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ronin_hit_0: -7021598073225129341
+      Ronin_hit_1: 8113876835390926108
+      Ronin_hit_10: -6578333395185128978
+      Ronin_hit_11: 2681611014781517065
+      Ronin_hit_12: 3416709434744432404
+      Ronin_hit_13: 7154806317102439541
+      Ronin_hit_14: 5290938405171443348
+      Ronin_hit_15: 3790641648670725780
+      Ronin_hit_2: 227988091406218680
+      Ronin_hit_3: -5212012511096982342
+      Ronin_hit_4: 1033292246199859039
+      Ronin_hit_5: 952808139272666486
+      Ronin_hit_6: 618264076511916697
+      Ronin_hit_7: -6492495786275194119
+      Ronin_hit_8: 6834843187380358324
+      Ronin_hit_9: 1570135095949801860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

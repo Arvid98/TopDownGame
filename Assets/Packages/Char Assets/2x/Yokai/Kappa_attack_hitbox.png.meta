@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kappa_attack_hitbox_0: -645568163143004907
+      Kappa_attack_hitbox_1: 465949661953238952
+      Kappa_attack_hitbox_10: 8628931794180830078
+      Kappa_attack_hitbox_11: 7785053173183597809
+      Kappa_attack_hitbox_12: -5341984407882936554
+      Kappa_attack_hitbox_13: -7483468754839684488
+      Kappa_attack_hitbox_14: -6026887998136745468
+      Kappa_attack_hitbox_15: 1010924769856945396
+      Kappa_attack_hitbox_16: -8459643553964518092
+      Kappa_attack_hitbox_17: 2217736699008242405
+      Kappa_attack_hitbox_18: 2468512344270040018
+      Kappa_attack_hitbox_19: 7739801944642826799
+      Kappa_attack_hitbox_2: 1678264478754177579
+      Kappa_attack_hitbox_20: 1664820652443253370
+      Kappa_attack_hitbox_21: 7944155638235092437
+      Kappa_attack_hitbox_22: 2834031926767063987
+      Kappa_attack_hitbox_23: 6051496472487353340
+      Kappa_attack_hitbox_3: -1417079938323343991
+      Kappa_attack_hitbox_4: -8549251478181240126
+      Kappa_attack_hitbox_5: 460314710037312082
+      Kappa_attack_hitbox_6: -5778185086747450617
+      Kappa_attack_hitbox_7: 69540832817547608
+      Kappa_attack_hitbox_8: -928830782534925681
+      Kappa_attack_hitbox_9: -3072653600563123473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

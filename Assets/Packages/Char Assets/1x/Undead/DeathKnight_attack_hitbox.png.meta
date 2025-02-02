@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeathKnight_attack_hitbox_0: -6650190733061481301
+      DeathKnight_attack_hitbox_1: -4619926155848731915
+      DeathKnight_attack_hitbox_10: -225998481164901010
+      DeathKnight_attack_hitbox_11: 8821723940289983674
+      DeathKnight_attack_hitbox_12: -7872581593113246257
+      DeathKnight_attack_hitbox_13: -3342436328481562030
+      DeathKnight_attack_hitbox_14: -6923262446827918082
+      DeathKnight_attack_hitbox_15: -8145464948528691212
+      DeathKnight_attack_hitbox_2: -8214675846051058697
+      DeathKnight_attack_hitbox_3: 5522591028509452726
+      DeathKnight_attack_hitbox_4: -7103842412535716616
+      DeathKnight_attack_hitbox_5: 2457410633788741706
+      DeathKnight_attack_hitbox_6: -5659503900134638496
+      DeathKnight_attack_hitbox_7: 6835546526557313866
+      DeathKnight_attack_hitbox_8: -8351732066179586212
+      DeathKnight_attack_hitbox_9: 5270923427542631657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

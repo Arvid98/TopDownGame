@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bulette_hit_0: -723351337246362821
+      Bulette_hit_1: 6746515124151796766
+      Bulette_hit_10: 6786800588528244243
+      Bulette_hit_11: 6989568364332149561
+      Bulette_hit_2: 1990208064903443608
+      Bulette_hit_3: 2837586853065948075
+      Bulette_hit_4: -5287643818226877781
+      Bulette_hit_5: -6514337776805577809
+      Bulette_hit_6: 259409012068980113
+      Bulette_hit_7: -9043829447710071414
+      Bulette_hit_8: -3975326894583388014
+      Bulette_hit_9: 8365987995600250284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

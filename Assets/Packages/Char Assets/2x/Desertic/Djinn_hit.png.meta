@@ -909,7 +909,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_hit_0: 974736780121266506
+      Djinn_hit_1: 6956334973138279891
+      Djinn_hit_10: 7780851239001608191
+      Djinn_hit_11: 8753855702070929360
+      Djinn_hit_12: 5762320337072730135
+      Djinn_hit_13: 9112178830147057750
+      Djinn_hit_14: 6357713657275196430
+      Djinn_hit_15: -296542824341438745
+      Djinn_hit_16: 8333264851657070182
+      Djinn_hit_17: -5575428063545079433
+      Djinn_hit_18: -5663773201844598103
+      Djinn_hit_19: -518308881866869400
+      Djinn_hit_2: 3899577218982326731
+      Djinn_hit_20: -2348155057108281367
+      Djinn_hit_21: -6103451029670343023
+      Djinn_hit_22: -3557601499562985153
+      Djinn_hit_23: -5328416434518108590
+      Djinn_hit_24: 708287159158463950
+      Djinn_hit_25: -1615527652207285375
+      Djinn_hit_26: -2974474287829674408
+      Djinn_hit_27: -7863138819988501981
+      Djinn_hit_28: 4689861201465249481
+      Djinn_hit_29: -5884372811917475561
+      Djinn_hit_3: 945327637978861791
+      Djinn_hit_30: 603990429942821026
+      Djinn_hit_31: 6141832174151496634
+      Djinn_hit_4: -5250841824540621244
+      Djinn_hit_5: -2920865426793439778
+      Djinn_hit_6: 2885446010690468186
+      Djinn_hit_7: -2215782413907427906
+      Djinn_hit_8: -6245586464053739016
+      Djinn_hit_9: 4338821341024562953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

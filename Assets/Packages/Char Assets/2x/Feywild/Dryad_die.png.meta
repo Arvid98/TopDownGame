@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dryad_die_0: 6510233956569803527
+      Dryad_die_1: -8317093873014894275
+      Dryad_die_2: -7845295430720095823
+      Dryad_die_3: 8962851978516701649
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

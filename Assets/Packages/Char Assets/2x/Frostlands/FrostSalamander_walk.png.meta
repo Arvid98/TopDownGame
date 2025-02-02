@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_walk_0: 3781156358614427037
+      FrostSalamander_walk_1: -9130657667635831197
+      FrostSalamander_walk_2: -7771313348210983139
+      FrostSalamander_walk_3: 3592691463475539612
+      FrostSalamander_walk_4: -3346017207715204491
+      FrostSalamander_walk_5: -3943949657353369104
+      FrostSalamander_walk_6: 2812301534992548006
+      FrostSalamander_walk_7: 7320251959220645927
+      FrostSalamander_walk_8: 1003700573643662888
+      FrostSalamander_walk_9: 8933737502342415764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

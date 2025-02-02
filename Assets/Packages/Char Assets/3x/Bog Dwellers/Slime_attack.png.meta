@@ -2009,7 +2009,83 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_attack_0: 1853502676295035850
+      Slime_attack_1: -3780878728774728415
+      Slime_attack_10: -6572449059124917691
+      Slime_attack_11: 8227064704337947862
+      Slime_attack_12: -2045742954263066296
+      Slime_attack_13: 8707267200688273522
+      Slime_attack_14: 1519471831420696728
+      Slime_attack_15: -7623421415556682984
+      Slime_attack_16: -1194446453169468088
+      Slime_attack_17: -4727004611138957139
+      Slime_attack_18: -5521764138832356934
+      Slime_attack_19: 1512288390933477389
+      Slime_attack_2: -612161469665934245
+      Slime_attack_20: 2795683841645876742
+      Slime_attack_21: -8760656461796779196
+      Slime_attack_22: -8989810924897306338
+      Slime_attack_23: 1522559845499217551
+      Slime_attack_24: -6754262569058218510
+      Slime_attack_25: 2502135510112070383
+      Slime_attack_26: -6754566053338587872
+      Slime_attack_27: -7814878794488493540
+      Slime_attack_28: -3478149728043014696
+      Slime_attack_29: 7900264717628882126
+      Slime_attack_3: 773470276439728296
+      Slime_attack_30: 6383845252479632025
+      Slime_attack_31: -3897338209600118471
+      Slime_attack_32: 1420705065727319625
+      Slime_attack_33: -5220174845599833684
+      Slime_attack_34: -16775151076010120
+      Slime_attack_35: -3475304502663008089
+      Slime_attack_36: 5100825991516125031
+      Slime_attack_37: 4093691952353114079
+      Slime_attack_38: 336027113258557220
+      Slime_attack_39: -4151579084450327099
+      Slime_attack_4: -5520963328408323192
+      Slime_attack_40: 4719128941262428227
+      Slime_attack_41: -1806820100541795275
+      Slime_attack_42: 3030669737932039241
+      Slime_attack_43: -7300042287897245369
+      Slime_attack_44: 3270269855833251559
+      Slime_attack_45: 3906416037694135371
+      Slime_attack_46: -144653241978290419
+      Slime_attack_47: 1833493631177515622
+      Slime_attack_48: -3306437581069255628
+      Slime_attack_49: -7272982123285800046
+      Slime_attack_5: 2492845941474036436
+      Slime_attack_50: -2105655734189853340
+      Slime_attack_51: -391525477916538535
+      Slime_attack_52: -4664494525061812702
+      Slime_attack_53: 3506196310054888726
+      Slime_attack_54: 4118365600734331130
+      Slime_attack_55: -3814718695395374185
+      Slime_attack_56: 6834294088736683674
+      Slime_attack_57: 4116301846001109204
+      Slime_attack_58: -4231337558999428378
+      Slime_attack_59: 9111042898660818847
+      Slime_attack_6: 2190562165689520182
+      Slime_attack_60: 6696330366951709994
+      Slime_attack_61: -7774350601037963969
+      Slime_attack_62: 854312354885255588
+      Slime_attack_63: 4371323897961784463
+      Slime_attack_64: 2007628912384839990
+      Slime_attack_65: 8201565967612931849
+      Slime_attack_66: -8433237349501651509
+      Slime_attack_67: -7297784722097382376
+      Slime_attack_68: 6282443897912063062
+      Slime_attack_69: -8482403185724267605
+      Slime_attack_7: 1786797304437922044
+      Slime_attack_70: -3566594698155090503
+      Slime_attack_71: 3546551548851716738
+      Slime_attack_72: 1406554465459963022
+      Slime_attack_73: 4530062971845044318
+      Slime_attack_74: 9020210777161179751
+      Slime_attack_75: 3790738898950284247
+      Slime_attack_8: -4041045728639760000
+      Slime_attack_9: -1917622066913912825
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

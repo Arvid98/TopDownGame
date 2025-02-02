@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BheurHag_attack_hitbox_0: -6029806294764371429
+      BheurHag_attack_hitbox_1: -8433920461977651924
+      BheurHag_attack_hitbox_10: -2450957458785162380
+      BheurHag_attack_hitbox_11: -8113214614342591088
+      BheurHag_attack_hitbox_12: -5190109974670152577
+      BheurHag_attack_hitbox_13: 6950442437233242809
+      BheurHag_attack_hitbox_14: 5682676605356657033
+      BheurHag_attack_hitbox_15: 4478821553773758516
+      BheurHag_attack_hitbox_2: -5520178237298724621
+      BheurHag_attack_hitbox_3: -7339851673828986295
+      BheurHag_attack_hitbox_4: -8734656053943120052
+      BheurHag_attack_hitbox_5: -5479584846550734630
+      BheurHag_attack_hitbox_6: 6662347208893072743
+      BheurHag_attack_hitbox_7: -5480655656653466819
+      BheurHag_attack_hitbox_8: 1878284894456901612
+      BheurHag_attack_hitbox_9: -2221857620286896287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

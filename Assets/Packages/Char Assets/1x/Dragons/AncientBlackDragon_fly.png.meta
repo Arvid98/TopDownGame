@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AncientBlackDragon_fly_0: 6682635124576961635
+      AncientBlackDragon_fly_1: 1274978681000436664
+      AncientBlackDragon_fly_10: 9011868786858170210
+      AncientBlackDragon_fly_11: -6757198610854702096
+      AncientBlackDragon_fly_12: -5848423858573999663
+      AncientBlackDragon_fly_13: 7858953512459973649
+      AncientBlackDragon_fly_2: 6649848032572583541
+      AncientBlackDragon_fly_3: -5712207377391671170
+      AncientBlackDragon_fly_4: -9050910089027299507
+      AncientBlackDragon_fly_5: 4390281744783022587
+      AncientBlackDragon_fly_6: -1779569647236831457
+      AncientBlackDragon_fly_7: 627019870547767748
+      AncientBlackDragon_fly_8: -4292387399532631844
+      AncientBlackDragon_fly_9: 8821249112404020187
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

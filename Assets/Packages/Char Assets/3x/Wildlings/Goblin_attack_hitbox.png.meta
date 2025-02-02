@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Goblin_attack_hitbox_0: 5654089046855351745
+      Goblin_attack_hitbox_1: -2718185710037779705
+      Goblin_attack_hitbox_10: 7067599124735245409
+      Goblin_attack_hitbox_11: 7899702790616883792
+      Goblin_attack_hitbox_12: 1455142446137821264
+      Goblin_attack_hitbox_13: -8857449771176909845
+      Goblin_attack_hitbox_14: -141287437719195825
+      Goblin_attack_hitbox_15: 6088588826781712205
+      Goblin_attack_hitbox_16: -5759572344415145788
+      Goblin_attack_hitbox_17: 2798797946269214829
+      Goblin_attack_hitbox_18: -9090240844366702874
+      Goblin_attack_hitbox_19: 5611562505441576491
+      Goblin_attack_hitbox_2: 378974826942519322
+      Goblin_attack_hitbox_20: -6928193626826892001
+      Goblin_attack_hitbox_21: -6775849662820434691
+      Goblin_attack_hitbox_22: -8309915132969423478
+      Goblin_attack_hitbox_23: -996272990154867129
+      Goblin_attack_hitbox_3: 1946018536682360494
+      Goblin_attack_hitbox_4: 1089649618388813618
+      Goblin_attack_hitbox_5: 7332868117652222067
+      Goblin_attack_hitbox_6: 2467325574612047200
+      Goblin_attack_hitbox_7: -7923455319471677403
+      Goblin_attack_hitbox_8: 5180610963311333952
+      Goblin_attack_hitbox_9: -5995071089966761583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

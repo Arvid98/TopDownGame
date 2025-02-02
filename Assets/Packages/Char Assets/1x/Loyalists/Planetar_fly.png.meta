@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planetar_fly_0: -481683640859215469
+      Planetar_fly_1: -2554224114665888957
+      Planetar_fly_10: 8584498305610948434
+      Planetar_fly_11: 8260388148864581795
+      Planetar_fly_12: -4768674626744022384
+      Planetar_fly_13: 176728505860724443
+      Planetar_fly_14: -7461806467987697923
+      Planetar_fly_15: -7272775004716216604
+      Planetar_fly_2: -6331024010865937315
+      Planetar_fly_3: -3983640127390641918
+      Planetar_fly_4: -7531665633498935974
+      Planetar_fly_5: 6940256469667128948
+      Planetar_fly_6: 5977271682655475167
+      Planetar_fly_7: 7937851798476403521
+      Planetar_fly_8: -1872972784523850632
+      Planetar_fly_9: -7751566209268030962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_fly_0: 5197530649594640512
+      AdultRedDragon_fly_1: 7063735108784682446
+      AdultRedDragon_fly_10: -8026080376352243620
+      AdultRedDragon_fly_11: -4564177615183797147
+      AdultRedDragon_fly_12: 8924623383369928360
+      AdultRedDragon_fly_13: 5604102299806708355
+      AdultRedDragon_fly_14: -1653995923698044136
+      AdultRedDragon_fly_15: -8326318702687328294
+      AdultRedDragon_fly_16: -4847675754877454269
+      AdultRedDragon_fly_17: 289163500731654805
+      AdultRedDragon_fly_18: 2975905769829026603
+      AdultRedDragon_fly_19: -5640496691222937406
+      AdultRedDragon_fly_2: 8378190328492005794
+      AdultRedDragon_fly_20: -5484972874176037047
+      AdultRedDragon_fly_21: 76786431291813153
+      AdultRedDragon_fly_22: -6947278175668196240
+      AdultRedDragon_fly_23: -2609825551115171758
+      AdultRedDragon_fly_24: -8757108000175508998
+      AdultRedDragon_fly_25: -9021748815701219284
+      AdultRedDragon_fly_26: 592437839580727079
+      AdultRedDragon_fly_27: -7857330622124212058
+      AdultRedDragon_fly_28: 4076362722697948210
+      AdultRedDragon_fly_29: 3621631069525942942
+      AdultRedDragon_fly_3: -531162935820423740
+      AdultRedDragon_fly_4: -5224316075257432655
+      AdultRedDragon_fly_5: 2039437277548203384
+      AdultRedDragon_fly_6: -2613431170791731454
+      AdultRedDragon_fly_7: -1878625865856122689
+      AdultRedDragon_fly_8: -3334048524023218123
+      AdultRedDragon_fly_9: -693646014564733440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

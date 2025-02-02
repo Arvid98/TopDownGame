@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Peasant_walk_0: -1683825913942628570
+      Peasant_walk_1: -520007284483818064
+      Peasant_walk_10: -6326987981952762986
+      Peasant_walk_11: -1409460737790698670
+      Peasant_walk_12: -2566982596991241583
+      Peasant_walk_13: 4225663940703142886
+      Peasant_walk_14: -2225536330855739701
+      Peasant_walk_15: 5756458935183273453
+      Peasant_walk_2: 2907221364292746806
+      Peasant_walk_3: -8855737598897789756
+      Peasant_walk_4: -4981181605358085246
+      Peasant_walk_5: 7694436422301165455
+      Peasant_walk_6: 3458552489251040679
+      Peasant_walk_7: -7410265797477907524
+      Peasant_walk_8: 7972405966452626921
+      Peasant_walk_9: 1096427639399703166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

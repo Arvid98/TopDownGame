@@ -1109,7 +1109,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_fly_0: 290875730339935407
+      Efreet_fly_1: -8073813230090373428
+      Efreet_fly_10: 491247061332473723
+      Efreet_fly_11: -196626012944230756
+      Efreet_fly_12: 3548975007911210398
+      Efreet_fly_13: 5473431764646040625
+      Efreet_fly_14: -1735617419715833159
+      Efreet_fly_15: 105532224043753737
+      Efreet_fly_16: -7589573721079366031
+      Efreet_fly_17: 6055467425896874960
+      Efreet_fly_18: -7600562064650439202
+      Efreet_fly_19: -8541901737102898694
+      Efreet_fly_2: -2309743723644104593
+      Efreet_fly_20: -8647060189766340675
+      Efreet_fly_21: 2574630013474520194
+      Efreet_fly_22: 5574511833385270931
+      Efreet_fly_23: 7829928011794781305
+      Efreet_fly_24: -7949744654593268178
+      Efreet_fly_25: 7722076597463765236
+      Efreet_fly_26: -8832222007770584069
+      Efreet_fly_27: -4780174937145928486
+      Efreet_fly_28: 8040932507180041976
+      Efreet_fly_29: 323117943673619529
+      Efreet_fly_3: -7199443331741117166
+      Efreet_fly_30: -3797592659206663659
+      Efreet_fly_31: 8041624856020027722
+      Efreet_fly_32: -7420821745614089040
+      Efreet_fly_33: 118906309000728752
+      Efreet_fly_34: -1326649562488744989
+      Efreet_fly_35: 4187977418574497366
+      Efreet_fly_36: 8817421114531941581
+      Efreet_fly_37: 6540249636573327236
+      Efreet_fly_38: 8921975324405790427
+      Efreet_fly_39: -5285327646683839622
+      Efreet_fly_4: -5846173691210696204
+      Efreet_fly_5: -8727073733375439133
+      Efreet_fly_6: 3488162135138468732
+      Efreet_fly_7: -1982681570416206135
+      Efreet_fly_8: -7693064264001791372
+      Efreet_fly_9: 20923547666327520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

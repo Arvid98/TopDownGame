@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_hit_0: 974736780121266506
+      Djinn_hit_1: 6956334973138279891
+      Djinn_hit_2: 3899577218982326731
+      Djinn_hit_3: 945327637978861791
+      Djinn_hit_4: -5250841824540621244
+      Djinn_hit_5: -2920865426793439778
+      Djinn_hit_6: 2885446010690468186
+      Djinn_hit_7: -2215782413907427906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

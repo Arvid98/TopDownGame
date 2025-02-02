@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlbear_0: 5256906343899910381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

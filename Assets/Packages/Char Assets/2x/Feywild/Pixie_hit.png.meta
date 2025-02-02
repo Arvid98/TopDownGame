@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixie_hit_0: 7618507781128150165
+      Pixie_hit_1: -3863301707581590547
+      Pixie_hit_10: -5485528559765350715
+      Pixie_hit_11: 3778424582546418614
+      Pixie_hit_12: -3172545523483355775
+      Pixie_hit_13: 2385161535850054450
+      Pixie_hit_2: -5289567176428019168
+      Pixie_hit_3: 1791833131991829938
+      Pixie_hit_4: 124076422748218278
+      Pixie_hit_5: 8081829630794211666
+      Pixie_hit_6: 6982728132298381199
+      Pixie_hit_7: -4662868474302127531
+      Pixie_hit_8: 1379871053613436579
+      Pixie_hit_9: 253390803784309810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

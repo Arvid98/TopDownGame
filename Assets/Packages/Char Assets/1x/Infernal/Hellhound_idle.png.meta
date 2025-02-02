@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_idle_0: -6137648227876744944
+      Hellhound_idle_1: 7360142273335663188
+      Hellhound_idle_10: -1934428836605512343
+      Hellhound_idle_11: -7380144243407016868
+      Hellhound_idle_12: 3774302641336374964
+      Hellhound_idle_13: 1162101359592638052
+      Hellhound_idle_14: -1953665607806924867
+      Hellhound_idle_15: 2471081115615867470
+      Hellhound_idle_2: -7997403186675611523
+      Hellhound_idle_3: -4005879872817057408
+      Hellhound_idle_4: -1587567093411018951
+      Hellhound_idle_5: 7377663967069672235
+      Hellhound_idle_6: 6478975609996602852
+      Hellhound_idle_7: -3187880461789349706
+      Hellhound_idle_8: 7095186349836926671
+      Hellhound_idle_9: -7880165744358627385
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

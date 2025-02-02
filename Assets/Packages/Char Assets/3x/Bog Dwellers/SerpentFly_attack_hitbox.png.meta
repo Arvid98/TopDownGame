@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_attack_hitbox_0: -4086813052912097549
+      SerpentFly_attack_hitbox_1: 3950324934517156919
+      SerpentFly_attack_hitbox_10: 4190167423035500300
+      SerpentFly_attack_hitbox_11: 233570391128265293
+      SerpentFly_attack_hitbox_12: 8430749591088945
+      SerpentFly_attack_hitbox_13: 5430208626615549864
+      SerpentFly_attack_hitbox_14: -6675743684789059407
+      SerpentFly_attack_hitbox_15: -9135698685977302617
+      SerpentFly_attack_hitbox_16: -6986584420668100903
+      SerpentFly_attack_hitbox_17: 5047405987410571297
+      SerpentFly_attack_hitbox_18: -6032417686780291924
+      SerpentFly_attack_hitbox_19: 6519486080917648704
+      SerpentFly_attack_hitbox_2: 8530453563117088926
+      SerpentFly_attack_hitbox_20: 2939746645544038952
+      SerpentFly_attack_hitbox_21: -5815871386753568528
+      SerpentFly_attack_hitbox_22: -8291188668306215775
+      SerpentFly_attack_hitbox_23: 6833080356471657063
+      SerpentFly_attack_hitbox_24: -8975356092710339298
+      SerpentFly_attack_hitbox_25: -4367585445870852110
+      SerpentFly_attack_hitbox_26: 6012951081869495212
+      SerpentFly_attack_hitbox_27: 7379474925960927321
+      SerpentFly_attack_hitbox_28: -835349023559745014
+      SerpentFly_attack_hitbox_29: -9177021122346581232
+      SerpentFly_attack_hitbox_3: -5894420859833698137
+      SerpentFly_attack_hitbox_30: -5983534118310688493
+      SerpentFly_attack_hitbox_31: 5088760146363286495
+      SerpentFly_attack_hitbox_32: -1026368159863551159
+      SerpentFly_attack_hitbox_33: 5725399629633200406
+      SerpentFly_attack_hitbox_34: 6046093766238529017
+      SerpentFly_attack_hitbox_35: 8102503626708914718
+      SerpentFly_attack_hitbox_4: 5452741260568498171
+      SerpentFly_attack_hitbox_5: -5665297805644843499
+      SerpentFly_attack_hitbox_6: 7756253080521592639
+      SerpentFly_attack_hitbox_7: 4868582919160408421
+      SerpentFly_attack_hitbox_8: -7418694023448404031
+      SerpentFly_attack_hitbox_9: 6509118954768294498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

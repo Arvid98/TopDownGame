@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_attack_hitbox_0: 3343028556801436541
+      Tengu_attack_hitbox_1: 3920953385992494939
+      Tengu_attack_hitbox_10: -4924250498462712791
+      Tengu_attack_hitbox_11: 277774217683768241
+      Tengu_attack_hitbox_12: 3892573256081688159
+      Tengu_attack_hitbox_13: 4424626284865549390
+      Tengu_attack_hitbox_14: 3527210316959566001
+      Tengu_attack_hitbox_15: -5480970522009573215
+      Tengu_attack_hitbox_16: -6423593284990588429
+      Tengu_attack_hitbox_17: 2556140503703259268
+      Tengu_attack_hitbox_18: 3208617687664143541
+      Tengu_attack_hitbox_19: 2354319378706957243
+      Tengu_attack_hitbox_2: -6717287946681813295
+      Tengu_attack_hitbox_3: 2287875399591819252
+      Tengu_attack_hitbox_4: 1476432758474960293
+      Tengu_attack_hitbox_5: 6580916480965392017
+      Tengu_attack_hitbox_6: -3908194366303720718
+      Tengu_attack_hitbox_7: -7394878187263308335
+      Tengu_attack_hitbox_8: -2413530394206930838
+      Tengu_attack_hitbox_9: 7011544988424956410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

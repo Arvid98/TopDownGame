@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_die_0: -3416391063240083455
+      Mummy_die_1: -4206067671954586561
+      Mummy_die_2: 5845101689761160217
+      Mummy_die_3: 8649129695698733214
+      Mummy_die_4: -8165169113720203435
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AnubisWarrior_attack_NOhitbox_0: -9159605642941025582
+      AnubisWarrior_attack_NOhitbox_1: -4420848666372306558
+      AnubisWarrior_attack_NOhitbox_10: -6695873347861417005
+      AnubisWarrior_attack_NOhitbox_11: -5196008745526093325
+      AnubisWarrior_attack_NOhitbox_12: 1807360438241530619
+      AnubisWarrior_attack_NOhitbox_13: -5501901584251826035
+      AnubisWarrior_attack_NOhitbox_14: -1481093312430352977
+      AnubisWarrior_attack_NOhitbox_15: 4235373281442417763
+      AnubisWarrior_attack_NOhitbox_16: -921670334984976335
+      AnubisWarrior_attack_NOhitbox_17: -3455174075697594223
+      AnubisWarrior_attack_NOhitbox_18: -5738671569724172855
+      AnubisWarrior_attack_NOhitbox_19: -3498338285001663571
+      AnubisWarrior_attack_NOhitbox_2: 646921139347305110
+      AnubisWarrior_attack_NOhitbox_3: -7114788772749570171
+      AnubisWarrior_attack_NOhitbox_4: 2560084310016426611
+      AnubisWarrior_attack_NOhitbox_5: -3426184480268352034
+      AnubisWarrior_attack_NOhitbox_6: -594054938373034579
+      AnubisWarrior_attack_NOhitbox_7: 7191133432026391767
+      AnubisWarrior_attack_NOhitbox_8: 717893586883836725
+      AnubisWarrior_attack_NOhitbox_9: 2038219101116533870
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

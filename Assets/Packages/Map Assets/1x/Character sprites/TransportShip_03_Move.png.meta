@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TransportShip_03_Move_0: 8456851260149386886
+      TransportShip_03_Move_1: -4111190964809303676
+      TransportShip_03_Move_2: -3983868096065153879
+      TransportShip_03_Move_3: 8803768627101399926
+      TransportShip_03_Move_4: -7302453174390750132
+      TransportShip_03_Move_5: -5478282607888025315
+      TransportShip_03_Move_6: -617231585388703395
+      TransportShip_03_Move_7: 2791836753999138826
+      TransportShip_03_Move_8: 7832666036889383881
+      TransportShip_03_Move_9: 1829044581847106019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabbitSoldier_walk_0: 7046140327894060949
+      RabbitSoldier_walk_1: -980626673508972199
+      RabbitSoldier_walk_10: -2176393963880985696
+      RabbitSoldier_walk_11: 578048063935278727
+      RabbitSoldier_walk_12: 5085147904386181503
+      RabbitSoldier_walk_13: 8944563621979582340
+      RabbitSoldier_walk_14: 4851382898146508337
+      RabbitSoldier_walk_15: 4690079867422929668
+      RabbitSoldier_walk_2: -5074007687736376604
+      RabbitSoldier_walk_3: -1336749862604196918
+      RabbitSoldier_walk_4: 2415928707927193391
+      RabbitSoldier_walk_5: -8953793478665693715
+      RabbitSoldier_walk_6: -679665115412721728
+      RabbitSoldier_walk_7: 2241648526597977497
+      RabbitSoldier_walk_8: 3034044146516549564
+      RabbitSoldier_walk_9: 9435481072920099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

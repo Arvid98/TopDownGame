@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elemental_04_Idle_0: 3237542152424808881
+      Elemental_04_Idle_1: -8312265588122758925
+      Elemental_04_Idle_10: -3289084101648952279
+      Elemental_04_Idle_11: -7470795100752458509
+      Elemental_04_Idle_12: 2699576398957399359
+      Elemental_04_Idle_13: -1977917194032014056
+      Elemental_04_Idle_14: -4871774263155864692
+      Elemental_04_Idle_15: -2655048335354234
+      Elemental_04_Idle_2: 2953323707876038291
+      Elemental_04_Idle_3: -3383262693801944423
+      Elemental_04_Idle_4: 7238085534183915989
+      Elemental_04_Idle_5: 161226805281549759
+      Elemental_04_Idle_6: -1291457191180169086
+      Elemental_04_Idle_7: 688806820970562190
+      Elemental_04_Idle_8: -1222324822934021145
+      Elemental_04_Idle_9: 1689538886212460856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Peasant_attack_hitbox_0: -3522558181648320245
+      Peasant_attack_hitbox_1: -4352823972384110051
+      Peasant_attack_hitbox_10: -4463571263130255208
+      Peasant_attack_hitbox_11: 7512339912661617000
+      Peasant_attack_hitbox_2: -4950960286415122505
+      Peasant_attack_hitbox_3: 4442673036191049975
+      Peasant_attack_hitbox_4: 3534861076516693350
+      Peasant_attack_hitbox_5: 4088441212419485997
+      Peasant_attack_hitbox_6: -2622211852388773086
+      Peasant_attack_hitbox_7: -4190731113230620730
+      Peasant_attack_hitbox_8: 8668243560515899355
+      Peasant_attack_hitbox_9: 200217974236249609
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

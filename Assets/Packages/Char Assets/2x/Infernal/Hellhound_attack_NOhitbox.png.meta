@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_attack_NOhitbox_0: -1539509592204896372
+      Hellhound_attack_NOhitbox_1: -8296448166321116597
+      Hellhound_attack_NOhitbox_10: -5559413057585320138
+      Hellhound_attack_NOhitbox_11: 3796616562451188938
+      Hellhound_attack_NOhitbox_12: 9055464930402484799
+      Hellhound_attack_NOhitbox_13: 6210614454357970711
+      Hellhound_attack_NOhitbox_14: 8349254233337489600
+      Hellhound_attack_NOhitbox_15: -5664844798913349422
+      Hellhound_attack_NOhitbox_16: 4600023578785269429
+      Hellhound_attack_NOhitbox_17: 2680425864936043987
+      Hellhound_attack_NOhitbox_18: 3375649304875819523
+      Hellhound_attack_NOhitbox_19: -7243566588772838077
+      Hellhound_attack_NOhitbox_2: 2263175513024043176
+      Hellhound_attack_NOhitbox_20: 3233948981196621485
+      Hellhound_attack_NOhitbox_21: 8322241943353826319
+      Hellhound_attack_NOhitbox_3: 1204263853069101155
+      Hellhound_attack_NOhitbox_4: 8677028815357802112
+      Hellhound_attack_NOhitbox_5: -4406675710986766714
+      Hellhound_attack_NOhitbox_6: -3622951042207016060
+      Hellhound_attack_NOhitbox_7: 3864830590789372146
+      Hellhound_attack_NOhitbox_8: -580443732992958581
+      Hellhound_attack_NOhitbox_9: -779692010240229027
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

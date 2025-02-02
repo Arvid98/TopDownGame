@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_attack_NOhitbox_0: 720248125117389799
+      SerpentFly_attack_NOhitbox_1: 6919459562314827445
+      SerpentFly_attack_NOhitbox_10: -7630689546328264717
+      SerpentFly_attack_NOhitbox_11: -6219429177924126815
+      SerpentFly_attack_NOhitbox_12: 1695837393513003911
+      SerpentFly_attack_NOhitbox_13: 2891738108157880633
+      SerpentFly_attack_NOhitbox_14: -6786009400620580736
+      SerpentFly_attack_NOhitbox_15: -4816547803879667392
+      SerpentFly_attack_NOhitbox_16: 7647369629845857299
+      SerpentFly_attack_NOhitbox_17: 166430371959921153
+      SerpentFly_attack_NOhitbox_18: 5460931904216383422
+      SerpentFly_attack_NOhitbox_19: 7690580564783094551
+      SerpentFly_attack_NOhitbox_2: -8799476358464565097
+      SerpentFly_attack_NOhitbox_20: -3734910036903731400
+      SerpentFly_attack_NOhitbox_21: -144962248236765588
+      SerpentFly_attack_NOhitbox_3: 783576964888440920
+      SerpentFly_attack_NOhitbox_4: 7332544182737408267
+      SerpentFly_attack_NOhitbox_5: 2117707055300535319
+      SerpentFly_attack_NOhitbox_6: -8025801026305410588
+      SerpentFly_attack_NOhitbox_7: -1191243727379427799
+      SerpentFly_attack_NOhitbox_8: 5582754790896567078
+      SerpentFly_attack_NOhitbox_9: -6455445880652021428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

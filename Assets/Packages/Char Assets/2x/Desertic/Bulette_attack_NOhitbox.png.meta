@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bulette_attack_NOhitbox_0: 3546127278239896510
+      Bulette_attack_NOhitbox_1: 2285017210532046899
+      Bulette_attack_NOhitbox_10: -203056439724714521
+      Bulette_attack_NOhitbox_11: -3923032439669451477
+      Bulette_attack_NOhitbox_12: -3941195622230995782
+      Bulette_attack_NOhitbox_13: 2639092401732324250
+      Bulette_attack_NOhitbox_14: 4282511062944535333
+      Bulette_attack_NOhitbox_15: 4710761260440658877
+      Bulette_attack_NOhitbox_16: 1039890021629242701
+      Bulette_attack_NOhitbox_17: 6970016341529102660
+      Bulette_attack_NOhitbox_18: -4397577861304607517
+      Bulette_attack_NOhitbox_19: 3648607819904499164
+      Bulette_attack_NOhitbox_2: -1333693698291745576
+      Bulette_attack_NOhitbox_20: 1394624144104256001
+      Bulette_attack_NOhitbox_3: 2086243690723019788
+      Bulette_attack_NOhitbox_4: 3595204102960536029
+      Bulette_attack_NOhitbox_5: -7695123235326420250
+      Bulette_attack_NOhitbox_6: -2086188030438080548
+      Bulette_attack_NOhitbox_7: -3994422319101172780
+      Bulette_attack_NOhitbox_8: 1548873050118125738
+      Bulette_attack_NOhitbox_9: -545656668592165990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

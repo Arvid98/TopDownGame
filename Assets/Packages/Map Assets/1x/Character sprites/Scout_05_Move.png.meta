@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Scout_05_Move_0: 8049351202527995519
+      Scout_05_Move_1: 4372355435229326160
+      Scout_05_Move_2: -6362448593338374817
+      Scout_05_Move_3: 3988892720652242040
+      Scout_05_Move_4: 5244971767184133319
+      Scout_05_Move_5: 787041686366592466
+      Scout_05_Move_6: 3574530672253889972
+      Scout_05_Move_7: 3883004077859072866
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_desert (free demo)_0: 8897690731520492777
+      Tileset_desert (free demo)_1: 404582427756708143
+      Tileset_desert (free demo)_2: 1788594398141911966
+      Tileset_desert (free demo)_3: 3920970333635977280
+      Tileset_desert (free demo)_4: 5720214633267688853
+      Tileset_desert (free demo)_5: 7549045407493381347
+      Tileset_desert (free demo)_6: -5991296903312036600
+      Tileset_desert (free demo)_7: 7834733087301450480
+      Tileset_desert (free demo)_8: -6215448866738910626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

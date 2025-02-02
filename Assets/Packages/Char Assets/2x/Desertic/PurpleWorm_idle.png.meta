@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PurpleWorm_idle_0: 9141043758155780475
+      PurpleWorm_idle_1: 1199744174796808321
+      PurpleWorm_idle_10: 5233902844386483453
+      PurpleWorm_idle_11: -4131422014747284336
+      PurpleWorm_idle_12: 987424165149634718
+      PurpleWorm_idle_13: -5793997562593654837
+      PurpleWorm_idle_14: 576634098975590039
+      PurpleWorm_idle_15: -3202543839336833707
+      PurpleWorm_idle_2: 1928170556579226550
+      PurpleWorm_idle_3: -4795281185786322098
+      PurpleWorm_idle_4: -2847619753446299710
+      PurpleWorm_idle_5: 6398956698183658873
+      PurpleWorm_idle_6: -4445507085918115067
+      PurpleWorm_idle_7: -6463158535365310120
+      PurpleWorm_idle_8: -7207597318232022327
+      PurpleWorm_idle_9: 4729413160119037790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medusa_attack_hitbox_0: -7755418337877231863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

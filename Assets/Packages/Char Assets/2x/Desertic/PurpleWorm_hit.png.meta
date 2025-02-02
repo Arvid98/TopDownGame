@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PurpleWorm_hit_0: -6850931154415437152
+      PurpleWorm_hit_1: -8324993146114923220
+      PurpleWorm_hit_2: 1355051877430493894
+      PurpleWorm_hit_3: -4222809514945262079
+      PurpleWorm_hit_4: -8959893612092331159
+      PurpleWorm_hit_5: -6857102955201268067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

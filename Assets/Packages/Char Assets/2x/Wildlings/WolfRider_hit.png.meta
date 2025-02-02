@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WolfRider_hit_0: 1345046315821884995
+      WolfRider_hit_1: -8710873340614953550
+      WolfRider_hit_10: 8384858015496854359
+      WolfRider_hit_11: 9199491578341191360
+      WolfRider_hit_12: -1462329819986835814
+      WolfRider_hit_13: -8730081441104664584
+      WolfRider_hit_14: 1340125022475762098
+      WolfRider_hit_15: -9210214753548052197
+      WolfRider_hit_2: 3845518007468098677
+      WolfRider_hit_3: 1087208448134299992
+      WolfRider_hit_4: 8675387878149005684
+      WolfRider_hit_5: 7648696588744205646
+      WolfRider_hit_6: 3873009051458858046
+      WolfRider_hit_7: 1315036913808156587
+      WolfRider_hit_8: 3121693380585136416
+      WolfRider_hit_9: 4703462642383290294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

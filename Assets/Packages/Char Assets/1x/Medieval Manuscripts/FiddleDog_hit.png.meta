@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FiddleDog_hit_0: 29794594392901124
+      FiddleDog_hit_1: 3969276710607543269
+      FiddleDog_hit_2: 4109905128766117514
+      FiddleDog_hit_3: -6160320171766217185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

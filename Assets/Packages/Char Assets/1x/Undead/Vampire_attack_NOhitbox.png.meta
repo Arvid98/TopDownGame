@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampire_attack_NOhitbox_0: 698012642966023810
+      Vampire_attack_NOhitbox_1: 6716769973278875318
+      Vampire_attack_NOhitbox_10: 4579032053629014785
+      Vampire_attack_NOhitbox_11: -6488956968469620002
+      Vampire_attack_NOhitbox_12: 1883834597082689744
+      Vampire_attack_NOhitbox_13: -6343577814664335253
+      Vampire_attack_NOhitbox_14: 4340182698873894602
+      Vampire_attack_NOhitbox_15: -8114085693247288751
+      Vampire_attack_NOhitbox_16: 1237276750645594522
+      Vampire_attack_NOhitbox_17: 6792715093165675826
+      Vampire_attack_NOhitbox_18: -4504736604961328639
+      Vampire_attack_NOhitbox_19: 2398081849688186867
+      Vampire_attack_NOhitbox_2: 2404913869966715702
+      Vampire_attack_NOhitbox_3: 491862188912590413
+      Vampire_attack_NOhitbox_4: -9022458904550525113
+      Vampire_attack_NOhitbox_5: 291167593955432899
+      Vampire_attack_NOhitbox_6: 792785856913301221
+      Vampire_attack_NOhitbox_7: -4668649359027823426
+      Vampire_attack_NOhitbox_8: 6694808536011791461
+      Vampire_attack_NOhitbox_9: 942177563998502868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

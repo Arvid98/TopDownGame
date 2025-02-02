@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Slime_attack_hitbox_0: -5575853441563975060
+      Slime_attack_hitbox_1: 503856835141765408
+      Slime_attack_hitbox_10: 4901000541658652383
+      Slime_attack_hitbox_11: -1365155325645096485
+      Slime_attack_hitbox_2: 6664972455744727960
+      Slime_attack_hitbox_3: -458588705502631131
+      Slime_attack_hitbox_4: 3928087037799328168
+      Slime_attack_hitbox_5: 4322039666992259468
+      Slime_attack_hitbox_6: 527967236246511688
+      Slime_attack_hitbox_7: -6790815874505084786
+      Slime_attack_hitbox_8: -3326314983602345776
+      Slime_attack_hitbox_9: -8853696910144376030
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

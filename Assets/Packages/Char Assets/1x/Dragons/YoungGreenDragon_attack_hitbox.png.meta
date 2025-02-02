@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YoungGreenDragon_attack_hitbox_0: -729689633060554054
+      YoungGreenDragon_attack_hitbox_1: 7955675465864986609
+      YoungGreenDragon_attack_hitbox_10: -4314041825748424453
+      YoungGreenDragon_attack_hitbox_11: -42087482023438954
+      YoungGreenDragon_attack_hitbox_12: -7453125986293832678
+      YoungGreenDragon_attack_hitbox_13: 4674745225806079453
+      YoungGreenDragon_attack_hitbox_14: 1225805598161665460
+      YoungGreenDragon_attack_hitbox_15: -2904483187018068100
+      YoungGreenDragon_attack_hitbox_16: 8377809731233351936
+      YoungGreenDragon_attack_hitbox_17: 4274780824333207474
+      YoungGreenDragon_attack_hitbox_18: -7837122304174283141
+      YoungGreenDragon_attack_hitbox_19: 1011722506672550585
+      YoungGreenDragon_attack_hitbox_2: -4400166760355291442
+      YoungGreenDragon_attack_hitbox_20: -5822309087151390230
+      YoungGreenDragon_attack_hitbox_21: 8627279540305797053
+      YoungGreenDragon_attack_hitbox_22: 7420077375594543327
+      YoungGreenDragon_attack_hitbox_23: 8357706044654196122
+      YoungGreenDragon_attack_hitbox_24: 6430348335317861618
+      YoungGreenDragon_attack_hitbox_25: 161294914328450483
+      YoungGreenDragon_attack_hitbox_26: -8332158806788712801
+      YoungGreenDragon_attack_hitbox_27: 6451247218544670881
+      YoungGreenDragon_attack_hitbox_3: -2102070975305468548
+      YoungGreenDragon_attack_hitbox_4: 4463003193914549812
+      YoungGreenDragon_attack_hitbox_5: -130541091700256931
+      YoungGreenDragon_attack_hitbox_6: -7193327701291785842
+      YoungGreenDragon_attack_hitbox_7: 5455306661890023411
+      YoungGreenDragon_attack_hitbox_8: 2123782752852818598
+      YoungGreenDragon_attack_hitbox_9: 1620400504873409578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

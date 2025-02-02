@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueWyrmling_walk_0: -8179010642519180895
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Peasant_idle_0: -5821970994520369696
+      Peasant_idle_1: 398946375681628209
+      Peasant_idle_10: -6428226125662513453
+      Peasant_idle_11: 6713352455376277931
+      Peasant_idle_12: -653380350102894933
+      Peasant_idle_13: -2180204909416920050
+      Peasant_idle_14: -6502229525722050886
+      Peasant_idle_15: -7433044710987311727
+      Peasant_idle_2: 7443230812065994062
+      Peasant_idle_3: -3578878719388239194
+      Peasant_idle_4: -4042141367999685055
+      Peasant_idle_5: -5931165793593775689
+      Peasant_idle_6: -8156677538238960884
+      Peasant_idle_7: 7353572853508718773
+      Peasant_idle_8: 827522797080675842
+      Peasant_idle_9: -1208568780844811374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

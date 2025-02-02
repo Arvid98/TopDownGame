@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_die_0: -867351581913933628
+      AdultRedDragon_die_1: -8298235121871082117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

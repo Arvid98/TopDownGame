@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_idle_0: -7866291846334187677
+      Paladin_idle_1: 4055038785569466232
+      Paladin_idle_2: -814274736211333085
+      Paladin_idle_3: 7518880379234577280
+      Paladin_idle_4: -1584166692726098483
+      Paladin_idle_5: -4989838387585361444
+      Paladin_idle_6: -4537293738247408909
+      Paladin_idle_7: -723778293862789505
+      Paladin_idle_8: -3282335161091807098
+      Paladin_idle_9: 5127256799425284660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

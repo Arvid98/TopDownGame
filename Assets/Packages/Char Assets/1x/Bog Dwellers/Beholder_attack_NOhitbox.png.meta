@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder_attack_NOhitbox_0: -8119941038350932914
+      Beholder_attack_NOhitbox_1: -3379009054782065202
+      Beholder_attack_NOhitbox_10: 2450350681557922053
+      Beholder_attack_NOhitbox_11: -1547174007123118954
+      Beholder_attack_NOhitbox_12: -1448187325765418028
+      Beholder_attack_NOhitbox_13: -6912775923366198293
+      Beholder_attack_NOhitbox_14: -6048313316917100000
+      Beholder_attack_NOhitbox_15: 5872851532666696387
+      Beholder_attack_NOhitbox_16: -5656996166394701233
+      Beholder_attack_NOhitbox_17: -6599209578206449969
+      Beholder_attack_NOhitbox_18: -5983758906469674972
+      Beholder_attack_NOhitbox_19: 1299569526338990875
+      Beholder_attack_NOhitbox_2: 2542578765409891181
+      Beholder_attack_NOhitbox_3: -8856770516913560127
+      Beholder_attack_NOhitbox_4: -5824299530290026432
+      Beholder_attack_NOhitbox_5: 4287567182834181920
+      Beholder_attack_NOhitbox_6: -7972974549305649850
+      Beholder_attack_NOhitbox_7: -4865818960774814822
+      Beholder_attack_NOhitbox_8: 4533914879886129097
+      Beholder_attack_NOhitbox_9: -8926827148700256503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AncientBlackDragon_frame_0: -4815406377482978503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

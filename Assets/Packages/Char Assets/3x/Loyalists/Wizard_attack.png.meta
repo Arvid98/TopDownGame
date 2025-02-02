@@ -1484,7 +1484,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wizard_attack_0: 7505906359073447269
+      Wizard_attack_1: 871792753386687772
+      Wizard_attack_10: 8887300772250575274
+      Wizard_attack_11: 1269826507123063593
+      Wizard_attack_12: 7521712650555669977
+      Wizard_attack_13: -5140524127249517276
+      Wizard_attack_14: -1750342781935396313
+      Wizard_attack_15: 3705816489635304469
+      Wizard_attack_16: 5657329947532803422
+      Wizard_attack_17: -6572356964872815404
+      Wizard_attack_18: 7970033999058634671
+      Wizard_attack_19: -53344033099719363
+      Wizard_attack_2: 5911605032720181774
+      Wizard_attack_20: 1292692241852015465
+      Wizard_attack_21: 4647346320988415509
+      Wizard_attack_22: 8285274612353010860
+      Wizard_attack_23: 2984563015356040817
+      Wizard_attack_24: 6135101975222934917
+      Wizard_attack_25: 3903938677248528187
+      Wizard_attack_26: 4527517423675363355
+      Wizard_attack_27: 580274316357409306
+      Wizard_attack_28: 6372883820857734751
+      Wizard_attack_29: -4493951369709994925
+      Wizard_attack_3: -4288913186858706956
+      Wizard_attack_30: -3230680428732308800
+      Wizard_attack_31: 4000704256810426093
+      Wizard_attack_32: -2763083319265248762
+      Wizard_attack_33: -412478921441148281
+      Wizard_attack_34: 3141203218093126256
+      Wizard_attack_35: -8075504470186671954
+      Wizard_attack_36: 6118092247066221335
+      Wizard_attack_37: -2542760114995158209
+      Wizard_attack_38: -8615642239667376021
+      Wizard_attack_39: 8011390269675076205
+      Wizard_attack_4: 1966261343057643021
+      Wizard_attack_40: -3421093867653660077
+      Wizard_attack_41: 1123908110020778800
+      Wizard_attack_42: 7182160087704044840
+      Wizard_attack_43: -1840663627366714085
+      Wizard_attack_44: -149866277357874449
+      Wizard_attack_45: 7950774555459652422
+      Wizard_attack_46: 7319752513842663290
+      Wizard_attack_47: -6885654659831177207
+      Wizard_attack_48: -5633398108761057347
+      Wizard_attack_49: -7976023762577366632
+      Wizard_attack_5: -5236514192882023957
+      Wizard_attack_50: -6174638278098294291
+      Wizard_attack_51: 2238781720667860756
+      Wizard_attack_52: 8531087374381337031
+      Wizard_attack_53: -8873024557110893006
+      Wizard_attack_54: 7039198961151296598
+      Wizard_attack_6: 1957240150216443455
+      Wizard_attack_7: 7549347606272190686
+      Wizard_attack_8: -6177288536525915221
+      Wizard_attack_9: -8927026477777317131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YoungGreenDragon_fly_0: -147490168726128864
+      YoungGreenDragon_fly_1: 2857218251488041220
+      YoungGreenDragon_fly_10: -7401666087573220515
+      YoungGreenDragon_fly_11: -5287562952333448449
+      YoungGreenDragon_fly_12: -3082625358270788748
+      YoungGreenDragon_fly_13: -499290208532398320
+      YoungGreenDragon_fly_14: -7633792011167172158
+      YoungGreenDragon_fly_15: -9056493669577768285
+      YoungGreenDragon_fly_16: -5605155996830229092
+      YoungGreenDragon_fly_17: 7940655022609134964
+      YoungGreenDragon_fly_18: -2575882626865409032
+      YoungGreenDragon_fly_19: -2209298257575175659
+      YoungGreenDragon_fly_2: -5116500092562455323
+      YoungGreenDragon_fly_20: -5825272938548071021
+      YoungGreenDragon_fly_21: 7150632810689117948
+      YoungGreenDragon_fly_22: 4513736147765058061
+      YoungGreenDragon_fly_23: -1501191041786664690
+      YoungGreenDragon_fly_3: -6148286821363335905
+      YoungGreenDragon_fly_4: 1636081227669933878
+      YoungGreenDragon_fly_5: -3505642204960211263
+      YoungGreenDragon_fly_6: -5564807048885239881
+      YoungGreenDragon_fly_7: 5903954481456974860
+      YoungGreenDragon_fly_8: 2434509735268260300
+      YoungGreenDragon_fly_9: -4723710773463443734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

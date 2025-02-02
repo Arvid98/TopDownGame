@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardfolk_idle_0: -8505233833988714147
+      Lizardfolk_idle_1: 5627656272725191342
+      Lizardfolk_idle_10: 5843116879633195550
+      Lizardfolk_idle_11: -3914101659674661398
+      Lizardfolk_idle_12: -206844823739180471
+      Lizardfolk_idle_13: -4682093284113598544
+      Lizardfolk_idle_14: 7537577285304497255
+      Lizardfolk_idle_15: -6614259316444784746
+      Lizardfolk_idle_2: -2553839157523637223
+      Lizardfolk_idle_3: 2963986923962406166
+      Lizardfolk_idle_4: 5748793352865525958
+      Lizardfolk_idle_5: -3552860153634186742
+      Lizardfolk_idle_6: -2888260356923790358
+      Lizardfolk_idle_7: -5156827574639084642
+      Lizardfolk_idle_8: 513824697230182406
+      Lizardfolk_idle_9: -7873476664784793991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieBall_0: -658647701876319247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

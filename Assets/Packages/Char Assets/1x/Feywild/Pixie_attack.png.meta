@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixie_attack_0: -9212765388020421050
+      Pixie_attack_1: -2770216124676549160
+      Pixie_attack_10: 4596114950359484925
+      Pixie_attack_11: 4976384028806183369
+      Pixie_attack_12: -8129947863183068973
+      Pixie_attack_13: -4566358225985231558
+      Pixie_attack_14: 7401355316497327890
+      Pixie_attack_15: -2245038395763184778
+      Pixie_attack_16: -6887683930729160787
+      Pixie_attack_17: 4384393574766633842
+      Pixie_attack_18: -4990451684519016641
+      Pixie_attack_19: -2786253404161453115
+      Pixie_attack_2: -7737218698540968933
+      Pixie_attack_20: 6995326436790889128
+      Pixie_attack_21: -9062157382761936821
+      Pixie_attack_22: 8702704574884360402
+      Pixie_attack_23: 302989156773828016
+      Pixie_attack_24: 7526777918361872710
+      Pixie_attack_25: 7145712600518957807
+      Pixie_attack_26: 5188957116956881390
+      Pixie_attack_27: 8449875631208713462
+      Pixie_attack_28: -8527399078343963157
+      Pixie_attack_3: -2293252526756183142
+      Pixie_attack_4: -3182033387656136039
+      Pixie_attack_5: -2744141124971637988
+      Pixie_attack_6: 3939247876679777983
+      Pixie_attack_7: -5767033118826977579
+      Pixie_attack_8: 5505750528735051201
+      Pixie_attack_9: 7825848613934756642
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Sapper_01_Move_0: -3255600297515289056
+      Sapper_01_Move_1: -5235822582351092695
+      Sapper_01_Move_10: -1576088818164459977
+      Sapper_01_Move_11: 2624820170994950312
+      Sapper_01_Move_12: 155405323768957121
+      Sapper_01_Move_13: -6914646926899059531
+      Sapper_01_Move_2: -7656684789812281900
+      Sapper_01_Move_3: 735651380193003142
+      Sapper_01_Move_4: -6740681237773347339
+      Sapper_01_Move_5: -519292152253918073
+      Sapper_01_Move_6: 2006115008005203040
+      Sapper_01_Move_7: 971124328446276789
+      Sapper_01_Move_8: 2040162459219679067
+      Sapper_01_Move_9: -7143984084875740495
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

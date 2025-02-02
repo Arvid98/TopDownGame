@@ -959,7 +959,41 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_attack_0: 2760347760407093062
+      Hellhound_attack_1: -8818025475714440858
+      Hellhound_attack_10: 4874379643412499341
+      Hellhound_attack_11: -2765512241381136645
+      Hellhound_attack_12: -3155480084823493056
+      Hellhound_attack_13: 9213079054171121341
+      Hellhound_attack_14: -6241759718561313621
+      Hellhound_attack_15: -8644439209789727653
+      Hellhound_attack_16: -6370153131902768067
+      Hellhound_attack_17: 255546795133937752
+      Hellhound_attack_18: -3658448505679805987
+      Hellhound_attack_19: 776476634936590701
+      Hellhound_attack_2: 6637293316645655435
+      Hellhound_attack_20: 5525218553855543812
+      Hellhound_attack_21: 2184021561747875806
+      Hellhound_attack_22: -7749049359322899916
+      Hellhound_attack_23: 1441903413282278844
+      Hellhound_attack_24: -7691913172400902277
+      Hellhound_attack_25: -1979623427189220587
+      Hellhound_attack_26: 999946937140515697
+      Hellhound_attack_27: 3135790469422282700
+      Hellhound_attack_28: 4910633512556725084
+      Hellhound_attack_29: 5169433654441872486
+      Hellhound_attack_3: 3178670931099500452
+      Hellhound_attack_30: 6483276078203704905
+      Hellhound_attack_31: 7953799509658600884
+      Hellhound_attack_32: 7928560622972251514
+      Hellhound_attack_33: -1783729140184166505
+      Hellhound_attack_4: 8880862976627870295
+      Hellhound_attack_5: -6808724462423732837
+      Hellhound_attack_6: 6593538533022289209
+      Hellhound_attack_7: 7402841853129026454
+      Hellhound_attack_8: -3419178317347105785
+      Hellhound_attack_9: 9107226685128114666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

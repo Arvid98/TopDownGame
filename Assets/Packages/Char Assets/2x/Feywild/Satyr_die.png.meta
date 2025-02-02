@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_die_0: -2837083681372416598
+      Satyr_die_1: -7407136293249764038
+      Satyr_die_2: -8659709075517345284
+      Satyr_die_3: 572355147813436447
+      Satyr_die_4: 4023246914912362683
+      Satyr_die_5: 4301590023600656625
+      Satyr_die_6: 7023808221576040481
+      Satyr_die_7: -6280503817551188007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

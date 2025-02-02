@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueWyrmling_hit_0: -2109010625604782457
+      BlueWyrmling_hit_1: -7103487356641820614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

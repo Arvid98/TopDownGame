@@ -1534,7 +1534,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WolfRider_attack_0: 7406834653278633624
+      WolfRider_attack_1: -9010254454743038160
+      WolfRider_attack_10: 2876054783318475568
+      WolfRider_attack_11: -675906988429937050
+      WolfRider_attack_12: -1750363588682681440
+      WolfRider_attack_13: 4305040995330871693
+      WolfRider_attack_14: 6659905900794768061
+      WolfRider_attack_15: -8934985657463776244
+      WolfRider_attack_16: -2811162779740142804
+      WolfRider_attack_17: -5326815686215893886
+      WolfRider_attack_18: 5931124092728732707
+      WolfRider_attack_19: -1201369182682658256
+      WolfRider_attack_2: -7559221880827577607
+      WolfRider_attack_20: -868728448313002672
+      WolfRider_attack_21: -7348463249960278412
+      WolfRider_attack_22: -8585382779235072560
+      WolfRider_attack_23: -4904722739292570497
+      WolfRider_attack_24: 2442290852850995309
+      WolfRider_attack_25: -5856415105947957396
+      WolfRider_attack_26: 7447065248480816444
+      WolfRider_attack_27: -3938468338463545734
+      WolfRider_attack_28: -9182971206423699467
+      WolfRider_attack_29: 7905296206122882247
+      WolfRider_attack_3: -3134126995229481672
+      WolfRider_attack_30: 713919979112126293
+      WolfRider_attack_31: 6235006204425888638
+      WolfRider_attack_32: 6112599355615839085
+      WolfRider_attack_33: -994953622782279757
+      WolfRider_attack_34: 2679595434771657036
+      WolfRider_attack_35: 5515812250607195690
+      WolfRider_attack_36: -3084760463892933359
+      WolfRider_attack_37: 4593978303859521423
+      WolfRider_attack_38: 3232846182244546715
+      WolfRider_attack_39: 1708064937466943674
+      WolfRider_attack_4: 263345742464563848
+      WolfRider_attack_40: -6966902696603998350
+      WolfRider_attack_41: -435101843681358759
+      WolfRider_attack_42: 7115852848077906060
+      WolfRider_attack_43: 6042016699687179613
+      WolfRider_attack_44: -3529004937702726990
+      WolfRider_attack_45: 460054678050141873
+      WolfRider_attack_46: 6658346530437363619
+      WolfRider_attack_47: -438627194558753124
+      WolfRider_attack_48: 5003496521119607563
+      WolfRider_attack_49: 3308371109292609997
+      WolfRider_attack_5: -8736110436246093258
+      WolfRider_attack_50: 7005804509372023212
+      WolfRider_attack_51: -5026640560839197242
+      WolfRider_attack_52: 6784605808617478662
+      WolfRider_attack_53: -1951038084120468768
+      WolfRider_attack_54: 7109578062228377937
+      WolfRider_attack_55: 1130056258917431394
+      WolfRider_attack_56: -4999761902477051620
+      WolfRider_attack_6: -1905143089115157984
+      WolfRider_attack_7: 775261098017825687
+      WolfRider_attack_8: -2121737125335478207
+      WolfRider_attack_9: 7603196929571592165
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

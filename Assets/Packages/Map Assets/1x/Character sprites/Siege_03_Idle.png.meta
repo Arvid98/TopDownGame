@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Siege_03_Idle_0: -1565392469957526592
+      Siege_03_Idle_1: 8389835646664122107
+      Siege_03_Idle_2: -7683837153793103280
+      Siege_03_Idle_3: -6985704578380083513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

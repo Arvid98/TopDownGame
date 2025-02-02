@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_attack_hitbox_0: -862174180760851693
+      Mummy_attack_hitbox_1: 2670274676588714534
+      Mummy_attack_hitbox_10: -3470223915492539311
+      Mummy_attack_hitbox_11: 2799831801789367591
+      Mummy_attack_hitbox_12: 1965790933636578320
+      Mummy_attack_hitbox_13: 464217431581187203
+      Mummy_attack_hitbox_14: 5543690319162923869
+      Mummy_attack_hitbox_15: -4108937685198727224
+      Mummy_attack_hitbox_2: -3656793518535669596
+      Mummy_attack_hitbox_3: 7017256909110411646
+      Mummy_attack_hitbox_4: -747792418975637836
+      Mummy_attack_hitbox_5: 8752251124478175105
+      Mummy_attack_hitbox_6: 2746772623932215177
+      Mummy_attack_hitbox_7: 4840356170173574222
+      Mummy_attack_hitbox_8: 6023349679822617388
+      Mummy_attack_hitbox_9: -2392226363876815199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

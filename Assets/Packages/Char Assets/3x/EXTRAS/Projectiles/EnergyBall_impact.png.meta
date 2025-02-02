@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      EnergyBall_impact_0: -4135029858802376883
+      EnergyBall_impact_1: -8736319018194137708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

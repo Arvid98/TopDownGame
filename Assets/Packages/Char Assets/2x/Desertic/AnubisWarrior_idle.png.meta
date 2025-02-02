@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AnubisWarrior_idle_0: 4944274563751716598
+      AnubisWarrior_idle_1: 5617804330815805970
+      AnubisWarrior_idle_10: -1262445377858149311
+      AnubisWarrior_idle_11: -609584283892990570
+      AnubisWarrior_idle_12: -1731256673734951159
+      AnubisWarrior_idle_13: -2319938545331401223
+      AnubisWarrior_idle_14: -1146515091427008658
+      AnubisWarrior_idle_15: -1224463038853763818
+      AnubisWarrior_idle_2: 153682713259008682
+      AnubisWarrior_idle_3: -7223349500345256076
+      AnubisWarrior_idle_4: 5760297826978837615
+      AnubisWarrior_idle_5: 6391648951456238272
+      AnubisWarrior_idle_6: 1062808459079213201
+      AnubisWarrior_idle_7: -2130460241896663245
+      AnubisWarrior_idle_8: -7284963621966160070
+      AnubisWarrior_idle_9: -2044045753395072243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

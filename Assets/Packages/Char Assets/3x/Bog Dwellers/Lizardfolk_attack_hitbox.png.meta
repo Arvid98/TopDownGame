@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardfolk_attack_hitbox_0: -1030709864676807532
+      Lizardfolk_attack_hitbox_1: 2192153842197730575
+      Lizardfolk_attack_hitbox_10: -8833726160429066382
+      Lizardfolk_attack_hitbox_11: 1721305565196977007
+      Lizardfolk_attack_hitbox_12: 1000246940960203525
+      Lizardfolk_attack_hitbox_13: 2139904665549510092
+      Lizardfolk_attack_hitbox_14: 6312783025832006389
+      Lizardfolk_attack_hitbox_15: -1632152421371788013
+      Lizardfolk_attack_hitbox_2: -7685901322380300547
+      Lizardfolk_attack_hitbox_3: 439408755433707617
+      Lizardfolk_attack_hitbox_4: -1669484682319247413
+      Lizardfolk_attack_hitbox_5: -6209190867491628585
+      Lizardfolk_attack_hitbox_6: -2746695329739650417
+      Lizardfolk_attack_hitbox_7: 8847407767452509107
+      Lizardfolk_attack_hitbox_8: 7330789666262851948
+      Lizardfolk_attack_hitbox_9: 963229072234114763
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

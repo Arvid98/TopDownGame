@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_small_impact_0: -2935315646233229268
+      Rock_small_impact_1: -3006171765334434972
+      Rock_small_impact_2: -9016012888395596857
+      Rock_small_impact_3: -6418768255596916656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lich_attack_NOhitbox_0: -1059707134810752630
+      Lich_attack_NOhitbox_1: -367201048129666017
+      Lich_attack_NOhitbox_10: -8538706863326884379
+      Lich_attack_NOhitbox_11: -4108593455096574605
+      Lich_attack_NOhitbox_12: 3992572617416850742
+      Lich_attack_NOhitbox_13: 7369686787080839493
+      Lich_attack_NOhitbox_14: 8639370070469761367
+      Lich_attack_NOhitbox_15: -6201819691083373398
+      Lich_attack_NOhitbox_16: -3493365630648236920
+      Lich_attack_NOhitbox_17: 1356372777800817700
+      Lich_attack_NOhitbox_18: -4293099378164094594
+      Lich_attack_NOhitbox_19: 276590176803438315
+      Lich_attack_NOhitbox_2: -4433332170129641707
+      Lich_attack_NOhitbox_3: -2621144010648951765
+      Lich_attack_NOhitbox_4: 4807792518988242428
+      Lich_attack_NOhitbox_5: -7570701640306365463
+      Lich_attack_NOhitbox_6: -8400007732110725362
+      Lich_attack_NOhitbox_7: 1518311337082800868
+      Lich_attack_NOhitbox_8: -5497422990360105838
+      Lich_attack_NOhitbox_9: 5204640995730846984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

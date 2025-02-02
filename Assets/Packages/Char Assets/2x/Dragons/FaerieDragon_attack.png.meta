@@ -1034,7 +1034,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_attack_0: -6461921101932776402
+      FaerieDragon_attack_1: 4895897579179789399
+      FaerieDragon_attack_10: -6968725100949434957
+      FaerieDragon_attack_11: -7706675756994051369
+      FaerieDragon_attack_12: 435197705900121390
+      FaerieDragon_attack_13: -5223921282690504444
+      FaerieDragon_attack_14: -8810307244559448605
+      FaerieDragon_attack_15: -6899730417186276629
+      FaerieDragon_attack_16: 496087168910391814
+      FaerieDragon_attack_17: 8546042515072350496
+      FaerieDragon_attack_18: 542460130310513636
+      FaerieDragon_attack_19: 4890640220577213643
+      FaerieDragon_attack_2: 8337758443649119803
+      FaerieDragon_attack_20: -1337088487819810360
+      FaerieDragon_attack_21: 1220075029237818981
+      FaerieDragon_attack_22: 7467234388138270267
+      FaerieDragon_attack_23: 5525600569646727953
+      FaerieDragon_attack_24: -7361792435790219140
+      FaerieDragon_attack_25: 7685608457886820317
+      FaerieDragon_attack_26: 3013078815019257982
+      FaerieDragon_attack_27: -2604963860768378400
+      FaerieDragon_attack_28: -8785101231180880918
+      FaerieDragon_attack_29: -2669468948357966252
+      FaerieDragon_attack_3: -6518311778471457685
+      FaerieDragon_attack_30: -5013738375865274978
+      FaerieDragon_attack_31: -2623600493363679118
+      FaerieDragon_attack_32: -7922013812388568526
+      FaerieDragon_attack_33: 5605215671174608069
+      FaerieDragon_attack_34: -6003400060139049097
+      FaerieDragon_attack_35: 8192425716670491645
+      FaerieDragon_attack_36: 2967005962932638210
+      FaerieDragon_attack_4: 7483159100743629612
+      FaerieDragon_attack_5: 3821940288455338284
+      FaerieDragon_attack_6: -7458864836374604552
+      FaerieDragon_attack_7: 2172610387310909631
+      FaerieDragon_attack_8: 2082046207673452819
+      FaerieDragon_attack_9: -7517162107791264596
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

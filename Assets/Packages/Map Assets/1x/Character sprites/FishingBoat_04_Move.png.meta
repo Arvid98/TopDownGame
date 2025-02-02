@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FishingBoat_04_Move_0: 7400034248586650775
+      FishingBoat_04_Move_1: -966534410259426842
+      FishingBoat_04_Move_10: -1834395685373926472
+      FishingBoat_04_Move_11: -4678420591087301319
+      FishingBoat_04_Move_12: -8119355175865068351
+      FishingBoat_04_Move_13: -2872035655835984082
+      FishingBoat_04_Move_14: 466353434019929234
+      FishingBoat_04_Move_15: 1090139083693258768
+      FishingBoat_04_Move_2: -3818875773748022718
+      FishingBoat_04_Move_3: -1672023979245771530
+      FishingBoat_04_Move_4: -1336163054209144952
+      FishingBoat_04_Move_5: 1676808895659447363
+      FishingBoat_04_Move_6: -6421331735871254644
+      FishingBoat_04_Move_7: -6061673786700194677
+      FishingBoat_04_Move_8: 2567871310056183223
+      FishingBoat_04_Move_9: -1294716275274048439
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

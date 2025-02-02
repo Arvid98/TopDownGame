@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisplacerBeast_attack_hitbox_0: 262143400879508204
+      DisplacerBeast_attack_hitbox_1: -7232176738031883731
+      DisplacerBeast_attack_hitbox_10: 321455324180086880
+      DisplacerBeast_attack_hitbox_11: 2830043560785256994
+      DisplacerBeast_attack_hitbox_12: -2182818777442350104
+      DisplacerBeast_attack_hitbox_13: 5284978462812165668
+      DisplacerBeast_attack_hitbox_14: -5068460085445450420
+      DisplacerBeast_attack_hitbox_15: -4645866844985234422
+      DisplacerBeast_attack_hitbox_2: 8471524292359432816
+      DisplacerBeast_attack_hitbox_3: 4032716146219819643
+      DisplacerBeast_attack_hitbox_4: -9144757742491502902
+      DisplacerBeast_attack_hitbox_5: 810302795657365888
+      DisplacerBeast_attack_hitbox_6: 2947779454659414362
+      DisplacerBeast_attack_hitbox_7: 613906119652508209
+      DisplacerBeast_attack_hitbox_8: -6907436615258626985
+      DisplacerBeast_attack_hitbox_9: 5892625576370517856
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostGiant_walk_0: 5960456510676074344
+      FrostGiant_walk_1: 6844136613932746628
+      FrostGiant_walk_10: 1094785767609714427
+      FrostGiant_walk_11: -1648354702223034846
+      FrostGiant_walk_12: 4394474893203693746
+      FrostGiant_walk_13: 5252544905266945552
+      FrostGiant_walk_14: -2905482742030245138
+      FrostGiant_walk_15: -6867785142316946925
+      FrostGiant_walk_2: 5241008913873777520
+      FrostGiant_walk_3: 8947697746028955356
+      FrostGiant_walk_4: 1993766506591295963
+      FrostGiant_walk_5: 7930739198650659128
+      FrostGiant_walk_6: -3088305453173612066
+      FrostGiant_walk_7: 4268253837438508931
+      FrostGiant_walk_8: -8049986308419110541
+      FrostGiant_walk_9: 8694158613125180391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

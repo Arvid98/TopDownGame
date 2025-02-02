@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisplacerBeast_idle_0: 4716068066194000674
+      DisplacerBeast_idle_1: -3887897623661850779
+      DisplacerBeast_idle_2: -2218378590240293842
+      DisplacerBeast_idle_3: -1326374875475777208
+      DisplacerBeast_idle_4: 712201442086479590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

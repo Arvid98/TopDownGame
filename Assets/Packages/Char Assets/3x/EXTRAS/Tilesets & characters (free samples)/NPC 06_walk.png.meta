@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC 06_walk_0: -2530820493918740790
+      NPC 06_walk_1: 7641809064440948414
+      NPC 06_walk_10: -3614827045845304132
+      NPC 06_walk_11: 4700424351256069031
+      NPC 06_walk_12: 8194520100566166187
+      NPC 06_walk_13: -1860386109467157595
+      NPC 06_walk_14: -3414843530168429981
+      NPC 06_walk_15: 6639539602001634930
+      NPC 06_walk_2: 6735604581843422306
+      NPC 06_walk_3: 8896221324461577358
+      NPC 06_walk_4: 1958639805335339848
+      NPC 06_walk_5: -1139181020677798097
+      NPC 06_walk_6: -8410403443635861952
+      NPC 06_walk_7: -4868977323075240737
+      NPC 06_walk_8: -161220489663363870
+      NPC 06_walk_9: 6836579013521312258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

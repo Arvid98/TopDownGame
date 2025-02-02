@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_attack_hitbox_0: -879636705957008146
+      Djinn_attack_hitbox_1: -5239889886361827781
+      Djinn_attack_hitbox_10: 3643467056090045691
+      Djinn_attack_hitbox_11: 2131392535475407672
+      Djinn_attack_hitbox_12: -2147185472435582037
+      Djinn_attack_hitbox_13: 8086514478979350639
+      Djinn_attack_hitbox_14: -1399500025721808918
+      Djinn_attack_hitbox_15: -352065690967757492
+      Djinn_attack_hitbox_16: -1471123911950544839
+      Djinn_attack_hitbox_2: 431114108486372642
+      Djinn_attack_hitbox_3: -5277117261208532877
+      Djinn_attack_hitbox_4: 4488120310655826346
+      Djinn_attack_hitbox_5: -8161306300047294152
+      Djinn_attack_hitbox_6: 7200849441304014329
+      Djinn_attack_hitbox_7: -6304553483775765009
+      Djinn_attack_hitbox_8: -6749875761202751372
+      Djinn_attack_hitbox_9: 375090346564789086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elf_idle (16x24)_0: 2202940879280952786
+      Elf_idle (16x24)_1: -8606374321230010445
+      Elf_idle (16x24)_10: 2483294306864693522
+      Elf_idle (16x24)_11: -2366534303200344538
+      Elf_idle (16x24)_12: 1841488715517635668
+      Elf_idle (16x24)_13: 4333947863792436423
+      Elf_idle (16x24)_14: -5993451326809033670
+      Elf_idle (16x24)_15: 131034812649834813
+      Elf_idle (16x24)_2: -2222542105090634956
+      Elf_idle (16x24)_3: 8643142852686741020
+      Elf_idle (16x24)_4: 1757606342157007141
+      Elf_idle (16x24)_5: 2109025427105427309
+      Elf_idle (16x24)_6: 354104730941303782
+      Elf_idle (16x24)_7: -6229146071245358801
+      Elf_idle (16x24)_8: -9000077931097740814
+      Elf_idle (16x24)_9: 2193544549696358366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Skeleton_attack_NOhitbox_0: -729778747873770210
+      Skeleton_attack_NOhitbox_1: -2186042832113250316
+      Skeleton_attack_NOhitbox_10: 5058113511328519203
+      Skeleton_attack_NOhitbox_11: -5307976869282206576
+      Skeleton_attack_NOhitbox_12: 4228336673890640021
+      Skeleton_attack_NOhitbox_13: 8644334367676377543
+      Skeleton_attack_NOhitbox_14: -5592211164808432022
+      Skeleton_attack_NOhitbox_15: 2195048874999110467
+      Skeleton_attack_NOhitbox_16: -7018507145099664108
+      Skeleton_attack_NOhitbox_17: -633076952691254156
+      Skeleton_attack_NOhitbox_18: -4306085442214675161
+      Skeleton_attack_NOhitbox_19: -2392383395423112733
+      Skeleton_attack_NOhitbox_2: -7843000721504778375
+      Skeleton_attack_NOhitbox_3: -2127940559251386182
+      Skeleton_attack_NOhitbox_4: 5724633160001539727
+      Skeleton_attack_NOhitbox_5: -6527209225199547507
+      Skeleton_attack_NOhitbox_6: -7682924613415417716
+      Skeleton_attack_NOhitbox_7: 865986720078085948
+      Skeleton_attack_NOhitbox_8: -3944925457452808283
+      Skeleton_attack_NOhitbox_9: -2576156108486371919
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

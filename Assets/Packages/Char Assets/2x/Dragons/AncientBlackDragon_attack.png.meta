@@ -1534,7 +1534,64 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AncientBlackDragon_attack_0: 4944023814113639276
+      AncientBlackDragon_attack_1: -5159879601961236137
+      AncientBlackDragon_attack_10: -1783514906373693583
+      AncientBlackDragon_attack_11: 8134052141769810157
+      AncientBlackDragon_attack_12: -8853016120513770472
+      AncientBlackDragon_attack_13: 4040141880757478172
+      AncientBlackDragon_attack_14: 1670705073631999411
+      AncientBlackDragon_attack_15: -7596219245328841307
+      AncientBlackDragon_attack_16: 4776718242269198405
+      AncientBlackDragon_attack_17: -1634503568162369217
+      AncientBlackDragon_attack_18: 4643210406023580306
+      AncientBlackDragon_attack_19: 438851111459536164
+      AncientBlackDragon_attack_2: -3691937232583123095
+      AncientBlackDragon_attack_20: 3895170873699592787
+      AncientBlackDragon_attack_21: -4407952122864502210
+      AncientBlackDragon_attack_22: 2027541980552682988
+      AncientBlackDragon_attack_23: 3350814441671325791
+      AncientBlackDragon_attack_24: 9099151746062868704
+      AncientBlackDragon_attack_25: -2434145994938377237
+      AncientBlackDragon_attack_26: -4307980855280474228
+      AncientBlackDragon_attack_27: 1277084918800759126
+      AncientBlackDragon_attack_28: 8812424149998665457
+      AncientBlackDragon_attack_29: 4950848833621344610
+      AncientBlackDragon_attack_3: -5307103456792598997
+      AncientBlackDragon_attack_30: 1941856439724296455
+      AncientBlackDragon_attack_31: -836429828581683170
+      AncientBlackDragon_attack_32: -6415464139501596962
+      AncientBlackDragon_attack_33: 9046392984086574651
+      AncientBlackDragon_attack_34: 8386629569766077111
+      AncientBlackDragon_attack_35: 7578659409856506560
+      AncientBlackDragon_attack_36: 8018665056493212746
+      AncientBlackDragon_attack_37: 8535435837357465597
+      AncientBlackDragon_attack_38: 971373558469592687
+      AncientBlackDragon_attack_39: -8317278214612304239
+      AncientBlackDragon_attack_4: 8495478887870699588
+      AncientBlackDragon_attack_40: 3699557683954219862
+      AncientBlackDragon_attack_41: -6323798756848865477
+      AncientBlackDragon_attack_42: -8582663521814889268
+      AncientBlackDragon_attack_43: -7255459174208986249
+      AncientBlackDragon_attack_44: 4521432624742203171
+      AncientBlackDragon_attack_45: -2673164113124890908
+      AncientBlackDragon_attack_46: 8724351673316010176
+      AncientBlackDragon_attack_47: -8682330004829750793
+      AncientBlackDragon_attack_48: -110158529030804291
+      AncientBlackDragon_attack_49: -627120761375130299
+      AncientBlackDragon_attack_5: -8263164708887983343
+      AncientBlackDragon_attack_50: 3684227036177076890
+      AncientBlackDragon_attack_51: 716132505363343499
+      AncientBlackDragon_attack_52: -7084828598001845688
+      AncientBlackDragon_attack_53: 4855947428050170590
+      AncientBlackDragon_attack_54: 8955273539838398531
+      AncientBlackDragon_attack_55: -1238515104360946888
+      AncientBlackDragon_attack_56: 4009562938160175386
+      AncientBlackDragon_attack_6: -8478959142420172718
+      AncientBlackDragon_attack_7: 6996593326136015135
+      AncientBlackDragon_attack_8: -699522301696154457
+      AncientBlackDragon_attack_9: 2086943214514368399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

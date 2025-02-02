@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blemmyae_walk_0: -3172795369843471
+      Blemmyae_walk_1: 2885082759876676018
+      Blemmyae_walk_2: 9008264936082900431
+      Blemmyae_walk_3: 7100838570580407115
+      Blemmyae_walk_4: 7075076655533440335
+      Blemmyae_walk_5: -2430476483936282105
+      Blemmyae_walk_6: -1494008594950021279
+      Blemmyae_walk_7: -197923140176033491
+      Blemmyae_walk_8: -8594761045201104914
+      Blemmyae_walk_9: -7876944520096460774
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

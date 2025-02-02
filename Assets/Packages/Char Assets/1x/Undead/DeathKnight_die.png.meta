@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeathKnight_die_0: -5365369365878837350
+      DeathKnight_die_1: -1126716870590659767
+      DeathKnight_die_2: 1535481694155853723
+      DeathKnight_die_3: -97859038615176964
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

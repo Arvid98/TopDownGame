@@ -1109,7 +1109,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceGolem_attack_hitbox_0: -4245384302483082413
+      IceGolem_attack_hitbox_1: 6293118420388759770
+      IceGolem_attack_hitbox_10: 7453122685231784329
+      IceGolem_attack_hitbox_11: 3319221893138987192
+      IceGolem_attack_hitbox_12: 7951476998888402829
+      IceGolem_attack_hitbox_13: 1812076855571696513
+      IceGolem_attack_hitbox_14: 9046481387142509932
+      IceGolem_attack_hitbox_15: -4945213793004593463
+      IceGolem_attack_hitbox_16: 4270693114258064610
+      IceGolem_attack_hitbox_17: -6737959851016031021
+      IceGolem_attack_hitbox_18: -3006345505691223930
+      IceGolem_attack_hitbox_19: 2626910025946373961
+      IceGolem_attack_hitbox_2: -817230206571019580
+      IceGolem_attack_hitbox_20: -7709605553050998198
+      IceGolem_attack_hitbox_21: 1732879827640615065
+      IceGolem_attack_hitbox_22: -2384051559287639210
+      IceGolem_attack_hitbox_23: 7740706025425497083
+      IceGolem_attack_hitbox_24: -2254806220971230677
+      IceGolem_attack_hitbox_25: 2447777487774872998
+      IceGolem_attack_hitbox_26: -3202102995552938454
+      IceGolem_attack_hitbox_27: -8225296432146768880
+      IceGolem_attack_hitbox_28: -943027429805383362
+      IceGolem_attack_hitbox_29: -4203962838979141896
+      IceGolem_attack_hitbox_3: -7255697080702083396
+      IceGolem_attack_hitbox_30: -3888200124562901737
+      IceGolem_attack_hitbox_31: 1471912401408201376
+      IceGolem_attack_hitbox_32: 2770447394024993157
+      IceGolem_attack_hitbox_33: 631929126163608438
+      IceGolem_attack_hitbox_34: 7519491858149973238
+      IceGolem_attack_hitbox_35: 296345710554441984
+      IceGolem_attack_hitbox_36: -5767878207957417751
+      IceGolem_attack_hitbox_37: -7084288968094798220
+      IceGolem_attack_hitbox_38: -6507908295099354925
+      IceGolem_attack_hitbox_39: -5988657512642972651
+      IceGolem_attack_hitbox_4: 7460579954208380397
+      IceGolem_attack_hitbox_5: 4964310836396102330
+      IceGolem_attack_hitbox_6: -460640367054733709
+      IceGolem_attack_hitbox_7: 4444736507510452407
+      IceGolem_attack_hitbox_8: -3439982336448957204
+      IceGolem_attack_hitbox_9: -6831038627013421335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

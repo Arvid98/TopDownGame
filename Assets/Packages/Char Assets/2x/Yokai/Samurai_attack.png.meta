@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samurai_attack_0: 5057246679334082511
+      Samurai_attack_1: 7181017267837928362
+      Samurai_attack_10: 5067517703543438522
+      Samurai_attack_11: -7623951650802038296
+      Samurai_attack_12: 2882033249374984712
+      Samurai_attack_13: -8114641196491386361
+      Samurai_attack_14: 7428471061872960272
+      Samurai_attack_15: -6699938482396892446
+      Samurai_attack_16: 3863551065461988401
+      Samurai_attack_17: -5352709458464287218
+      Samurai_attack_18: -1769197449338002717
+      Samurai_attack_19: 8795230331261936588
+      Samurai_attack_2: -5880017638091512083
+      Samurai_attack_3: -3023397574419100983
+      Samurai_attack_4: -4092922581155974417
+      Samurai_attack_5: -5759873791414672137
+      Samurai_attack_6: -4304287732853937398
+      Samurai_attack_7: -4045278326508142546
+      Samurai_attack_8: 8370157860675701561
+      Samurai_attack_9: -3778875708558122070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

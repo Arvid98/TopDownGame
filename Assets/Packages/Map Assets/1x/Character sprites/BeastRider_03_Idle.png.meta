@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BeastRider_03_Idle_0: -2936740463025345349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

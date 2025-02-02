@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_idle_0: -2022629206684211989
+      Satyr_idle_1: 7236249455820918257
+      Satyr_idle_10: 814357538740486219
+      Satyr_idle_11: 1337616082788841824
+      Satyr_idle_12: -3142769974871304383
+      Satyr_idle_13: 7490738453400204940
+      Satyr_idle_14: 4098743180673899148
+      Satyr_idle_15: 6797416938936832771
+      Satyr_idle_2: -5133556552149184215
+      Satyr_idle_3: 1357298332264307869
+      Satyr_idle_4: 2645034369362779961
+      Satyr_idle_5: 3266782144779602339
+      Satyr_idle_6: 3187693761120353371
+      Satyr_idle_7: 1025842078828970854
+      Satyr_idle_8: -8839259582998436755
+      Satyr_idle_9: -3003034093700299115
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

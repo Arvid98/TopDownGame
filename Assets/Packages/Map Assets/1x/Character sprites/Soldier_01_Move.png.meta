@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Soldier_01_Move_0: -153061438007811347
+      Soldier_01_Move_1: -9109689645232743406
+      Soldier_01_Move_10: -4921334741368260869
+      Soldier_01_Move_11: -7005473484778430473
+      Soldier_01_Move_12: 8016139340771156473
+      Soldier_01_Move_13: 6124615992013740115
+      Soldier_01_Move_2: -3577906013946562566
+      Soldier_01_Move_3: 3009520665357108366
+      Soldier_01_Move_4: 2272985151264141547
+      Soldier_01_Move_5: -2010162629359699129
+      Soldier_01_Move_6: 2964432887215573252
+      Soldier_01_Move_7: -1358937189882031328
+      Soldier_01_Move_8: 3772998111402117845
+      Soldier_01_Move_9: -8322857672240825316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

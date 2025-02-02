@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Griffin_fly_0: -4566291384760045619
+      Griffin_fly_1: 5484643710049582948
+      Griffin_fly_10: 2656807835769463153
+      Griffin_fly_2: 5011200645538796364
+      Griffin_fly_3: 7172246197344311314
+      Griffin_fly_4: 6597032856208539044
+      Griffin_fly_5: -1266000683391614799
+      Griffin_fly_6: -8509411489601593112
+      Griffin_fly_7: -2192293032697909506
+      Griffin_fly_8: 669343549034587453
+      Griffin_fly_9: 5041513025445693813
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

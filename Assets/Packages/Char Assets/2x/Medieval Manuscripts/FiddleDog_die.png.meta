@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FiddleDog_die_0: 4690385226621104377
+      FiddleDog_die_1: 7680544271829465315
+      FiddleDog_die_2: 9161062572365751897
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

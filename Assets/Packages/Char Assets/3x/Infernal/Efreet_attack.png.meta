@@ -1209,7 +1209,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_attack_0: -1130129066807153564
+      Efreet_attack_1: -2098193417281994910
+      Efreet_attack_10: -3208473044319164779
+      Efreet_attack_11: -3546805385696088675
+      Efreet_attack_12: -2681567969756224390
+      Efreet_attack_13: -5340611839199967854
+      Efreet_attack_14: -3948692470855170591
+      Efreet_attack_15: 5511883970360310084
+      Efreet_attack_16: 3192312399458488070
+      Efreet_attack_17: -6608021215128225564
+      Efreet_attack_18: 5534591639323979444
+      Efreet_attack_19: 5218722524930321733
+      Efreet_attack_2: 4316283175902482487
+      Efreet_attack_20: -8820347275079541856
+      Efreet_attack_21: -1030328755163707802
+      Efreet_attack_22: -3342076356990450503
+      Efreet_attack_23: 4563269430567101588
+      Efreet_attack_24: 7019623807499591135
+      Efreet_attack_25: 9069405122566682357
+      Efreet_attack_26: -1590594143377410553
+      Efreet_attack_27: -3466300408757666320
+      Efreet_attack_28: 8142392265808698901
+      Efreet_attack_29: -2362122426281007845
+      Efreet_attack_3: -7115637491585230627
+      Efreet_attack_30: 2562941562435712044
+      Efreet_attack_31: 4529883769331566753
+      Efreet_attack_32: 1652083651897455043
+      Efreet_attack_33: 9162422950795092439
+      Efreet_attack_34: 1604853737668779398
+      Efreet_attack_35: -2252366278037838641
+      Efreet_attack_36: -5812574865290032749
+      Efreet_attack_37: -4692664662228583381
+      Efreet_attack_38: -5545792093324610949
+      Efreet_attack_39: 1905063967646952682
+      Efreet_attack_4: 1540902768134586593
+      Efreet_attack_40: -5607701922876508571
+      Efreet_attack_41: -5354492989976161354
+      Efreet_attack_42: -3985977581619539643
+      Efreet_attack_43: -3357679038537185540
+      Efreet_attack_5: -2152963017208515368
+      Efreet_attack_6: -973372723105838205
+      Efreet_attack_7: 5549841425861139180
+      Efreet_attack_8: 1929447891853251471
+      Efreet_attack_9: -6400215736597668802
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

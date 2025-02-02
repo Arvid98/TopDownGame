@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orc_idle_0: -2975426836735480497
+      Orc_idle_1: -6484963373415205564
+      Orc_idle_2: -6064111914063958977
+      Orc_idle_3: -7677996171074358559
+      Orc_idle_4: 123323592704267982
+      Orc_idle_5: -9000039669062413481
+      Orc_idle_6: 9060865233077746523
+      Orc_idle_7: 5319912820907995799
+      Orc_idle_8: 698218785687327754
+      Orc_idle_9: 5699287298693124316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

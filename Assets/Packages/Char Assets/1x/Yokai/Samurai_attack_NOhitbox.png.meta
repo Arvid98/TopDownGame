@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Samurai_attack_NOhitbox_0: 4299864419639558395
+      Samurai_attack_NOhitbox_1: -8275314730469088302
+      Samurai_attack_NOhitbox_10: 3195427187573082211
+      Samurai_attack_NOhitbox_11: 870616637644776467
+      Samurai_attack_NOhitbox_12: 7776374069721573426
+      Samurai_attack_NOhitbox_13: -4076300088260446285
+      Samurai_attack_NOhitbox_14: -7590605603923204980
+      Samurai_attack_NOhitbox_15: 8927231151741767714
+      Samurai_attack_NOhitbox_16: -635430605011893863
+      Samurai_attack_NOhitbox_17: -7329306239892288437
+      Samurai_attack_NOhitbox_18: 2458110089496110703
+      Samurai_attack_NOhitbox_19: -843902449413230051
+      Samurai_attack_NOhitbox_2: -3796114580621550153
+      Samurai_attack_NOhitbox_3: 1979187041507301002
+      Samurai_attack_NOhitbox_4: 1131498322743075201
+      Samurai_attack_NOhitbox_5: -7905670805915925481
+      Samurai_attack_NOhitbox_6: 6936907167573327574
+      Samurai_attack_NOhitbox_7: -4185752585218844715
+      Samurai_attack_NOhitbox_8: -535717264833949796
+      Samurai_attack_NOhitbox_9: 2701145436634836615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lich_die_0: 6982725863423715019
+      Lich_die_1: -6945729876478068791
+      Lich_die_2: -878804672991087866
+      Lich_die_3: 148252673550646722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

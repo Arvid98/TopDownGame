@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElderSnail_walk_0: -6839698223306698908
+      ElderSnail_walk_1: -2678921469283906208
+      ElderSnail_walk_2: 1730163001863690596
+      ElderSnail_walk_3: 6083590392157573128
+      ElderSnail_walk_4: 8761347608292029619
+      ElderSnail_walk_5: -2276708571792245806
+      ElderSnail_walk_6: 6566140913628384337
+      ElderSnail_walk_7: -6133716875624423822
+      ElderSnail_walk_8: 6935915500807663462
+      ElderSnail_walk_9: 9101476882540681651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

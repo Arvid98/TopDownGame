@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kappa_walk_0: -3492804645693196802
+      Kappa_walk_1: -2334953088418915437
+      Kappa_walk_2: -8691255226778256964
+      Kappa_walk_3: 5408058829211719452
+      Kappa_walk_4: 7726701326260020807
+      Kappa_walk_5: -6718955831500185050
+      Kappa_walk_6: -7770404825373124409
+      Kappa_walk_7: -3927002134629335869
+      Kappa_walk_8: -7295672865589409128
+      Kappa_walk_9: 3003418051611361036
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

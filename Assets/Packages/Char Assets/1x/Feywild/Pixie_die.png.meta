@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pixie_die_0: 5014025993146091566
+      Pixie_die_1: 7722956682347867983
+      Pixie_die_2: -2092630556890678498
+      Pixie_die_3: -6912519424286050313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

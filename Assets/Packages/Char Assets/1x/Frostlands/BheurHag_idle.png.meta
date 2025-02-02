@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BheurHag_idle_0: 6800391605719182587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

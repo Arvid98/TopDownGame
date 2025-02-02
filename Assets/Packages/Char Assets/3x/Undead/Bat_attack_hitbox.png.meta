@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat_attack_hitbox_0: 2693681190407959728
+      Bat_attack_hitbox_1: -1727859111994706397
+      Bat_attack_hitbox_10: 7992160492434332599
+      Bat_attack_hitbox_11: -312971227430286347
+      Bat_attack_hitbox_12: -4979777099415489767
+      Bat_attack_hitbox_13: -2017583699003040963
+      Bat_attack_hitbox_14: 1489896501233373119
+      Bat_attack_hitbox_15: -1358939142734587605
+      Bat_attack_hitbox_16: 5028603716384815736
+      Bat_attack_hitbox_17: 2532367689850824028
+      Bat_attack_hitbox_18: 5689264947135014144
+      Bat_attack_hitbox_19: -8617793634483138628
+      Bat_attack_hitbox_2: -5065818772547812237
+      Bat_attack_hitbox_20: -1897295815201565194
+      Bat_attack_hitbox_21: 7847891365740430956
+      Bat_attack_hitbox_22: 2599802628976531839
+      Bat_attack_hitbox_23: -7760878267715487676
+      Bat_attack_hitbox_24: 6240504226004341498
+      Bat_attack_hitbox_25: -8788342350837367880
+      Bat_attack_hitbox_26: 3222396752594998878
+      Bat_attack_hitbox_27: 2466671334265838296
+      Bat_attack_hitbox_28: -2809855070229673304
+      Bat_attack_hitbox_29: -6860946230935060596
+      Bat_attack_hitbox_3: -8602219770163756601
+      Bat_attack_hitbox_30: -7720851027157356763
+      Bat_attack_hitbox_31: -6266758570537140258
+      Bat_attack_hitbox_32: 1845436551565967430
+      Bat_attack_hitbox_33: 4848897462599005728
+      Bat_attack_hitbox_34: -4873872004613915619
+      Bat_attack_hitbox_35: -4814494343388630522
+      Bat_attack_hitbox_4: 4818493548130256205
+      Bat_attack_hitbox_5: 6721611500269076741
+      Bat_attack_hitbox_6: 5717502752727392752
+      Bat_attack_hitbox_7: 4313779568797441246
+      Bat_attack_hitbox_8: 3613754945932381177
+      Bat_attack_hitbox_9: 4455553160834126476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

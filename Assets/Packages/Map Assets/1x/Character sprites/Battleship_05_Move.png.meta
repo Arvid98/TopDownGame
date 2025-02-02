@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Battleship_05_Move_0: -7181216805361488637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampire_die_0: 1445484950474628797
+      Vampire_die_1: 6687108241273430094
+      Vampire_die_2: -3028932317008989715
+      Vampire_die_3: -5854372995912334418
+      Vampire_die_4: -8958403840797858402
+      Vampire_die_5: 345625579017249833
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

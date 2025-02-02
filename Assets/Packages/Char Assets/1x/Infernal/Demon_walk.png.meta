@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon_walk_0: 8215851686890426056
+      Demon_walk_1: 6073374559034673656
+      Demon_walk_10: 126987396243758419
+      Demon_walk_11: -3040343072413677412
+      Demon_walk_12: -1082680725292312590
+      Demon_walk_13: 2538826617865718152
+      Demon_walk_14: 6253497947926315737
+      Demon_walk_15: -3308290759990924319
+      Demon_walk_2: -7682960823686050792
+      Demon_walk_3: -2643874981399682631
+      Demon_walk_4: 6665080806016912258
+      Demon_walk_5: 2856724750337122761
+      Demon_walk_6: -8663585462859966535
+      Demon_walk_7: 6149732210397130205
+      Demon_walk_8: 197808030930576577
+      Demon_walk_9: 241248598864035121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

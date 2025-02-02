@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon_attack_hitbox_0: 3909583290893079101
+      Demon_attack_hitbox_1: 8451736083337837114
+      Demon_attack_hitbox_10: -9011293541427554627
+      Demon_attack_hitbox_11: -2220605490867743431
+      Demon_attack_hitbox_12: 2871936767099223524
+      Demon_attack_hitbox_13: -7431123337340716971
+      Demon_attack_hitbox_2: 7819925835387249480
+      Demon_attack_hitbox_3: 3682790321555490726
+      Demon_attack_hitbox_4: -683904908535536794
+      Demon_attack_hitbox_5: -2176357137986211461
+      Demon_attack_hitbox_6: -1237987764444202435
+      Demon_attack_hitbox_7: -1461126738803295645
+      Demon_attack_hitbox_8: 3105730744654898513
+      Demon_attack_hitbox_9: -964682147027142621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

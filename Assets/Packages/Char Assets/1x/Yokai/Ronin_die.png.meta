@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ronin_die_0: -2509104693070602326
+      Ronin_die_1: -5896388765579525385
+      Ronin_die_2: -2014359173389008558
+      Ronin_die_3: -5372026357776014641
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

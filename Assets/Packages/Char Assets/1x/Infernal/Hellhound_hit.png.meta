@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_hit_0: 3948295352521943356
+      Hellhound_hit_1: -3228781818881131661
+      Hellhound_hit_2: 8245524817053439351
+      Hellhound_hit_3: 8089259365209235822
+      Hellhound_hit_4: 9021251146404316287
+      Hellhound_hit_5: 2358210244741709025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -584,7 +584,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_autumn (free demo)_0: -7785919623701190450
+      Tileset_autumn (free demo)_1: 7635177928342068274
+      Tileset_autumn (free demo)_10: -2091014746402179270
+      Tileset_autumn (free demo)_11: -8532188593058690115
+      Tileset_autumn (free demo)_12: 7471960526961503604
+      Tileset_autumn (free demo)_13: 2094705905835501165
+      Tileset_autumn (free demo)_14: 7523925364807739043
+      Tileset_autumn (free demo)_15: 840347003368396912
+      Tileset_autumn (free demo)_16: 7610336680041250524
+      Tileset_autumn (free demo)_17: -120750288230682844
+      Tileset_autumn (free demo)_18: 7599991325021615608
+      Tileset_autumn (free demo)_2: -3971070237557170652
+      Tileset_autumn (free demo)_3: -3500299219886704082
+      Tileset_autumn (free demo)_4: -2387089413952776975
+      Tileset_autumn (free demo)_5: 4126239257824970972
+      Tileset_autumn (free demo)_6: 3853908355460967131
+      Tileset_autumn (free demo)_7: 1223651461721587001
+      Tileset_autumn (free demo)_8: 1123444740294922460
+      Tileset_autumn (free demo)_9: -8348433680045936268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

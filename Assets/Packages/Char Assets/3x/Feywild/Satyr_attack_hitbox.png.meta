@@ -759,7 +759,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_attack_hitbox_0: -9148772947228138792
+      Satyr_attack_hitbox_1: 5488653932063056836
+      Satyr_attack_hitbox_10: 85974770205974729
+      Satyr_attack_hitbox_11: -5611513921766786500
+      Satyr_attack_hitbox_12: -1557954209841353542
+      Satyr_attack_hitbox_13: -7329987695737971747
+      Satyr_attack_hitbox_14: -4204056850162800136
+      Satyr_attack_hitbox_15: 4566112112781345444
+      Satyr_attack_hitbox_16: 589473515699346595
+      Satyr_attack_hitbox_17: 6343128706805203712
+      Satyr_attack_hitbox_18: 1864789563319462507
+      Satyr_attack_hitbox_19: -7545603478068219969
+      Satyr_attack_hitbox_2: -7911774323947107064
+      Satyr_attack_hitbox_20: 5975804541633869124
+      Satyr_attack_hitbox_21: 7300939535726695846
+      Satyr_attack_hitbox_22: 5786855072591141796
+      Satyr_attack_hitbox_23: 5283077688893954244
+      Satyr_attack_hitbox_24: 4008898817835258917
+      Satyr_attack_hitbox_25: -8731306269940599013
+      Satyr_attack_hitbox_3: 5895245169870374877
+      Satyr_attack_hitbox_4: 8289626099329650123
+      Satyr_attack_hitbox_5: 830465740918466330
+      Satyr_attack_hitbox_6: 8221709304488314377
+      Satyr_attack_hitbox_7: -4384638227833120052
+      Satyr_attack_hitbox_8: -6165009870949768828
+      Satyr_attack_hitbox_9: -8400296746854893863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PurpleWorm_noOutline_0: 4940392059374609472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

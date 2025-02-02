@@ -884,7 +884,38 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oni_attack_hitbox_0: 586135804367821311
+      Oni_attack_hitbox_1: -5704127574420999583
+      Oni_attack_hitbox_10: -4530740281233883312
+      Oni_attack_hitbox_11: 3776493933113757852
+      Oni_attack_hitbox_12: -6858355912996959760
+      Oni_attack_hitbox_13: -9118622681980020599
+      Oni_attack_hitbox_14: 617442772215669113
+      Oni_attack_hitbox_15: -4521061630568343434
+      Oni_attack_hitbox_16: 964597401413378388
+      Oni_attack_hitbox_17: 6254270779231063614
+      Oni_attack_hitbox_18: -8919789507910148579
+      Oni_attack_hitbox_19: -6158045670811950635
+      Oni_attack_hitbox_2: -5072346215108842291
+      Oni_attack_hitbox_20: -4560404638069694702
+      Oni_attack_hitbox_21: -6886138564163783468
+      Oni_attack_hitbox_22: -1802947307459953408
+      Oni_attack_hitbox_23: 4728150719487838567
+      Oni_attack_hitbox_24: -131357196652533272
+      Oni_attack_hitbox_25: -8377474602639562003
+      Oni_attack_hitbox_26: 5051804257616737051
+      Oni_attack_hitbox_27: -7523760781051978482
+      Oni_attack_hitbox_28: 7965678658610291808
+      Oni_attack_hitbox_29: -7280989720418784614
+      Oni_attack_hitbox_3: -4662847197635828109
+      Oni_attack_hitbox_30: -2887873669766663619
+      Oni_attack_hitbox_4: 8191690125666124567
+      Oni_attack_hitbox_5: -6464722519228910367
+      Oni_attack_hitbox_6: -6940656823429497555
+      Oni_attack_hitbox_7: -3394903639460496452
+      Oni_attack_hitbox_8: -4865385557290237708
+      Oni_attack_hitbox_9: -5125193765264875153
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

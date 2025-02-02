@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder_attack_hitbox (green)_0: 915947266756990665
+      Beholder_attack_hitbox (green)_1: -197612252209051711
+      Beholder_attack_hitbox (green)_10: 2727302359056996232
+      Beholder_attack_hitbox (green)_11: 4483075049764845596
+      Beholder_attack_hitbox (green)_12: -4699250293041578506
+      Beholder_attack_hitbox (green)_13: -4390737923103370873
+      Beholder_attack_hitbox (green)_14: -44364123408137461
+      Beholder_attack_hitbox (green)_15: 9162263648971541236
+      Beholder_attack_hitbox (green)_16: 7482354914090436556
+      Beholder_attack_hitbox (green)_17: -8093831640674452577
+      Beholder_attack_hitbox (green)_18: -9117492953049552723
+      Beholder_attack_hitbox (green)_19: 1040982120360198675
+      Beholder_attack_hitbox (green)_2: -1064193483354322869
+      Beholder_attack_hitbox (green)_20: -8460311046437544670
+      Beholder_attack_hitbox (green)_21: -5695967893011890956
+      Beholder_attack_hitbox (green)_22: -5223444584713487697
+      Beholder_attack_hitbox (green)_23: 4865400963616600764
+      Beholder_attack_hitbox (green)_3: -1002852750237781784
+      Beholder_attack_hitbox (green)_4: 4228746078467799695
+      Beholder_attack_hitbox (green)_5: 7911105475714229997
+      Beholder_attack_hitbox (green)_6: 309723773871705463
+      Beholder_attack_hitbox (green)_7: 5282451603701077365
+      Beholder_attack_hitbox (green)_8: -6043863795273140545
+      Beholder_attack_hitbox (green)_9: 7319819553978770215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

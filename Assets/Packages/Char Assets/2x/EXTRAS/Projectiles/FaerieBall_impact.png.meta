@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieBall_impact_0: -289463979170470127
+      FaerieBall_impact_1: -5190814112603157747
+      FaerieBall_impact_10: 2392946737564269015
+      FaerieBall_impact_11: -219232834275424211
+      FaerieBall_impact_12: 5956746814460421361
+      FaerieBall_impact_13: -7858250255187614753
+      FaerieBall_impact_14: -8280806797576566503
+      FaerieBall_impact_15: -3470286594388857973
+      FaerieBall_impact_16: 8787873683082707982
+      FaerieBall_impact_2: -6931884240759130660
+      FaerieBall_impact_3: -3705711918170363350
+      FaerieBall_impact_4: 2951263527241579518
+      FaerieBall_impact_5: -3856869164736425825
+      FaerieBall_impact_6: -6711194764953276609
+      FaerieBall_impact_7: 2620297769323591236
+      FaerieBall_impact_8: -3329270735017043018
+      FaerieBall_impact_9: 5298901424724455037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

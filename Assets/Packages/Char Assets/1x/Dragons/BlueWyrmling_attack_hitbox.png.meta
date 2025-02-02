@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueWyrmling_attack_hitbox_0: 6896289069436027559
+      BlueWyrmling_attack_hitbox_1: -9198178657744442530
+      BlueWyrmling_attack_hitbox_10: 3514936721300202889
+      BlueWyrmling_attack_hitbox_11: 7883115465630585218
+      BlueWyrmling_attack_hitbox_12: -6530290012585528622
+      BlueWyrmling_attack_hitbox_13: -7854367683861894109
+      BlueWyrmling_attack_hitbox_14: -2328018915098219405
+      BlueWyrmling_attack_hitbox_15: -8238682683139553818
+      BlueWyrmling_attack_hitbox_16: -7109957941008431855
+      BlueWyrmling_attack_hitbox_17: -9036903570304069707
+      BlueWyrmling_attack_hitbox_18: -1618810733486063739
+      BlueWyrmling_attack_hitbox_19: -4856849144908779488
+      BlueWyrmling_attack_hitbox_2: -5779781787397712478
+      BlueWyrmling_attack_hitbox_3: 7169090585341260566
+      BlueWyrmling_attack_hitbox_4: -2067680403364784918
+      BlueWyrmling_attack_hitbox_5: -865179135086178704
+      BlueWyrmling_attack_hitbox_6: -92639560226623209
+      BlueWyrmling_attack_hitbox_7: -3081291886344047360
+      BlueWyrmling_attack_hitbox_8: 7770020459316692459
+      BlueWyrmling_attack_hitbox_9: -1518640658697635814
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

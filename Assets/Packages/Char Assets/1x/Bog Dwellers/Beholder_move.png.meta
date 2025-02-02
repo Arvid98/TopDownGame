@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder_move_0: -2564737194701293486
+      Beholder_move_1: -3057307886186830545
+      Beholder_move_10: -6946810325999632342
+      Beholder_move_11: -2412665853217714782
+      Beholder_move_12: 6342578331383353380
+      Beholder_move_13: -1998782844447707873
+      Beholder_move_2: -3851592340127748224
+      Beholder_move_3: -3926469370896691646
+      Beholder_move_4: 4782650722166676780
+      Beholder_move_5: 4690073768096898284
+      Beholder_move_6: -4669687690834726152
+      Beholder_move_7: 7552930530395733486
+      Beholder_move_8: 7369671412879403919
+      Beholder_move_9: 3054400107317235041
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FireballBig_impact_0: 1922709074052474295
+      FireballBig_impact_1: 7204425418087523748
+      FireballBig_impact_2: 6627980438644607448
+      FireballBig_impact_3: 6121860568906320620
+      FireballBig_impact_4: 1350987203658327260
+      FireballBig_impact_5: -5723998706311215894
+      FireballBig_impact_6: 6194433485366329149
+      FireballBig_impact_7: 1447724351093517471
+      FireballBig_impact_8: -1794153209377595744
+      FireballBig_impact_9: -2766920221492627342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

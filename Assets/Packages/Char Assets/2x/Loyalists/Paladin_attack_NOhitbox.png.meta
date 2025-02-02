@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_attack_NOhitbox_0: 7764342627247594813
+      Paladin_attack_NOhitbox_1: 2323004979888679640
+      Paladin_attack_NOhitbox_10: -5666226875685073931
+      Paladin_attack_NOhitbox_11: -6690207840655581003
+      Paladin_attack_NOhitbox_12: 3229801076805717546
+      Paladin_attack_NOhitbox_13: -6932577814234076869
+      Paladin_attack_NOhitbox_14: 7143326514424823851
+      Paladin_attack_NOhitbox_15: 1742498010467531097
+      Paladin_attack_NOhitbox_16: -2847026614015206572
+      Paladin_attack_NOhitbox_17: 8889114800177228183
+      Paladin_attack_NOhitbox_18: 2486439191022849195
+      Paladin_attack_NOhitbox_19: -2856300744417360721
+      Paladin_attack_NOhitbox_2: 4603104505085332672
+      Paladin_attack_NOhitbox_3: 4372685569719862835
+      Paladin_attack_NOhitbox_4: -8950130423302533349
+      Paladin_attack_NOhitbox_5: -6369813800774991884
+      Paladin_attack_NOhitbox_6: 245077568958091991
+      Paladin_attack_NOhitbox_7: -874350249466543727
+      Paladin_attack_NOhitbox_8: -4059561578699205306
+      Paladin_attack_NOhitbox_9: 4499101158469040844
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

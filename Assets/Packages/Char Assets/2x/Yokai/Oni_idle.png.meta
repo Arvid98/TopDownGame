@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Oni_idle_0: 2822760774057099042
+      Oni_idle_1: -3544505645714148204
+      Oni_idle_10: -4616851437733610086
+      Oni_idle_11: -2768386939117227413
+      Oni_idle_12: -2098046709378447381
+      Oni_idle_13: 657751921156026242
+      Oni_idle_14: 3938928675868889127
+      Oni_idle_15: -1625977714480095610
+      Oni_idle_16: 2450393095296733586
+      Oni_idle_17: 2143198588473655604
+      Oni_idle_18: -1978398133874846488
+      Oni_idle_19: 2081696254536007805
+      Oni_idle_2: -8773445215165691040
+      Oni_idle_20: -3947371906219870786
+      Oni_idle_21: -2776472964874227240
+      Oni_idle_22: 8350416814321607219
+      Oni_idle_23: -7595443890892330475
+      Oni_idle_24: 965789828513655093
+      Oni_idle_25: -4715634959734600910
+      Oni_idle_26: -8049243274928494345
+      Oni_idle_27: 5212165617298484086
+      Oni_idle_28: 4207008631286890420
+      Oni_idle_29: 7330976070562234060
+      Oni_idle_3: 8461189429233640052
+      Oni_idle_4: -1159318952071749275
+      Oni_idle_5: -5860412911659287028
+      Oni_idle_6: 1642723736465165649
+      Oni_idle_7: -2358604604233128624
+      Oni_idle_8: 1276338015251138024
+      Oni_idle_9: -4951368377552273938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

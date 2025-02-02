@@ -859,7 +859,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_fly_0: 7051063537813632002
+      Tengu_fly_1: 9122394156717829682
+      Tengu_fly_10: -8681556042062518020
+      Tengu_fly_11: 4327734294041094097
+      Tengu_fly_12: -9202445501535771037
+      Tengu_fly_13: -6556214409010080635
+      Tengu_fly_14: -7775100198575423110
+      Tengu_fly_15: 2263631444091275928
+      Tengu_fly_16: -4310284156527632796
+      Tengu_fly_17: 8421777744226194309
+      Tengu_fly_18: -226574565067089772
+      Tengu_fly_19: -7696914053965004036
+      Tengu_fly_2: -6412675454526444397
+      Tengu_fly_20: -1037162107596209664
+      Tengu_fly_21: 9168518896325724358
+      Tengu_fly_22: -5860844378601240939
+      Tengu_fly_23: -6055376294733826520
+      Tengu_fly_24: -7058008194625630339
+      Tengu_fly_25: -4894089567215798306
+      Tengu_fly_26: -7287947265164589786
+      Tengu_fly_27: 1649991694053743019
+      Tengu_fly_28: -4953326536532782228
+      Tengu_fly_29: -5482824269677624388
+      Tengu_fly_3: 185458254302367414
+      Tengu_fly_4: 5510386653800708256
+      Tengu_fly_5: 5726296014540428006
+      Tengu_fly_6: 7552870142989899181
+      Tengu_fly_7: 202001914441180922
+      Tengu_fly_8: 765343099209633419
+      Tengu_fly_9: 4021243444616514756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

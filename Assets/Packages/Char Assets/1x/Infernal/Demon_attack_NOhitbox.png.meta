@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon_attack_NOhitbox_0: -6555516333144527727
+      Demon_attack_NOhitbox_1: -990183196604097621
+      Demon_attack_NOhitbox_10: -3323152640896965589
+      Demon_attack_NOhitbox_11: -813169402643546082
+      Demon_attack_NOhitbox_12: 2228271677052672613
+      Demon_attack_NOhitbox_13: 4276249888832108866
+      Demon_attack_NOhitbox_14: -4781772765288751568
+      Demon_attack_NOhitbox_15: -768576487640260515
+      Demon_attack_NOhitbox_16: 6491563945394462181
+      Demon_attack_NOhitbox_17: 5114550974342352459
+      Demon_attack_NOhitbox_18: -2543932023934802183
+      Demon_attack_NOhitbox_19: 3376151225886932193
+      Demon_attack_NOhitbox_2: 8318149922802576704
+      Demon_attack_NOhitbox_3: -5078380598425551227
+      Demon_attack_NOhitbox_4: 302268583705105187
+      Demon_attack_NOhitbox_5: 8787934493025886464
+      Demon_attack_NOhitbox_6: -7982400523225030251
+      Demon_attack_NOhitbox_7: 8689080082595449952
+      Demon_attack_NOhitbox_8: -8361835974907069727
+      Demon_attack_NOhitbox_9: 300712210635336616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

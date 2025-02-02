@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Paladin_die_0: 304200897759701971
+      Paladin_die_1: -256222029741267446
+      Paladin_die_2: 7301147182356530210
+      Paladin_die_3: 5617637756661487845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

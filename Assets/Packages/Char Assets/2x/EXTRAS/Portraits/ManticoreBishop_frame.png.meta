@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ManticoreBishop_frame_0: 1485199750011364431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

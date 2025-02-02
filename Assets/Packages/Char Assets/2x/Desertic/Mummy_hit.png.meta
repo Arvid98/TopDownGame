@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mummy_hit_0: -7368552596324719042
+      Mummy_hit_1: -105757035982169643
+      Mummy_hit_2: -4229482861540811995
+      Mummy_hit_3: -1438210902519634399
+      Mummy_hit_4: 4057973710610653936
+      Mummy_hit_5: -5070642209266261905
+      Mummy_hit_6: 550569105408658994
+      Mummy_hit_7: -2766995536827072164
+      Mummy_hit_8: 8878703457532148977
+      Mummy_hit_9: -8367150526902989767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

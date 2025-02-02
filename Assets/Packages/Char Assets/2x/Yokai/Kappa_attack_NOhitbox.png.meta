@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Kappa_attack_NOhitbox_0: -2255133156848864882
+      Kappa_attack_NOhitbox_1: 3001191654888805909
+      Kappa_attack_NOhitbox_10: 2974624710377638337
+      Kappa_attack_NOhitbox_11: -4635123837518510407
+      Kappa_attack_NOhitbox_12: 4303567493334634012
+      Kappa_attack_NOhitbox_13: -201703462231607323
+      Kappa_attack_NOhitbox_14: -5662451599326695028
+      Kappa_attack_NOhitbox_15: -2528352515230336965
+      Kappa_attack_NOhitbox_16: 5319614242111866285
+      Kappa_attack_NOhitbox_17: 2539531757590896758
+      Kappa_attack_NOhitbox_18: 4633561082295191308
+      Kappa_attack_NOhitbox_19: -6349259897252309829
+      Kappa_attack_NOhitbox_2: 6559625399996825549
+      Kappa_attack_NOhitbox_3: -4821734348883516657
+      Kappa_attack_NOhitbox_4: 1152064109815394550
+      Kappa_attack_NOhitbox_5: 609894813690847428
+      Kappa_attack_NOhitbox_6: 7865058083899461378
+      Kappa_attack_NOhitbox_7: -273527519087705087
+      Kappa_attack_NOhitbox_8: -2425487478651023932
+      Kappa_attack_NOhitbox_9: 4117128801221988535
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

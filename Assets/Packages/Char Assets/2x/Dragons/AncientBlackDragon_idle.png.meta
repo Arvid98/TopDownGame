@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AncientBlackDragon_idle_0: -7926587289484804038
+      AncientBlackDragon_idle_1: -1809436379925427547
+      AncientBlackDragon_idle_10: 8238596722779482828
+      AncientBlackDragon_idle_11: -1267237697762996802
+      AncientBlackDragon_idle_12: -3138581350056968223
+      AncientBlackDragon_idle_13: 3569552192654840712
+      AncientBlackDragon_idle_14: 4834460540146159435
+      AncientBlackDragon_idle_15: -3442269340483225668
+      AncientBlackDragon_idle_2: 2350298556799509824
+      AncientBlackDragon_idle_3: -3574265210873011169
+      AncientBlackDragon_idle_4: 3245398552460213250
+      AncientBlackDragon_idle_5: -7193116982737928409
+      AncientBlackDragon_idle_6: 8197228547995518508
+      AncientBlackDragon_idle_7: 1205919033646839406
+      AncientBlackDragon_idle_8: -7793964349358131580
+      AncientBlackDragon_idle_9: 7864408361785732669
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

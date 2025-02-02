@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Griffin_hit_0: -7854901654753858031
+      Griffin_hit_1: -4052948224055941549
+      Griffin_hit_2: -7619220108418751334
+      Griffin_hit_3: -6698422233454728355
+      Griffin_hit_4: -3812720031185106001
+      Griffin_hit_5: 2796397763782017322
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

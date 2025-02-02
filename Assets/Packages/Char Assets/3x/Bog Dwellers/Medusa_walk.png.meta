@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medusa_walk_0: -630663152817848926
+      Medusa_walk_1: 7228857747734504759
+      Medusa_walk_10: 6614180349219182931
+      Medusa_walk_11: -4577597529625977428
+      Medusa_walk_12: 3514478335056745160
+      Medusa_walk_13: -7828683921205522744
+      Medusa_walk_14: -8880620127909446558
+      Medusa_walk_15: -4130751124936395873
+      Medusa_walk_2: -3359740982408931109
+      Medusa_walk_3: -3389614120801079291
+      Medusa_walk_4: 4574764736578595784
+      Medusa_walk_5: -1538824153082638205
+      Medusa_walk_6: -7309184751894657609
+      Medusa_walk_7: 4886985915722670228
+      Medusa_walk_8: 4148623567935880831
+      Medusa_walk_9: 3323493589549034723
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

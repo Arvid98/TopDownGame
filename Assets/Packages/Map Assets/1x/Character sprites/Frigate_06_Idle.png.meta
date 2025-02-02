@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frigate_06_Idle_0: -7865308746954591066
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

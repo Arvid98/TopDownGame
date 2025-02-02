@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_die_0: -2134288243893853375
+      Efreet_die_1: 8966933108140394181
+      Efreet_die_2: -7718878493672641168
+      Efreet_die_3: -83767729594083824
+      Efreet_die_4: 4335863259451203818
+      Efreet_die_5: 2708984187510020782
+      Efreet_die_6: -1339717856340609176
+      Efreet_die_7: -6983204860169846621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

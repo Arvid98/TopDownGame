@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YoungGreenDragon_die_0: -992170416415025911
+      YoungGreenDragon_die_1: -3543894796191724017
+      YoungGreenDragon_die_2: 5000490695794995437
+      YoungGreenDragon_die_3: 3767871598985105104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

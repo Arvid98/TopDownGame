@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_die_0: 8804771186808286369
+      Tengu_die_1: -8464949599806532109
+      Tengu_die_2: 8619799760560397603
+      Tengu_die_3: -3990474360254990817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_big_0: 5203885041209808234
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

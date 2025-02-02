@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_attack_NOhitbox_0: 9054078299566984417
+      FrostSalamander_attack_NOhitbox_1: 495937020872788232
+      FrostSalamander_attack_NOhitbox_10: 790495238793152475
+      FrostSalamander_attack_NOhitbox_11: 4583242849727232464
+      FrostSalamander_attack_NOhitbox_12: 6006872352301055921
+      FrostSalamander_attack_NOhitbox_13: -6385087554967541244
+      FrostSalamander_attack_NOhitbox_14: 5744172889823401740
+      FrostSalamander_attack_NOhitbox_15: -6004309188627812695
+      FrostSalamander_attack_NOhitbox_16: -6243224079651653512
+      FrostSalamander_attack_NOhitbox_17: 7679339045874737771
+      FrostSalamander_attack_NOhitbox_18: 3020063766039327925
+      FrostSalamander_attack_NOhitbox_19: 8614459210847195744
+      FrostSalamander_attack_NOhitbox_2: 3080165807679233987
+      FrostSalamander_attack_NOhitbox_3: 1632429658391592188
+      FrostSalamander_attack_NOhitbox_4: -4518990993026028949
+      FrostSalamander_attack_NOhitbox_5: -3633416527665293336
+      FrostSalamander_attack_NOhitbox_6: 7140788972208002857
+      FrostSalamander_attack_NOhitbox_7: 5384495383959359690
+      FrostSalamander_attack_NOhitbox_8: 7396333291077995135
+      FrostSalamander_attack_NOhitbox_9: 3077131318857465783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

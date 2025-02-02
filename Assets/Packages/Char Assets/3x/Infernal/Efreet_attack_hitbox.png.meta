@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_attack_hitbox_0: -876748455434579122
+      Efreet_attack_hitbox_1: -8084703428260979121
+      Efreet_attack_hitbox_10: -5611408778601673140
+      Efreet_attack_hitbox_11: 444826984766805606
+      Efreet_attack_hitbox_12: 6434064137856850859
+      Efreet_attack_hitbox_13: -369590786410168656
+      Efreet_attack_hitbox_14: -4822926966372911346
+      Efreet_attack_hitbox_15: -2893388668897436439
+      Efreet_attack_hitbox_16: 5609538269049768915
+      Efreet_attack_hitbox_17: 13101746141556718
+      Efreet_attack_hitbox_18: 9161714484601248050
+      Efreet_attack_hitbox_19: -8231311653499153452
+      Efreet_attack_hitbox_2: 3570851945364332740
+      Efreet_attack_hitbox_3: -749825504763545769
+      Efreet_attack_hitbox_4: -2312589818473941908
+      Efreet_attack_hitbox_5: -8915881143032586426
+      Efreet_attack_hitbox_6: -3380412502622078746
+      Efreet_attack_hitbox_7: -3704568238691123560
+      Efreet_attack_hitbox_8: 3564103375058688235
+      Efreet_attack_hitbox_9: 3474956185210942290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

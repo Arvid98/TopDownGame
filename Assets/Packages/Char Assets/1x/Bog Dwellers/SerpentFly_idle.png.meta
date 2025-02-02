@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_idle_0: 6950060749627733294
+      SerpentFly_idle_1: -3431603501209564955
+      SerpentFly_idle_10: 7041794326858885992
+      SerpentFly_idle_11: -1810628552522078329
+      SerpentFly_idle_12: 925119952003352334
+      SerpentFly_idle_13: 887973681447715002
+      SerpentFly_idle_14: 2030765545217588644
+      SerpentFly_idle_15: 2413216925424919842
+      SerpentFly_idle_2: -3274931865989391707
+      SerpentFly_idle_3: 2390112546309539575
+      SerpentFly_idle_4: -8112356023113960318
+      SerpentFly_idle_5: -1875049412005450104
+      SerpentFly_idle_6: 9105099285227825780
+      SerpentFly_idle_7: 983171437271184252
+      SerpentFly_idle_8: -9029482364614559283
+      SerpentFly_idle_9: 8993654200837174987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

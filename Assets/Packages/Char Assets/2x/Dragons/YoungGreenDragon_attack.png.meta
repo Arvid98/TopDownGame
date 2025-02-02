@@ -1209,7 +1209,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      YoungGreenDragon_attack_0: 2234540202734799053
+      YoungGreenDragon_attack_1: 7146060435825526985
+      YoungGreenDragon_attack_10: 1714589576068532463
+      YoungGreenDragon_attack_11: -3295308013238370979
+      YoungGreenDragon_attack_12: 2386620933717319148
+      YoungGreenDragon_attack_13: -2888635153902634619
+      YoungGreenDragon_attack_14: 2550687870251048186
+      YoungGreenDragon_attack_15: 386585743194008418
+      YoungGreenDragon_attack_16: 4004375751827678562
+      YoungGreenDragon_attack_17: -5359743493374485539
+      YoungGreenDragon_attack_18: 1298703934401159655
+      YoungGreenDragon_attack_19: 5938975400875932059
+      YoungGreenDragon_attack_2: 1956164922875648496
+      YoungGreenDragon_attack_20: 7364503145943807965
+      YoungGreenDragon_attack_21: -5442444530425949840
+      YoungGreenDragon_attack_22: -4637589031428981090
+      YoungGreenDragon_attack_23: -3474778171205761456
+      YoungGreenDragon_attack_24: -9008566490222255093
+      YoungGreenDragon_attack_25: -3372650471471267607
+      YoungGreenDragon_attack_26: -9151122298258027721
+      YoungGreenDragon_attack_27: 8695109948809402164
+      YoungGreenDragon_attack_28: 2792819525717965788
+      YoungGreenDragon_attack_29: -8944057742936846773
+      YoungGreenDragon_attack_3: -5867552153231437123
+      YoungGreenDragon_attack_30: -4318946040363284174
+      YoungGreenDragon_attack_31: 2470157905929781739
+      YoungGreenDragon_attack_32: -4837715241313535600
+      YoungGreenDragon_attack_33: 9080194324404348883
+      YoungGreenDragon_attack_34: 4383892180065528725
+      YoungGreenDragon_attack_35: -3737838016384321537
+      YoungGreenDragon_attack_36: -9149249650579834002
+      YoungGreenDragon_attack_37: 265495348048591934
+      YoungGreenDragon_attack_38: 2274276886519929949
+      YoungGreenDragon_attack_39: -5332017830871530074
+      YoungGreenDragon_attack_4: -5471658021905471013
+      YoungGreenDragon_attack_40: -1927095027253942491
+      YoungGreenDragon_attack_41: -4405763013756384875
+      YoungGreenDragon_attack_42: -8068297428737455359
+      YoungGreenDragon_attack_43: 7520731257887017695
+      YoungGreenDragon_attack_5: -8043351026994745214
+      YoungGreenDragon_attack_6: -2786901442956616717
+      YoungGreenDragon_attack_7: -5816322347438821463
+      YoungGreenDragon_attack_8: 4723854898572706220
+      YoungGreenDragon_attack_9: 3038417800576476533
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

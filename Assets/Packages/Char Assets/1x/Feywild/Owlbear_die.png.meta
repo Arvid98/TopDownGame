@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlbear_die_0: 6136618303148966715
+      Owlbear_die_1: -8443531084077732230
+      Owlbear_die_2: 1944607717511955086
+      Owlbear_die_3: -894174189533636767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

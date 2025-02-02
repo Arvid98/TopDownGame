@@ -1484,7 +1484,62 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_attack_0: -2687982567351494440
+      SerpentFly_attack_1: 3141458768919172851
+      SerpentFly_attack_10: 2181316842081762857
+      SerpentFly_attack_11: -5151684120748994897
+      SerpentFly_attack_12: -7546482336627768756
+      SerpentFly_attack_13: -1354630020727030223
+      SerpentFly_attack_14: -2526406567732785431
+      SerpentFly_attack_15: 5910044634655569366
+      SerpentFly_attack_16: 5807972866280875733
+      SerpentFly_attack_17: -5751443437685342737
+      SerpentFly_attack_18: -7096722112574499044
+      SerpentFly_attack_19: -2229514596275120460
+      SerpentFly_attack_2: 6782269867036467161
+      SerpentFly_attack_20: 3170324697884929625
+      SerpentFly_attack_21: 3943177174193929556
+      SerpentFly_attack_22: -4741213939096920084
+      SerpentFly_attack_23: 3877055613251024669
+      SerpentFly_attack_24: 3246703847984834418
+      SerpentFly_attack_25: -5941994238673896004
+      SerpentFly_attack_26: -6105368655170344966
+      SerpentFly_attack_27: 6783473619443758192
+      SerpentFly_attack_28: -8843249153523877038
+      SerpentFly_attack_29: 2516892263664539170
+      SerpentFly_attack_3: -1979039112870040892
+      SerpentFly_attack_30: -2349604919056873251
+      SerpentFly_attack_31: -6309689329456048489
+      SerpentFly_attack_32: 1001255014558503854
+      SerpentFly_attack_33: -8820554959301806676
+      SerpentFly_attack_34: 4986387432419938191
+      SerpentFly_attack_35: -8826466509866448892
+      SerpentFly_attack_36: -1065935284097164777
+      SerpentFly_attack_37: 7617658283143760998
+      SerpentFly_attack_38: 7548231458225616579
+      SerpentFly_attack_39: -3393827832043995106
+      SerpentFly_attack_4: 7033931703013395520
+      SerpentFly_attack_40: -1438944293247373830
+      SerpentFly_attack_41: 2755201016324415669
+      SerpentFly_attack_42: 1551872995416630198
+      SerpentFly_attack_43: 916420908851530169
+      SerpentFly_attack_44: -6092088674147519478
+      SerpentFly_attack_45: 6291748078949713097
+      SerpentFly_attack_46: 5113182303236589967
+      SerpentFly_attack_47: 3887337925970860093
+      SerpentFly_attack_48: -3922928282595596033
+      SerpentFly_attack_49: -2832324530178003372
+      SerpentFly_attack_5: 2930230065365001685
+      SerpentFly_attack_50: 557433604229991158
+      SerpentFly_attack_51: 2120133152250502954
+      SerpentFly_attack_52: 5647011400606305501
+      SerpentFly_attack_53: -8794703764643065921
+      SerpentFly_attack_54: 1531517716743479106
+      SerpentFly_attack_6: 7804686944965689129
+      SerpentFly_attack_7: -292989311396630407
+      SerpentFly_attack_8: 4545324550467662142
+      SerpentFly_attack_9: 2185446177593444622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

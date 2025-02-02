@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SerpentFly_die_0: 6842324840921375422
+      SerpentFly_die_1: -5294021398766223674
+      SerpentFly_die_2: -3810670482942501682
+      SerpentFly_die_3: -2053858370976324573
+      SerpentFly_die_4: 654493975102246817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

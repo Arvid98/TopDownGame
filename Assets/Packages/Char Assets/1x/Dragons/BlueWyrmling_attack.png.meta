@@ -934,7 +934,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BlueWyrmling_attack_0: 552563201066399668
+      BlueWyrmling_attack_1: -4995151195291408172
+      BlueWyrmling_attack_10: -3112450831723867886
+      BlueWyrmling_attack_11: 5693713609722269373
+      BlueWyrmling_attack_12: 3714620696595699086
+      BlueWyrmling_attack_13: 458803929913718962
+      BlueWyrmling_attack_14: -147454505096034250
+      BlueWyrmling_attack_15: 4659194188070957043
+      BlueWyrmling_attack_16: -3938775792915344302
+      BlueWyrmling_attack_17: 4180880174375482271
+      BlueWyrmling_attack_18: 4853222529387827156
+      BlueWyrmling_attack_19: -6031684500587664295
+      BlueWyrmling_attack_2: -3190593046489292670
+      BlueWyrmling_attack_20: 4080585623319309194
+      BlueWyrmling_attack_21: -4763674455074675730
+      BlueWyrmling_attack_22: 910024259179575667
+      BlueWyrmling_attack_23: 4174135336868984121
+      BlueWyrmling_attack_24: -6955381381910865574
+      BlueWyrmling_attack_25: -2381506951301174856
+      BlueWyrmling_attack_26: 8398203647007126903
+      BlueWyrmling_attack_27: -2704125950068869358
+      BlueWyrmling_attack_28: 2228686355950707079
+      BlueWyrmling_attack_29: -1179908579485368695
+      BlueWyrmling_attack_3: -2906470498428293643
+      BlueWyrmling_attack_30: 4634352829112328411
+      BlueWyrmling_attack_31: -4124797273915153834
+      BlueWyrmling_attack_32: -3238644057437308083
+      BlueWyrmling_attack_4: -7174552877028920685
+      BlueWyrmling_attack_5: -8976141564886095679
+      BlueWyrmling_attack_6: -2798549807199283013
+      BlueWyrmling_attack_7: 2316440542388926103
+      BlueWyrmling_attack_8: 3944459854345196048
+      BlueWyrmling_attack_9: -3303902184107814237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

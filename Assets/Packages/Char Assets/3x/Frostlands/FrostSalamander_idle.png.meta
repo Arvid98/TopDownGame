@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_idle_0: 6831336197140332704
+      FrostSalamander_idle_1: 7291637866093482110
+      FrostSalamander_idle_2: 2368140811081950607
+      FrostSalamander_idle_3: 6315854596186674396
+      FrostSalamander_idle_4: -2710673412524119787
+      FrostSalamander_idle_5: 4950781961817484707
+      FrostSalamander_idle_6: -7299739331501678285
+      FrostSalamander_idle_7: -164777869398831600
+      FrostSalamander_idle_8: 8013119784554775174
+      FrostSalamander_idle_9: -7195831644435922767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

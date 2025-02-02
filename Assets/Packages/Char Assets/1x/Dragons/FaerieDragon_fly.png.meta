@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_fly_0: 6731346382697901967
+      FaerieDragon_fly_1: -5855583114178423628
+      FaerieDragon_fly_10: -1876509033810581442
+      FaerieDragon_fly_11: -6318295608827618247
+      FaerieDragon_fly_12: -2697274781263218275
+      FaerieDragon_fly_13: 6083657792284782454
+      FaerieDragon_fly_14: -5588761716135064906
+      FaerieDragon_fly_15: -6732042749322410226
+      FaerieDragon_fly_2: -6394629560385229341
+      FaerieDragon_fly_3: -2706413599751932486
+      FaerieDragon_fly_4: -5806648990723790085
+      FaerieDragon_fly_5: -2359000972238135292
+      FaerieDragon_fly_6: -8096804365264271
+      FaerieDragon_fly_7: -6068578741433652296
+      FaerieDragon_fly_8: -8197515919362805228
+      FaerieDragon_fly_9: -7654781696471503130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

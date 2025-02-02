@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_attack_NOhitbox_0: 7325515177535771779
+      FaerieDragon_attack_NOhitbox_1: 6865996315604742599
+      FaerieDragon_attack_NOhitbox_10: -2855920002963742385
+      FaerieDragon_attack_NOhitbox_11: 7980912594757534337
+      FaerieDragon_attack_NOhitbox_12: 2275076497246458856
+      FaerieDragon_attack_NOhitbox_13: -6999281282987738837
+      FaerieDragon_attack_NOhitbox_14: 6788230707782609420
+      FaerieDragon_attack_NOhitbox_15: 6820277543554120321
+      FaerieDragon_attack_NOhitbox_16: 3069165255876677025
+      FaerieDragon_attack_NOhitbox_17: -4255254150151924305
+      FaerieDragon_attack_NOhitbox_18: 2895502762913165429
+      FaerieDragon_attack_NOhitbox_19: 3407757149733981729
+      FaerieDragon_attack_NOhitbox_2: 7677522311826832417
+      FaerieDragon_attack_NOhitbox_3: -1627981810970716641
+      FaerieDragon_attack_NOhitbox_4: 7781380519819676517
+      FaerieDragon_attack_NOhitbox_5: 7792645727365778126
+      FaerieDragon_attack_NOhitbox_6: 7597163903783918975
+      FaerieDragon_attack_NOhitbox_7: 786593108653169059
+      FaerieDragon_attack_NOhitbox_8: 8288796520136649412
+      FaerieDragon_attack_NOhitbox_9: 2551517987683883247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

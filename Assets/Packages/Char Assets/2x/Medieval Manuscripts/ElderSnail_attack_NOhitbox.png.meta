@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElderSnail_attack_NOhitbox_0: 3571421357661453811
+      ElderSnail_attack_NOhitbox_1: -2705948661409666638
+      ElderSnail_attack_NOhitbox_10: -412907872510182004
+      ElderSnail_attack_NOhitbox_11: 7291871896086992682
+      ElderSnail_attack_NOhitbox_12: -6537430235528047655
+      ElderSnail_attack_NOhitbox_13: 3445075960910258874
+      ElderSnail_attack_NOhitbox_14: 1351458692473001352
+      ElderSnail_attack_NOhitbox_15: -8868363047293795011
+      ElderSnail_attack_NOhitbox_16: 958997605260987692
+      ElderSnail_attack_NOhitbox_17: -7703339547859184284
+      ElderSnail_attack_NOhitbox_18: 1470445807676152664
+      ElderSnail_attack_NOhitbox_19: -6562845891091886073
+      ElderSnail_attack_NOhitbox_2: -2748969799073793481
+      ElderSnail_attack_NOhitbox_3: -1133755136487720339
+      ElderSnail_attack_NOhitbox_4: 3651732076158433753
+      ElderSnail_attack_NOhitbox_5: -897214666241325828
+      ElderSnail_attack_NOhitbox_6: 5777491330297667316
+      ElderSnail_attack_NOhitbox_7: 4870192638804648885
+      ElderSnail_attack_NOhitbox_8: -7244082116889793630
+      ElderSnail_attack_NOhitbox_9: 4853157016058194029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

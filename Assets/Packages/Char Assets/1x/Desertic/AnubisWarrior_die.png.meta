@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AnubisWarrior_die_0: 1217719930758146224
+      AnubisWarrior_die_1: -2746674729258725149
+      AnubisWarrior_die_2: 8765943859417517160
+      AnubisWarrior_die_3: 9128470184268624370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

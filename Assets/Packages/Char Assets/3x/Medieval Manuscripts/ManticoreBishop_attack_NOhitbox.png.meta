@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ManticoreBishop_attack_NOhitbox_0: -5021568865537309755
+      ManticoreBishop_attack_NOhitbox_1: -1866605373542139976
+      ManticoreBishop_attack_NOhitbox_10: 3736871188616837963
+      ManticoreBishop_attack_NOhitbox_11: -8229762262095726807
+      ManticoreBishop_attack_NOhitbox_12: 5347628853965965221
+      ManticoreBishop_attack_NOhitbox_13: 6158296667169107647
+      ManticoreBishop_attack_NOhitbox_14: 8157959587911971741
+      ManticoreBishop_attack_NOhitbox_15: 2150554348493798995
+      ManticoreBishop_attack_NOhitbox_16: -1773022790112253150
+      ManticoreBishop_attack_NOhitbox_17: 7125127851493101931
+      ManticoreBishop_attack_NOhitbox_18: -7264964981212184599
+      ManticoreBishop_attack_NOhitbox_19: -957775231286824402
+      ManticoreBishop_attack_NOhitbox_2: -4496079930304218783
+      ManticoreBishop_attack_NOhitbox_3: 966081138311078970
+      ManticoreBishop_attack_NOhitbox_4: 3420650402929198187
+      ManticoreBishop_attack_NOhitbox_5: 2998342502325064423
+      ManticoreBishop_attack_NOhitbox_6: -7684593831693326907
+      ManticoreBishop_attack_NOhitbox_7: 8948999053182912577
+      ManticoreBishop_attack_NOhitbox_8: -9037100928495884395
+      ManticoreBishop_attack_NOhitbox_9: 5820425283888335931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

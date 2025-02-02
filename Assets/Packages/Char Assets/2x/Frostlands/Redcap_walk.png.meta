@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redcap_walk_0: -3613337184345725369
+      Redcap_walk_1: -7043821874605766890
+      Redcap_walk_10: -6668645084267566111
+      Redcap_walk_11: -4538910106337850319
+      Redcap_walk_12: -7245640080569385617
+      Redcap_walk_13: 2185250042150795056
+      Redcap_walk_14: 2512812378416808715
+      Redcap_walk_15: -3894497784677087053
+      Redcap_walk_2: -8181760983854163897
+      Redcap_walk_3: -5409550693815932835
+      Redcap_walk_4: -7597129353301385645
+      Redcap_walk_5: -3948798798538121249
+      Redcap_walk_6: -1031570917267352521
+      Redcap_walk_7: -2756184005668804994
+      Redcap_walk_8: -3343640203054949336
+      Redcap_walk_9: -4215070534741465067
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

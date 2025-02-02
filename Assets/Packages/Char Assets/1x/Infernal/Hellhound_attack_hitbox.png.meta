@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_attack_hitbox_0: -4568050088726632857
+      Hellhound_attack_hitbox_1: -834765063301146396
+      Hellhound_attack_hitbox_10: -9003309283638645310
+      Hellhound_attack_hitbox_11: -8593477612140333433
+      Hellhound_attack_hitbox_12: 2346620148085967165
+      Hellhound_attack_hitbox_13: -896622400644577434
+      Hellhound_attack_hitbox_14: 3620064529799277466
+      Hellhound_attack_hitbox_15: -3823775860856532358
+      Hellhound_attack_hitbox_2: 2725380576689240659
+      Hellhound_attack_hitbox_3: 5197544847547336739
+      Hellhound_attack_hitbox_4: -2673169744503081447
+      Hellhound_attack_hitbox_5: -2624219413868597698
+      Hellhound_attack_hitbox_6: 7643540559481433586
+      Hellhound_attack_hitbox_7: 5843212613320439096
+      Hellhound_attack_hitbox_8: 7243277053014314731
+      Hellhound_attack_hitbox_9: 460753594922193442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

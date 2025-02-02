@@ -1359,7 +1359,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ElderSnail_attack_0: 5568470667941791352
+      ElderSnail_attack_1: -4562792109048437355
+      ElderSnail_attack_10: -4652527085491354428
+      ElderSnail_attack_11: -6093014732100714897
+      ElderSnail_attack_12: 6193365674991452437
+      ElderSnail_attack_13: 2315742922678367425
+      ElderSnail_attack_14: -7901898117069189264
+      ElderSnail_attack_15: 4014855068652932896
+      ElderSnail_attack_16: 2389616262899821904
+      ElderSnail_attack_17: -8540332342572407317
+      ElderSnail_attack_18: 1489665423414811279
+      ElderSnail_attack_19: 7860557601720999906
+      ElderSnail_attack_2: -6707776329421328184
+      ElderSnail_attack_20: 4488004818410163572
+      ElderSnail_attack_21: 1743092183017670802
+      ElderSnail_attack_22: 6262829012221949307
+      ElderSnail_attack_23: 7225554057897345817
+      ElderSnail_attack_24: 4498818045721878065
+      ElderSnail_attack_25: -2272412262067486874
+      ElderSnail_attack_26: -7059528224094667581
+      ElderSnail_attack_27: -2929448528313285437
+      ElderSnail_attack_28: 3751245273823780824
+      ElderSnail_attack_29: -4536594416699158606
+      ElderSnail_attack_3: 64954060172408950
+      ElderSnail_attack_30: -2210490773767227552
+      ElderSnail_attack_31: 7530716488110266421
+      ElderSnail_attack_32: -8612416390174302384
+      ElderSnail_attack_33: 8640292712103670299
+      ElderSnail_attack_34: -993522448361808462
+      ElderSnail_attack_35: 6518656057612875505
+      ElderSnail_attack_36: -8255297962528532852
+      ElderSnail_attack_37: -5184854744622676109
+      ElderSnail_attack_38: 5917983206060673127
+      ElderSnail_attack_39: -3465110322494131472
+      ElderSnail_attack_4: -3094738068519745236
+      ElderSnail_attack_40: -1661486463271269546
+      ElderSnail_attack_41: 4618007282410070547
+      ElderSnail_attack_42: 2158643946689739333
+      ElderSnail_attack_43: 1592269183727369974
+      ElderSnail_attack_44: -8091445731744999124
+      ElderSnail_attack_45: 952757150640350738
+      ElderSnail_attack_46: -6328662567185300871
+      ElderSnail_attack_47: -2175780677241639529
+      ElderSnail_attack_48: -4941886199907514185
+      ElderSnail_attack_49: 7428638917392926772
+      ElderSnail_attack_5: 3349553354201474189
+      ElderSnail_attack_6: 8297042176031112815
+      ElderSnail_attack_7: -531546411357244821
+      ElderSnail_attack_8: -5556508144866196868
+      ElderSnail_attack_9: 7136638719850200488
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

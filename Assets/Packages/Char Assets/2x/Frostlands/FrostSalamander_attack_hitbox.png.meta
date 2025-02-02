@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_attack_hitbox_0: 263304335306080703
+      FrostSalamander_attack_hitbox_1: -646913714465322320
+      FrostSalamander_attack_hitbox_10: 6620148482358118263
+      FrostSalamander_attack_hitbox_11: 1964945814794160412
+      FrostSalamander_attack_hitbox_12: -4065575026943033275
+      FrostSalamander_attack_hitbox_13: -8918115309070908874
+      FrostSalamander_attack_hitbox_14: 6132572374865086504
+      FrostSalamander_attack_hitbox_15: -1116568251757202464
+      FrostSalamander_attack_hitbox_16: 1783672920242754859
+      FrostSalamander_attack_hitbox_17: 1677267136752770511
+      FrostSalamander_attack_hitbox_18: 6213016663218528186
+      FrostSalamander_attack_hitbox_19: -5595548327637505886
+      FrostSalamander_attack_hitbox_2: 3935723815158499698
+      FrostSalamander_attack_hitbox_20: -8852109283989510623
+      FrostSalamander_attack_hitbox_21: 4162949563273582492
+      FrostSalamander_attack_hitbox_22: 7216245809827792062
+      FrostSalamander_attack_hitbox_23: -853721493855671592
+      FrostSalamander_attack_hitbox_24: 7925538171831011795
+      FrostSalamander_attack_hitbox_25: 8343818052445053510
+      FrostSalamander_attack_hitbox_26: -6812675629291454820
+      FrostSalamander_attack_hitbox_27: 4617912109742457939
+      FrostSalamander_attack_hitbox_28: 4640591059758312046
+      FrostSalamander_attack_hitbox_29: 4083557650667019414
+      FrostSalamander_attack_hitbox_3: 6134212413274504236
+      FrostSalamander_attack_hitbox_30: -4036723392061303704
+      FrostSalamander_attack_hitbox_31: 2145926424230050373
+      FrostSalamander_attack_hitbox_32: -6404596012892877590
+      FrostSalamander_attack_hitbox_33: -3436837997044336885
+      FrostSalamander_attack_hitbox_34: 8392371652515122925
+      FrostSalamander_attack_hitbox_35: -1656712012595369218
+      FrostSalamander_attack_hitbox_4: -106889951916912486
+      FrostSalamander_attack_hitbox_5: -5017029744783906453
+      FrostSalamander_attack_hitbox_6: -420893165482872221
+      FrostSalamander_attack_hitbox_7: -7736693930527484695
+      FrostSalamander_attack_hitbox_8: -8427239027985656276
+      FrostSalamander_attack_hitbox_9: 5804655774933673124
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ogre_walk_0: -5387299670640118676
+      Ogre_walk_1: -6693576669864110227
+      Ogre_walk_10: 1307625085519050251
+      Ogre_walk_11: -3996418325838606550
+      Ogre_walk_12: -6576465946214840163
+      Ogre_walk_13: -2803458127590461625
+      Ogre_walk_14: 8926976984424195400
+      Ogre_walk_15: -249941616302657241
+      Ogre_walk_2: 4962872617001734790
+      Ogre_walk_3: -8730496096783890301
+      Ogre_walk_4: -1702027586545696893
+      Ogre_walk_5: -5069907313005759537
+      Ogre_walk_6: -5809831400431362232
+      Ogre_walk_7: -560435734866872900
+      Ogre_walk_8: 5496898993744988526
+      Ogre_walk_9: 9078165425327597477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

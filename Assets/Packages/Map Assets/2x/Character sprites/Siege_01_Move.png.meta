@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Siege_01_Move_0: -3331608275086686994
+      Siege_01_Move_1: -8039225220021150928
+      Siege_01_Move_10: -8769354098142322748
+      Siege_01_Move_11: -2054920993316676890
+      Siege_01_Move_2: 728204427835205106
+      Siege_01_Move_3: -7940408500129853554
+      Siege_01_Move_4: -6114044086391193914
+      Siege_01_Move_5: 9054623258919577278
+      Siege_01_Move_6: -5539142289291225815
+      Siege_01_Move_7: -132226430891893466
+      Siege_01_Move_8: -6596061857139462885
+      Siege_01_Move_9: 4353590077519298339
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

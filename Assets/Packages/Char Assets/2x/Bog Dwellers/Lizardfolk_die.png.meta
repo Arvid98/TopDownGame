@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lizardfolk_die_0: 8099940173019421747
+      Lizardfolk_die_1: 4563632230382174741
+      Lizardfolk_die_2: 7255538949130393924
+      Lizardfolk_die_3: 5364292688250864402
+      Lizardfolk_die_4: -8091497123992033964
+      Lizardfolk_die_5: -6796313212142910046
+      Lizardfolk_die_6: -3882797494191250934
+      Lizardfolk_die_7: 561008937502035309
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

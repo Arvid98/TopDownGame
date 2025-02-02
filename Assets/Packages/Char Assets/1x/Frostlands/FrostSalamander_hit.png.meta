@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_hit_0: 7902830067663119628
+      FrostSalamander_hit_1: -5341628952601539767
+      FrostSalamander_hit_2: -1689029097089559440
+      FrostSalamander_hit_3: 6648767620432922003
+      FrostSalamander_hit_4: 1914414443254394613
+      FrostSalamander_hit_5: -6682100205843450641
+      FrostSalamander_hit_6: 4224677234069747679
+      FrostSalamander_hit_7: -13774946992992865
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

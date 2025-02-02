@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeathKnight_hit_0: -1544556641182900829
+      DeathKnight_hit_1: -12065284485572505
+      DeathKnight_hit_2: 4337627348104475847
+      DeathKnight_hit_3: -6196757899405008383
+      DeathKnight_hit_4: 3582502887477837406
+      DeathKnight_hit_5: -6469366847676972454
+      DeathKnight_hit_6: 5273003174140399102
+      DeathKnight_hit_7: 8161745765085996230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

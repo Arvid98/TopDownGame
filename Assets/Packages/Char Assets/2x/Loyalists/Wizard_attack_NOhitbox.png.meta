@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wizard_attack_NOhitbox_0: -3783117984434282199
+      Wizard_attack_NOhitbox_1: -634823863176094814
+      Wizard_attack_NOhitbox_10: 9137658305862957381
+      Wizard_attack_NOhitbox_11: -7713187409425539586
+      Wizard_attack_NOhitbox_12: -8534395980041080751
+      Wizard_attack_NOhitbox_13: 8488982413096988419
+      Wizard_attack_NOhitbox_14: -8876757291000149293
+      Wizard_attack_NOhitbox_15: -7986543186634621559
+      Wizard_attack_NOhitbox_16: 3230278299840969639
+      Wizard_attack_NOhitbox_17: 6122205135819328456
+      Wizard_attack_NOhitbox_18: 6415728424725866450
+      Wizard_attack_NOhitbox_19: -5827140403141569531
+      Wizard_attack_NOhitbox_2: 4565915280459398054
+      Wizard_attack_NOhitbox_3: -7315329695694130271
+      Wizard_attack_NOhitbox_4: -2650117753462901955
+      Wizard_attack_NOhitbox_5: -1578251991134285458
+      Wizard_attack_NOhitbox_6: -7473725230112543960
+      Wizard_attack_NOhitbox_7: 5756743885693774098
+      Wizard_attack_NOhitbox_8: 1017418628628543777
+      Wizard_attack_NOhitbox_9: -249078509457378739
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

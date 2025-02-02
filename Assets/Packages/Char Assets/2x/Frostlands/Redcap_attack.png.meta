@@ -1109,7 +1109,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redcap_attack_0: 4704472439646829892
+      Redcap_attack_1: 1410690681975092118
+      Redcap_attack_10: -6679232475347280955
+      Redcap_attack_11: 1561480516222901520
+      Redcap_attack_12: -3398203341780399552
+      Redcap_attack_13: -5979955268784078391
+      Redcap_attack_14: 5354503557688368178
+      Redcap_attack_15: -7903155276147815295
+      Redcap_attack_16: -3009837374273441619
+      Redcap_attack_17: 6541415230631504347
+      Redcap_attack_18: 4411790878406384230
+      Redcap_attack_19: -1909986638359460699
+      Redcap_attack_2: 9146557080611846643
+      Redcap_attack_20: -1767267345772414551
+      Redcap_attack_21: -8936399672632894135
+      Redcap_attack_22: 1292975167524709457
+      Redcap_attack_23: 7658229883155947952
+      Redcap_attack_24: 7975766927274061080
+      Redcap_attack_25: 859849209387222271
+      Redcap_attack_26: 7227365193204738839
+      Redcap_attack_27: -1962598335766968504
+      Redcap_attack_28: 5482305263959944530
+      Redcap_attack_29: 6121718911791032172
+      Redcap_attack_3: 2644025630278262976
+      Redcap_attack_30: 6912469915165125712
+      Redcap_attack_31: -2415005862236514590
+      Redcap_attack_32: -2300735946788331470
+      Redcap_attack_33: -1624082687543381875
+      Redcap_attack_34: 5022437924441580788
+      Redcap_attack_35: 4023627297687625424
+      Redcap_attack_36: 165445334272907003
+      Redcap_attack_37: -8362866726130504992
+      Redcap_attack_38: 570405461113370964
+      Redcap_attack_39: -5932780997964444053
+      Redcap_attack_4: 6366456164843648923
+      Redcap_attack_5: 7616287954213241416
+      Redcap_attack_6: 4787013802819611306
+      Redcap_attack_7: 952647082824839987
+      Redcap_attack_8: -2222731652261160708
+      Redcap_attack_9: -3169714789310683940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

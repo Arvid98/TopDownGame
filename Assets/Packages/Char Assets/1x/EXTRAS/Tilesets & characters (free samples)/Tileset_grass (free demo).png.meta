@@ -634,7 +634,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_grass (free demo)_0: -1308178954919511609
+      Tileset_grass (free demo)_1: -6842900711955524563
+      Tileset_grass (free demo)_10: -612573302585606647
+      Tileset_grass (free demo)_11: -7955984170271151355
+      Tileset_grass (free demo)_12: 3245802759677687063
+      Tileset_grass (free demo)_13: 8965668213017569177
+      Tileset_grass (free demo)_14: 2162242479932125771
+      Tileset_grass (free demo)_15: -7523054586778877283
+      Tileset_grass (free demo)_16: 1594866621535170819
+      Tileset_grass (free demo)_17: 5513262164553147912
+      Tileset_grass (free demo)_18: -2321070852619165607
+      Tileset_grass (free demo)_19: 7305071477139712803
+      Tileset_grass (free demo)_2: 6217750805187978717
+      Tileset_grass (free demo)_20: 5782263920672296526
+      Tileset_grass (free demo)_3: 8435948267727997234
+      Tileset_grass (free demo)_4: 5506178133737304074
+      Tileset_grass (free demo)_5: -880769868523530048
+      Tileset_grass (free demo)_6: 3525529065828444179
+      Tileset_grass (free demo)_7: -1921601503515253352
+      Tileset_grass (free demo)_8: -5517044618917560742
+      Tileset_grass (free demo)_9: -76599083645122355
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

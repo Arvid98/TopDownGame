@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vanguard_05_Move_0: -7273712074455243955
+      Vanguard_05_Move_1: 1533736377492125896
+      Vanguard_05_Move_10: -6008468991019168099
+      Vanguard_05_Move_11: 3490491497402411801
+      Vanguard_05_Move_12: -1535021165136209098
+      Vanguard_05_Move_13: 2351399183725251423
+      Vanguard_05_Move_14: 7672939207250640966
+      Vanguard_05_Move_2: 3986700154570592960
+      Vanguard_05_Move_3: -5523376977661692580
+      Vanguard_05_Move_4: 803803509769597919
+      Vanguard_05_Move_5: -4335115703735784596
+      Vanguard_05_Move_6: 6075093063527981990
+      Vanguard_05_Move_7: -2046624021222552475
+      Vanguard_05_Move_8: 4126088695098702034
+      Vanguard_05_Move_9: -8676695339775805462
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

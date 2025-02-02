@@ -984,7 +984,42 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlbear_attack_0: 2763124715490980677
+      Owlbear_attack_1: -1051093848784714675
+      Owlbear_attack_10: 8999265391640202605
+      Owlbear_attack_11: 4897080640514775260
+      Owlbear_attack_12: 7059268657517854920
+      Owlbear_attack_13: 4564179457742645128
+      Owlbear_attack_14: 7877347546287211741
+      Owlbear_attack_15: -3935582070764530747
+      Owlbear_attack_16: 1200022907076165399
+      Owlbear_attack_17: -8950926974500822121
+      Owlbear_attack_18: -1034342398644587861
+      Owlbear_attack_19: 8705284509866676358
+      Owlbear_attack_2: -1291199705037485141
+      Owlbear_attack_20: 7249890300706433902
+      Owlbear_attack_21: -8154829304511425863
+      Owlbear_attack_22: -4588920331310595847
+      Owlbear_attack_23: -8194116766440075841
+      Owlbear_attack_24: -3251723765889032531
+      Owlbear_attack_25: 3558757205690011402
+      Owlbear_attack_26: 872276774146402213
+      Owlbear_attack_27: -7087988805561542322
+      Owlbear_attack_28: 2663177036163063372
+      Owlbear_attack_29: -4710492775707786355
+      Owlbear_attack_3: 6459467732869790945
+      Owlbear_attack_30: 2866171080134938995
+      Owlbear_attack_31: 4154254172363815489
+      Owlbear_attack_32: -6685719942484930364
+      Owlbear_attack_33: -639517346039387479
+      Owlbear_attack_34: 4360468867725191292
+      Owlbear_attack_4: 5313997059551064322
+      Owlbear_attack_5: -856258864572747271
+      Owlbear_attack_6: -2352728336973318285
+      Owlbear_attack_7: -6655955109105865088
+      Owlbear_attack_8: -6119133028079965706
+      Owlbear_attack_9: -5513593765180303660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_attack_0: 186421946325152549
+      FrostSalamander_attack_1: 2093024125597093386
+      FrostSalamander_attack_10: -1053578991582287558
+      FrostSalamander_attack_11: 3842310995300902236
+      FrostSalamander_attack_12: 620372664454895707
+      FrostSalamander_attack_13: 5373630613382466999
+      FrostSalamander_attack_14: 699908847221371030
+      FrostSalamander_attack_15: 6743296351062346987
+      FrostSalamander_attack_16: 8488484371287604234
+      FrostSalamander_attack_17: 8598695614327188372
+      FrostSalamander_attack_18: -139838731316121881
+      FrostSalamander_attack_19: 3052834111796636369
+      FrostSalamander_attack_2: 975767727373146549
+      FrostSalamander_attack_20: -891467311276572384
+      FrostSalamander_attack_21: 4910640864656081587
+      FrostSalamander_attack_22: 5488287343917624959
+      FrostSalamander_attack_23: 7295176999367144349
+      FrostSalamander_attack_24: -3765344448699345984
+      FrostSalamander_attack_25: -8853533541746808185
+      FrostSalamander_attack_26: 1669617684410918080
+      FrostSalamander_attack_27: 6047527996714194580
+      FrostSalamander_attack_28: -4924210940187628495
+      FrostSalamander_attack_29: -8580714154537490824
+      FrostSalamander_attack_3: 2778247318120633227
+      FrostSalamander_attack_30: 5736147196754967900
+      FrostSalamander_attack_31: -2324144956185376829
+      FrostSalamander_attack_32: -481614753730923082
+      FrostSalamander_attack_33: -5658855270569831181
+      FrostSalamander_attack_34: 3299315926195810456
+      FrostSalamander_attack_35: -8363981462516032072
+      FrostSalamander_attack_4: -6524615978040157106
+      FrostSalamander_attack_5: 138308658588609226
+      FrostSalamander_attack_6: -3938496157088883513
+      FrostSalamander_attack_7: -6856687388783037106
+      FrostSalamander_attack_8: 4175027862846584747
+      FrostSalamander_attack_9: 3379547858707820874
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

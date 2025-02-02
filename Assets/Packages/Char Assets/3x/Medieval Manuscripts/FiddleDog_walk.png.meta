@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FiddleDog_walk_0: -5713721356604319146
+      FiddleDog_walk_1: 3596356414802212586
+      FiddleDog_walk_2: -3864011553838474657
+      FiddleDog_walk_3: 8643071534092461517
+      FiddleDog_walk_4: -3566902457575949337
+      FiddleDog_walk_5: -2322594726202085158
+      FiddleDog_walk_6: -5097028054476603506
+      FiddleDog_walk_7: 2047122006055125457
+      FiddleDog_walk_8: 2036425797092716068
+      FiddleDog_walk_9: -1623318716979466787
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

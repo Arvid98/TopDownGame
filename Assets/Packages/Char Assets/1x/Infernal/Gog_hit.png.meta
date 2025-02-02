@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gog_hit_0: -6496816559561172793
+      Gog_hit_1: -8848241473871442802
+      Gog_hit_2: 852215721936382727
+      Gog_hit_3: -1697660427384024952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

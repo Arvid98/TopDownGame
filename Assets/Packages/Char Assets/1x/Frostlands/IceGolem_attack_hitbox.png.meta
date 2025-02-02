@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceGolem_attack_hitbox_0: -4245384302483082413
+      IceGolem_attack_hitbox_1: 6293118420388759770
+      IceGolem_attack_hitbox_10: 7453122685231784329
+      IceGolem_attack_hitbox_11: 3319221893138987192
+      IceGolem_attack_hitbox_12: 7951476998888402829
+      IceGolem_attack_hitbox_13: 1812076855571696513
+      IceGolem_attack_hitbox_14: 9046481387142509932
+      IceGolem_attack_hitbox_15: -4945213793004593463
+      IceGolem_attack_hitbox_16: 4270693114258064610
+      IceGolem_attack_hitbox_17: -6737959851016031021
+      IceGolem_attack_hitbox_18: -3006345505691223930
+      IceGolem_attack_hitbox_19: 2626910025946373961
+      IceGolem_attack_hitbox_2: -817230206571019580
+      IceGolem_attack_hitbox_3: -7255697080702083396
+      IceGolem_attack_hitbox_4: 7460579954208380397
+      IceGolem_attack_hitbox_5: 4964310836396102330
+      IceGolem_attack_hitbox_6: -460640367054733709
+      IceGolem_attack_hitbox_7: 4444736507510452407
+      IceGolem_attack_hitbox_8: -3439982336448957204
+      IceGolem_attack_hitbox_9: -6831038627013421335
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

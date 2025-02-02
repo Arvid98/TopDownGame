@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planetar_hit_0: 1280817762900730901
+      Planetar_hit_1: -6815676741606914482
+      Planetar_hit_2: 3728010274954792036
+      Planetar_hit_3: -8166604968473498780
+      Planetar_hit_4: 6993374444011036731
+      Planetar_hit_5: 8068800395142963972
+      Planetar_hit_6: 5963347310000350186
+      Planetar_hit_7: -8608954405196695104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

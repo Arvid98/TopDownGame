@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Acolyte_05_Idle_0: -3050702870277809060
+      Acolyte_05_Idle_1: -4460216017710499163
+      Acolyte_05_Idle_10: -950292622136751207
+      Acolyte_05_Idle_11: 3912150387489673724
+      Acolyte_05_Idle_12: 636189338740339861
+      Acolyte_05_Idle_13: 8075235296478321647
+      Acolyte_05_Idle_14: 6734970978405046072
+      Acolyte_05_Idle_15: -5371184260671914574
+      Acolyte_05_Idle_2: -3938939782198378892
+      Acolyte_05_Idle_3: 1074742692358958622
+      Acolyte_05_Idle_4: 6805264825141173885
+      Acolyte_05_Idle_5: 5901382737380173970
+      Acolyte_05_Idle_6: -6355799330811380265
+      Acolyte_05_Idle_7: -381855238491744727
+      Acolyte_05_Idle_8: 2895759498889811406
+      Acolyte_05_Idle_9: 2560351784634941097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

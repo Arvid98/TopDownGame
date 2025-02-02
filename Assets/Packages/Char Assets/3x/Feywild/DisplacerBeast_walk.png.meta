@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisplacerBeast_walk_0: -5191446334665027991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

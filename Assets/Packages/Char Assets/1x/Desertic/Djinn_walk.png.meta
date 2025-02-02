@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_walk_0: -7244823523540389902
+      Djinn_walk_1: -5583825292567357707
+      Djinn_walk_10: 3051330402664698532
+      Djinn_walk_11: 3492549044409682772
+      Djinn_walk_12: -8609924886432364806
+      Djinn_walk_13: -49903694787452155
+      Djinn_walk_14: 1609754750242752526
+      Djinn_walk_15: -7446200414227403455
+      Djinn_walk_2: 6700189389652594411
+      Djinn_walk_3: -9156547233085470422
+      Djinn_walk_4: 3832070200572750601
+      Djinn_walk_5: 6402871806192903445
+      Djinn_walk_6: 1954446807259281563
+      Djinn_walk_7: -3135447759865829296
+      Djinn_walk_8: 4635477753425337984
+      Djinn_walk_9: 8268692695955843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cyclops_die_0: 4256369506118441232
+      Cyclops_die_1: 5718376449760382967
+      Cyclops_die_2: 7077658428950719278
+      Cyclops_die_3: 9051055434967568291
+      Cyclops_die_4: 4188321326886057435
+      Cyclops_die_5: -5972758799964148135
+      Cyclops_die_6: -1117967812211233321
+      Cyclops_die_7: 7416708502845875976
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

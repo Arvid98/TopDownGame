@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medusa_attack_NOhitbox_0: -8379593603810378232
+      Medusa_attack_NOhitbox_1: -2263667826372122633
+      Medusa_attack_NOhitbox_10: -8577899151936228310
+      Medusa_attack_NOhitbox_11: -170462691515820559
+      Medusa_attack_NOhitbox_12: 8947826317170980566
+      Medusa_attack_NOhitbox_13: 7703640630259214974
+      Medusa_attack_NOhitbox_14: -8525440166322048333
+      Medusa_attack_NOhitbox_15: -4295737660476809937
+      Medusa_attack_NOhitbox_16: -4584582663411487342
+      Medusa_attack_NOhitbox_17: 6062149502041708411
+      Medusa_attack_NOhitbox_18: -539838198680545828
+      Medusa_attack_NOhitbox_19: 1234442794438691406
+      Medusa_attack_NOhitbox_2: 8769087040590101455
+      Medusa_attack_NOhitbox_3: -7011555539735422119
+      Medusa_attack_NOhitbox_4: 7039513747593347223
+      Medusa_attack_NOhitbox_5: -6904292912602275617
+      Medusa_attack_NOhitbox_6: 8054695442015493909
+      Medusa_attack_NOhitbox_7: -2990157507787416540
+      Medusa_attack_NOhitbox_8: -7132068499453037140
+      Medusa_attack_NOhitbox_9: -554278969155942198
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

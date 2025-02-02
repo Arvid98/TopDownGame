@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Griffin_attack_0: 5168412113593379590
+      Griffin_attack_1: 5544781495727863889
+      Griffin_attack_10: -4318575685188700844
+      Griffin_attack_11: 3566439390681991675
+      Griffin_attack_12: -79608697617215206
+      Griffin_attack_13: 3646561335783736613
+      Griffin_attack_14: 2511003323790431896
+      Griffin_attack_15: -5065704423561660751
+      Griffin_attack_16: 1943516829254412667
+      Griffin_attack_17: -4164998891743119664
+      Griffin_attack_18: 8984299905356557336
+      Griffin_attack_19: 8761446910112565238
+      Griffin_attack_2: -5606356049436069824
+      Griffin_attack_20: -5487639218028252461
+      Griffin_attack_21: -2630053233448673860
+      Griffin_attack_22: 1339716368026260631
+      Griffin_attack_23: -4909848604108712454
+      Griffin_attack_24: 5472243574101675517
+      Griffin_attack_25: 8152654535631264518
+      Griffin_attack_26: 237069357939235689
+      Griffin_attack_27: -1864299765755429867
+      Griffin_attack_3: 2784883892410916905
+      Griffin_attack_4: -2176042491962703792
+      Griffin_attack_5: -3705010114453228174
+      Griffin_attack_6: -4375937317252643894
+      Griffin_attack_7: -4524728358706125578
+      Griffin_attack_8: 5427353100756721482
+      Griffin_attack_9: -8841826802400005969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

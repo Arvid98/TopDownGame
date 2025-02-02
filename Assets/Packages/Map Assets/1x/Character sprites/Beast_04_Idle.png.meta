@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beast_04_Idle_0: 5081405218825574124
+      Beast_04_Idle_1: -4484858718445977842
+      Beast_04_Idle_2: 1543295454537659800
+      Beast_04_Idle_3: -693548803490092454
+      Beast_04_Idle_4: 3439921869648506633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

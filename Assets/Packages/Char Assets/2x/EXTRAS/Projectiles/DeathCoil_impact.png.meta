@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeathCoil_impact_0: -1695794281642514983
+      DeathCoil_impact_1: 4660577647795784503
+      DeathCoil_impact_2: -3725528130113934101
+      DeathCoil_impact_3: 5130148621375265288
+      DeathCoil_impact_4: 6465330389978623653
+      DeathCoil_impact_5: 8278019951109823559
+      DeathCoil_impact_6: 8442856378365828699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

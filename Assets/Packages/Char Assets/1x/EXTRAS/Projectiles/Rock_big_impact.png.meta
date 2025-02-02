@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Rock_big_impact_0: 4945247411709526156
+      Rock_big_impact_1: -2604461663116209152
+      Rock_big_impact_2: 4495081910850593262
+      Rock_big_impact_3: 1367177528053811857
+      Rock_big_impact_4: 6751690064675784285
+      Rock_big_impact_5: -5411351391869453652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

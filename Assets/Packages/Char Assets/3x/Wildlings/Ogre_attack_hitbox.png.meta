@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Ogre_attack_hitbox_0: -931569713073802979
+      Ogre_attack_hitbox_1: -2029478528288859477
+      Ogre_attack_hitbox_10: 585573464619723475
+      Ogre_attack_hitbox_11: -7278137157465731253
+      Ogre_attack_hitbox_12: -1030549126836507261
+      Ogre_attack_hitbox_13: -1263501145468586510
+      Ogre_attack_hitbox_14: -250275367575363213
+      Ogre_attack_hitbox_15: 5468444589173474491
+      Ogre_attack_hitbox_2: -45731093965269338
+      Ogre_attack_hitbox_3: 5214387628091207674
+      Ogre_attack_hitbox_4: 2234670752019545022
+      Ogre_attack_hitbox_5: 8191823858354894298
+      Ogre_attack_hitbox_6: -4682505572678783295
+      Ogre_attack_hitbox_7: -9195927994508782541
+      Ogre_attack_hitbox_8: -3908404634889177584
+      Ogre_attack_hitbox_9: -4226238165109030106
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

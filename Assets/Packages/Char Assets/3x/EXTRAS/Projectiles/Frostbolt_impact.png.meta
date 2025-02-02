@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frostbolt_impact_0: -7859863886403957505
+      Frostbolt_impact_1: 4139700489142782054
+      Frostbolt_impact_2: -5998130484456581078
+      Frostbolt_impact_3: -6333263301288077862
+      Frostbolt_impact_4: 6408709843494173235
+      Frostbolt_impact_5: -2557279744149127462
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

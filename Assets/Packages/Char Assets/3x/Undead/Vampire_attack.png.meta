@@ -1059,7 +1059,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampire_attack_0: 5342175339810793468
+      Vampire_attack_1: -580555770697621395
+      Vampire_attack_10: -3184907233825828521
+      Vampire_attack_11: 9219836060050654550
+      Vampire_attack_12: -8351950223266438856
+      Vampire_attack_13: -1845087855915807423
+      Vampire_attack_14: 965637701115976813
+      Vampire_attack_15: -2727340025510139461
+      Vampire_attack_16: 4026706980962457966
+      Vampire_attack_17: -9013935105291438906
+      Vampire_attack_18: 6551329407412445419
+      Vampire_attack_19: -3527273019520573288
+      Vampire_attack_2: 2146446220339088769
+      Vampire_attack_20: 7615536032319883417
+      Vampire_attack_21: 7320826389729666192
+      Vampire_attack_22: 6943691585444666912
+      Vampire_attack_23: 2641447828089935135
+      Vampire_attack_24: -4586323185390130705
+      Vampire_attack_25: 5820418226077547135
+      Vampire_attack_26: -545149923244510655
+      Vampire_attack_27: -6336840586562598000
+      Vampire_attack_28: 2777448041194734673
+      Vampire_attack_29: 8558881631188891317
+      Vampire_attack_3: 7231794790795219363
+      Vampire_attack_30: 901103879511651541
+      Vampire_attack_31: 5791501019524929158
+      Vampire_attack_32: -1750358531135688772
+      Vampire_attack_33: -7143864759838571808
+      Vampire_attack_34: -9208653076325107997
+      Vampire_attack_35: -4902671793368067707
+      Vampire_attack_36: -5216976710457583040
+      Vampire_attack_37: 7943419687555343172
+      Vampire_attack_4: -1635867414748627409
+      Vampire_attack_5: 866590538034689533
+      Vampire_attack_6: -7134807309268499647
+      Vampire_attack_7: -4136260737889781411
+      Vampire_attack_8: -732395325876679676
+      Vampire_attack_9: 5543104471675333812
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redcap_die_0: 5177315417915844184
+      Redcap_die_1: -2541831226842147614
+      Redcap_die_2: 9112753478698228558
+      Redcap_die_3: 971975266980527107
+      Redcap_die_4: 3259409072295689616
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

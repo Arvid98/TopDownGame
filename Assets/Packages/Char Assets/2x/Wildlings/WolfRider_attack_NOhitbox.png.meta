@@ -659,7 +659,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WolfRider_attack_NOhitbox_0: 4807275677019383457
+      WolfRider_attack_NOhitbox_1: 6259624254339686687
+      WolfRider_attack_NOhitbox_10: 4234970335379230582
+      WolfRider_attack_NOhitbox_11: -7158953272306800703
+      WolfRider_attack_NOhitbox_12: -2919364961264637111
+      WolfRider_attack_NOhitbox_13: 5293165437005880502
+      WolfRider_attack_NOhitbox_14: -4455649708575084248
+      WolfRider_attack_NOhitbox_15: 726584558986519446
+      WolfRider_attack_NOhitbox_16: -2007684870741475792
+      WolfRider_attack_NOhitbox_17: -1136395936406515019
+      WolfRider_attack_NOhitbox_18: -3587628582128430745
+      WolfRider_attack_NOhitbox_19: -982281595690054788
+      WolfRider_attack_NOhitbox_2: 7619630511535219364
+      WolfRider_attack_NOhitbox_20: 9046226134729436851
+      WolfRider_attack_NOhitbox_21: -8163774252590905639
+      WolfRider_attack_NOhitbox_3: -3013849059900813234
+      WolfRider_attack_NOhitbox_4: 5034781561861753843
+      WolfRider_attack_NOhitbox_5: -7800241159704400243
+      WolfRider_attack_NOhitbox_6: -8693585234708758494
+      WolfRider_attack_NOhitbox_7: 6177403811355711682
+      WolfRider_attack_NOhitbox_8: 6436067948635049877
+      WolfRider_attack_NOhitbox_9: -3200362774337521003
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

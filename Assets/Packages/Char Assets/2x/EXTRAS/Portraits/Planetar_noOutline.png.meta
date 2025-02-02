@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Planetar_noOutline_0: 524770138475177123
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

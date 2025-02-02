@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Dryad_walk_0: -600315578534433941
+      Dryad_walk_1: 9214644229697268522
+      Dryad_walk_10: -5969229152729943045
+      Dryad_walk_11: 8715302024761579185
+      Dryad_walk_12: 432618142850373210
+      Dryad_walk_13: 4468568912015425848
+      Dryad_walk_14: 3361400761907688185
+      Dryad_walk_15: -8476519921455725280
+      Dryad_walk_2: 8993687657238933148
+      Dryad_walk_3: -5449960296784978640
+      Dryad_walk_4: -932694322815349892
+      Dryad_walk_5: 3024464744956807137
+      Dryad_walk_6: 3856114621145536291
+      Dryad_walk_7: -2369945248125241289
+      Dryad_walk_8: -5217586215534859756
+      Dryad_walk_9: 3807329376327295621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

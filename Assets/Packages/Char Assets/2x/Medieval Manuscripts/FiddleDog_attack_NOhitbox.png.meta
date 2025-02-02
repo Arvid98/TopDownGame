@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FiddleDog_attack_NOhitbox_0: 5439393389826908219
+      FiddleDog_attack_NOhitbox_1: -1165578505201817332
+      FiddleDog_attack_NOhitbox_10: -2460268241176115243
+      FiddleDog_attack_NOhitbox_11: 6988192604032797220
+      FiddleDog_attack_NOhitbox_12: 1289886102164333472
+      FiddleDog_attack_NOhitbox_13: -5850451240000831637
+      FiddleDog_attack_NOhitbox_14: 432683328588343899
+      FiddleDog_attack_NOhitbox_15: -9045376148106843708
+      FiddleDog_attack_NOhitbox_16: -5167775964266655793
+      FiddleDog_attack_NOhitbox_17: -6638018317778895002
+      FiddleDog_attack_NOhitbox_18: -1283290876912156801
+      FiddleDog_attack_NOhitbox_19: -5135004181174549100
+      FiddleDog_attack_NOhitbox_2: -6376398957458953503
+      FiddleDog_attack_NOhitbox_3: 1166073001719201106
+      FiddleDog_attack_NOhitbox_4: -4814794904159011183
+      FiddleDog_attack_NOhitbox_5: -7891040985954130234
+      FiddleDog_attack_NOhitbox_6: -4769443342916920902
+      FiddleDog_attack_NOhitbox_7: -3265696726359044350
+      FiddleDog_attack_NOhitbox_8: 8186324911665588262
+      FiddleDog_attack_NOhitbox_9: -1696588341098746155
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

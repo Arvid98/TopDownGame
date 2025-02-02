@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlbear_attack_NOhitbox_0: 5912215232105198349
+      Owlbear_attack_NOhitbox_1: 850540744861498710
+      Owlbear_attack_NOhitbox_10: 8265265495622401096
+      Owlbear_attack_NOhitbox_11: 3539585068799907146
+      Owlbear_attack_NOhitbox_12: 3366831977794344488
+      Owlbear_attack_NOhitbox_13: -1248224413192056415
+      Owlbear_attack_NOhitbox_14: -4077592034872515302
+      Owlbear_attack_NOhitbox_15: -8065435553160116450
+      Owlbear_attack_NOhitbox_16: -4232901402170600067
+      Owlbear_attack_NOhitbox_17: -4175745377400840580
+      Owlbear_attack_NOhitbox_18: 7865452505709093498
+      Owlbear_attack_NOhitbox_19: -2884946230228675174
+      Owlbear_attack_NOhitbox_2: -1236432064918036647
+      Owlbear_attack_NOhitbox_3: -9079451582239961247
+      Owlbear_attack_NOhitbox_4: 3131290319519899426
+      Owlbear_attack_NOhitbox_5: 5254951464728764398
+      Owlbear_attack_NOhitbox_6: 1995776149591249177
+      Owlbear_attack_NOhitbox_7: 3158279277264185171
+      Owlbear_attack_NOhitbox_8: 7244851551779826912
+      Owlbear_attack_NOhitbox_9: 6781757145568078671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

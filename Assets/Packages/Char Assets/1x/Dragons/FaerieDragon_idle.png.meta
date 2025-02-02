@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_idle_0: 3730388662243222189
+      FaerieDragon_idle_1: 5120391016888624196
+      FaerieDragon_idle_10: -2430729113826401649
+      FaerieDragon_idle_11: 3151877806953766696
+      FaerieDragon_idle_12: -1838869347714620469
+      FaerieDragon_idle_13: 2405401789451615047
+      FaerieDragon_idle_14: -6021623896051326932
+      FaerieDragon_idle_15: 1978042302941089767
+      FaerieDragon_idle_2: -5699730621758565104
+      FaerieDragon_idle_3: -260970267477912141
+      FaerieDragon_idle_4: -7061078487782215313
+      FaerieDragon_idle_5: -8882617977426541603
+      FaerieDragon_idle_6: -310348402904784862
+      FaerieDragon_idle_7: -3140612321255947081
+      FaerieDragon_idle_8: 8259599664762367447
+      FaerieDragon_idle_9: -4799004024210156465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

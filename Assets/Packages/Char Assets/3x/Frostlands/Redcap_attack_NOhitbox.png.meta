@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redcap_attack_NOhitbox_0: 7618294769670122739
+      Redcap_attack_NOhitbox_1: 2061290604975629699
+      Redcap_attack_NOhitbox_10: -7801719114345342667
+      Redcap_attack_NOhitbox_11: 6725042383797901013
+      Redcap_attack_NOhitbox_12: 619638363651461768
+      Redcap_attack_NOhitbox_13: -3727505806857560704
+      Redcap_attack_NOhitbox_14: -8663592611518039011
+      Redcap_attack_NOhitbox_15: 5676205454290835642
+      Redcap_attack_NOhitbox_16: -239636609930890204
+      Redcap_attack_NOhitbox_17: 1852145427491658168
+      Redcap_attack_NOhitbox_18: 7270298203663804466
+      Redcap_attack_NOhitbox_19: -7087871863643181366
+      Redcap_attack_NOhitbox_2: 6066488401936406537
+      Redcap_attack_NOhitbox_3: 6379188083355809652
+      Redcap_attack_NOhitbox_4: -468628001318126498
+      Redcap_attack_NOhitbox_5: -341207535261840312
+      Redcap_attack_NOhitbox_6: 649161441504160170
+      Redcap_attack_NOhitbox_7: 2619857209428412223
+      Redcap_attack_NOhitbox_8: 795241373946662273
+      Redcap_attack_NOhitbox_9: 5930649305849851392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Beholder_attack (yellow)_0: 4247707517920716895
+      Beholder_attack (yellow)_1: 7327194502466595017
+      Beholder_attack (yellow)_10: 38612421911673717
+      Beholder_attack (yellow)_11: 6912558464231010474
+      Beholder_attack (yellow)_12: 7332946156301966337
+      Beholder_attack (yellow)_13: 7821039004930200988
+      Beholder_attack (yellow)_14: 7913556503568280142
+      Beholder_attack (yellow)_15: -4940502955105788900
+      Beholder_attack (yellow)_16: 3325008252542203
+      Beholder_attack (yellow)_17: -396636536863174155
+      Beholder_attack (yellow)_18: -8052278183478309882
+      Beholder_attack (yellow)_19: -181356301997645174
+      Beholder_attack (yellow)_2: 7988514304860830768
+      Beholder_attack (yellow)_20: -5197638042365505372
+      Beholder_attack (yellow)_21: -8203561685034528719
+      Beholder_attack (yellow)_22: 4865439883999104891
+      Beholder_attack (yellow)_23: 4388653671031979031
+      Beholder_attack (yellow)_24: -6562480061893605990
+      Beholder_attack (yellow)_25: 7186754865338855138
+      Beholder_attack (yellow)_26: -5449354617930669517
+      Beholder_attack (yellow)_27: -2949438724672820083
+      Beholder_attack (yellow)_28: 4667008572374378785
+      Beholder_attack (yellow)_3: -1417241601836021626
+      Beholder_attack (yellow)_4: 7391460024747711549
+      Beholder_attack (yellow)_5: 8491412566420422437
+      Beholder_attack (yellow)_6: 1317868181232636101
+      Beholder_attack (yellow)_7: 3416678911824889952
+      Beholder_attack (yellow)_8: 4687189159007131291
+      Beholder_attack (yellow)_9: 6517840833690088461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

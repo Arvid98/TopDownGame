@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DarkOrb_impact_0: 6984376880182308639
+      DarkOrb_impact_1: 3185181355458575173
+      DarkOrb_impact_2: 3019776907346417963
+      DarkOrb_impact_3: 8179904055428589560
+      DarkOrb_impact_4: -8716545837763279031
+      DarkOrb_impact_5: 7170591073155499915
+      DarkOrb_impact_6: 1735994700810242094
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

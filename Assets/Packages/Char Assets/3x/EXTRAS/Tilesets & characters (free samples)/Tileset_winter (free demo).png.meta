@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tileset_winter (free demo)_0: 6136404111127550775
+      Tileset_winter (free demo)_1: 5421556887670349434
+      Tileset_winter (free demo)_10: -5594126366916921808
+      Tileset_winter (free demo)_2: -6227289148504585908
+      Tileset_winter (free demo)_3: 8369374706623085628
+      Tileset_winter (free demo)_4: -2683005031612443569
+      Tileset_winter (free demo)_5: -6590661583385900154
+      Tileset_winter (free demo)_6: 9172495579737400545
+      Tileset_winter (free demo)_7: 6248375154032725007
+      Tileset_winter (free demo)_8: 4940640796355486847
+      Tileset_winter (free demo)_9: 702716624196132199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

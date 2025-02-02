@@ -909,7 +909,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisplacerBeast_attack_0: 1695515786592748565
+      DisplacerBeast_attack_1: -5762569192518673977
+      DisplacerBeast_attack_10: -4808207453381779810
+      DisplacerBeast_attack_11: -667218906569384574
+      DisplacerBeast_attack_12: -6498801984904492084
+      DisplacerBeast_attack_13: -151190061225430141
+      DisplacerBeast_attack_14: -2062434914190049396
+      DisplacerBeast_attack_15: 2901902380391346774
+      DisplacerBeast_attack_16: -6850880720682942745
+      DisplacerBeast_attack_17: -3705566150380442866
+      DisplacerBeast_attack_18: 6770704315522684834
+      DisplacerBeast_attack_19: 7080765318104229785
+      DisplacerBeast_attack_2: 5955474446587456865
+      DisplacerBeast_attack_20: 3096628240468667485
+      DisplacerBeast_attack_21: -7506169029458020221
+      DisplacerBeast_attack_22: -4851697677400515041
+      DisplacerBeast_attack_23: 1582177725062438639
+      DisplacerBeast_attack_24: 2120091297510440347
+      DisplacerBeast_attack_25: -357645645825338209
+      DisplacerBeast_attack_26: 1320760352386890131
+      DisplacerBeast_attack_27: 6216658005172473432
+      DisplacerBeast_attack_28: -544953069931503826
+      DisplacerBeast_attack_29: -74018196033705484
+      DisplacerBeast_attack_3: 7594767789076901888
+      DisplacerBeast_attack_30: 3677462867848038079
+      DisplacerBeast_attack_31: 5202918653586899338
+      DisplacerBeast_attack_4: -6074524930902753564
+      DisplacerBeast_attack_5: 496354893181967280
+      DisplacerBeast_attack_6: 3895329015843283676
+      DisplacerBeast_attack_7: -1103740592851407367
+      DisplacerBeast_attack_8: -2961329669043667703
+      DisplacerBeast_attack_9: -3967787790178195514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

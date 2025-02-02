@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_hit_0: -6222909178665887372
+      FaerieDragon_hit_1: -6479749835577108930
+      FaerieDragon_hit_2: -2745698018187926612
+      FaerieDragon_hit_3: 4949592143176405755
+      FaerieDragon_hit_4: -2300627051081983219
+      FaerieDragon_hit_5: 2353326276459465486
+      FaerieDragon_hit_6: 5780680637190747281
+      FaerieDragon_hit_7: -3521724802825825482
+      FaerieDragon_hit_8: -7202443014716798293
+      FaerieDragon_hit_9: 4810341400854894321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

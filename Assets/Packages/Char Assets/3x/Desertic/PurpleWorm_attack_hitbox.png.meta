@@ -1209,7 +1209,51 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PurpleWorm_attack_hitbox_0: -3621248911536789376
+      PurpleWorm_attack_hitbox_1: -6712192580989655856
+      PurpleWorm_attack_hitbox_10: -82998922947355991
+      PurpleWorm_attack_hitbox_11: -6631043508121267545
+      PurpleWorm_attack_hitbox_12: -351349798603615386
+      PurpleWorm_attack_hitbox_13: -3341690526200935646
+      PurpleWorm_attack_hitbox_14: 8551127340336114700
+      PurpleWorm_attack_hitbox_15: 2738789683441961965
+      PurpleWorm_attack_hitbox_16: -5780889045230012750
+      PurpleWorm_attack_hitbox_17: -4728950431741830561
+      PurpleWorm_attack_hitbox_18: -7610356544675473540
+      PurpleWorm_attack_hitbox_19: 1585744691874840258
+      PurpleWorm_attack_hitbox_2: 2469610391917832303
+      PurpleWorm_attack_hitbox_20: 6699603997651177472
+      PurpleWorm_attack_hitbox_21: 3358548412452650967
+      PurpleWorm_attack_hitbox_22: -4066744613986999956
+      PurpleWorm_attack_hitbox_23: -7678866465776850184
+      PurpleWorm_attack_hitbox_24: 7865268713525196877
+      PurpleWorm_attack_hitbox_25: 8542061835352308798
+      PurpleWorm_attack_hitbox_26: 1819465610797738639
+      PurpleWorm_attack_hitbox_27: 5809303874001640790
+      PurpleWorm_attack_hitbox_28: 6387802115315451362
+      PurpleWorm_attack_hitbox_29: 5296154619392881541
+      PurpleWorm_attack_hitbox_3: -8218410333387887831
+      PurpleWorm_attack_hitbox_30: 5823823875911891728
+      PurpleWorm_attack_hitbox_31: -6716603824080294580
+      PurpleWorm_attack_hitbox_32: -3884893019883707740
+      PurpleWorm_attack_hitbox_33: -3639601396369893760
+      PurpleWorm_attack_hitbox_34: 1450684799389999410
+      PurpleWorm_attack_hitbox_35: -1032041028588324062
+      PurpleWorm_attack_hitbox_36: -8745555361065059944
+      PurpleWorm_attack_hitbox_37: -4704426019537759384
+      PurpleWorm_attack_hitbox_38: -3461388256194884902
+      PurpleWorm_attack_hitbox_39: 8856987463098186832
+      PurpleWorm_attack_hitbox_4: 7984940116827805558
+      PurpleWorm_attack_hitbox_40: -2897621237598181609
+      PurpleWorm_attack_hitbox_41: 1966520103301244467
+      PurpleWorm_attack_hitbox_42: -6954995620542791894
+      PurpleWorm_attack_hitbox_43: -7672424763924684949
+      PurpleWorm_attack_hitbox_5: -946356499661045528
+      PurpleWorm_attack_hitbox_6: 8102853194339042372
+      PurpleWorm_attack_hitbox_7: 2158488316797960763
+      PurpleWorm_attack_hitbox_8: -8627627638032533867
+      PurpleWorm_attack_hitbox_9: -4010245410406693170
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

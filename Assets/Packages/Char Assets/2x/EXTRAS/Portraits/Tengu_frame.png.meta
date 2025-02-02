@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_frame_0: -7335848705587772011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

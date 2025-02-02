@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrostSalamander_die_0: -2625236892306084739
+      FrostSalamander_die_1: 2890865188956614353
+      FrostSalamander_die_2: 7560192034969042175
+      FrostSalamander_die_3: -8923664171769902581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

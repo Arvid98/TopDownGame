@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Vampire_walk_0: -5869500078055996244
+      Vampire_walk_1: -397533200532351809
+      Vampire_walk_10: -6796499712794937687
+      Vampire_walk_11: 6886456514731859924
+      Vampire_walk_12: 5543905253881874502
+      Vampire_walk_13: 6896608586473026851
+      Vampire_walk_14: 5483913871499749788
+      Vampire_walk_15: 4678475352672125524
+      Vampire_walk_2: -7125848107069865377
+      Vampire_walk_3: -8502177203033495192
+      Vampire_walk_4: 1407031512639717931
+      Vampire_walk_5: -1778818186870374689
+      Vampire_walk_6: -8123213198368343604
+      Vampire_walk_7: 6032464097521281050
+      Vampire_walk_8: -5640038624316297042
+      Vampire_walk_9: 1233896824386298629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

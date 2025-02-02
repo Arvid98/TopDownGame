@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabbitSoldier_die_0: -2412781202976503638
+      RabbitSoldier_die_1: 1624023621507239219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

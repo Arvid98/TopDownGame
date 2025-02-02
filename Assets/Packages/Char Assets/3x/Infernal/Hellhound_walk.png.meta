@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hellhound_walk_0: -5822641167062915558
+      Hellhound_walk_1: 5018945343239554924
+      Hellhound_walk_10: 2863348760712564063
+      Hellhound_walk_11: -3192376774386240152
+      Hellhound_walk_12: 4184397631945502360
+      Hellhound_walk_13: -739976268233035517
+      Hellhound_walk_14: 828814124314940950
+      Hellhound_walk_15: 7981377450481172709
+      Hellhound_walk_2: 8410375313142565069
+      Hellhound_walk_3: 1038631571619894781
+      Hellhound_walk_4: 8895755144077157376
+      Hellhound_walk_5: -1567992272265738944
+      Hellhound_walk_6: 5047861637593939789
+      Hellhound_walk_7: 8759321144211377405
+      Hellhound_walk_8: -3932133870562813278
+      Hellhound_walk_9: 4946675854088592296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

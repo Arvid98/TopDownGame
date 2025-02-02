@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_fly_0: 7051063537813632002
+      Tengu_fly_1: 9122394156717829682
+      Tengu_fly_10: -8681556042062518020
+      Tengu_fly_11: 4327734294041094097
+      Tengu_fly_12: -9202445501535771037
+      Tengu_fly_13: -6556214409010080635
+      Tengu_fly_2: -6412675454526444397
+      Tengu_fly_3: 185458254302367414
+      Tengu_fly_4: 5510386653800708256
+      Tengu_fly_5: 5726296014540428006
+      Tengu_fly_6: 7552870142989899181
+      Tengu_fly_7: 202001914441180922
+      Tengu_fly_8: 765343099209633419
+      Tengu_fly_9: 4021243444616514756
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1409,7 +1409,59 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      IceGolem_attack_0: 2651950903898642507
+      IceGolem_attack_1: -723599499437595967
+      IceGolem_attack_10: -3715230986728760717
+      IceGolem_attack_11: -4868419144138785825
+      IceGolem_attack_12: -3125687406755596417
+      IceGolem_attack_13: -6735075392410994694
+      IceGolem_attack_14: -9149158926618234312
+      IceGolem_attack_15: -849040811455620837
+      IceGolem_attack_16: -3284254744289232289
+      IceGolem_attack_17: -5120385878665126764
+      IceGolem_attack_18: -338039502320219061
+      IceGolem_attack_19: -7030730873351219844
+      IceGolem_attack_2: 6851274601712053782
+      IceGolem_attack_20: -2196631344235325958
+      IceGolem_attack_21: -4163042224238237069
+      IceGolem_attack_22: 4350338447074253895
+      IceGolem_attack_23: -6857918319498485306
+      IceGolem_attack_24: 4977862829468400387
+      IceGolem_attack_25: 1400908411488489691
+      IceGolem_attack_26: -2951735499578719807
+      IceGolem_attack_27: 7335575135343426962
+      IceGolem_attack_28: 1063110411015743141
+      IceGolem_attack_29: 2470406656297017591
+      IceGolem_attack_3: 908731529178423051
+      IceGolem_attack_30: 3472123020370727016
+      IceGolem_attack_31: -8853429684124041867
+      IceGolem_attack_32: 7570901840548750426
+      IceGolem_attack_33: -2149887672465559696
+      IceGolem_attack_34: 2088715402259745931
+      IceGolem_attack_35: -7698502066909226472
+      IceGolem_attack_36: -2759859268442368938
+      IceGolem_attack_37: 5315801049083245187
+      IceGolem_attack_38: 1943062842403951070
+      IceGolem_attack_39: 5228149120553506550
+      IceGolem_attack_4: 6837058363234735927
+      IceGolem_attack_40: 2954904495436428273
+      IceGolem_attack_41: -4786631418994233985
+      IceGolem_attack_42: -1383517492056850806
+      IceGolem_attack_43: 5757560940726421328
+      IceGolem_attack_44: -8778580012149934471
+      IceGolem_attack_45: -4169317183705169769
+      IceGolem_attack_46: -2321181022548297069
+      IceGolem_attack_47: -6250854866219149657
+      IceGolem_attack_48: 4857835706612594586
+      IceGolem_attack_49: 7661693544112322535
+      IceGolem_attack_5: -1289947184318217907
+      IceGolem_attack_50: -5132254234411668471
+      IceGolem_attack_51: 1464894469051416393
+      IceGolem_attack_6: 6764086981632347929
+      IceGolem_attack_7: -6383983619594618927
+      IceGolem_attack_8: -5871633861842389665
+      IceGolem_attack_9: -2343274560831149674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

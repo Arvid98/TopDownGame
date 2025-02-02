@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BeastRider_02_Move_0: 5764748772812205349
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

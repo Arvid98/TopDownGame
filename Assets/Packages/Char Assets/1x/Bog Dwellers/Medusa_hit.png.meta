@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Medusa_hit_0: -7710194725047516537
+      Medusa_hit_1: -7902300896694552415
+      Medusa_hit_2: -8685239024147238516
+      Medusa_hit_3: 4075149528037550353
+      Medusa_hit_4: -7522836371968016722
+      Medusa_hit_5: 2428270407523137228
+      Medusa_hit_6: -151515707187851634
+      Medusa_hit_7: -6820372688428668346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

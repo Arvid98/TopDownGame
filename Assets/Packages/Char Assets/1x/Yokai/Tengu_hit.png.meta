@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tengu_hit_0: 7164028320336344489
+      Tengu_hit_1: 663565810440139807
+      Tengu_hit_2: 6493198616037104176
+      Tengu_hit_3: -544039187522759726
+      Tengu_hit_4: -6822447862152930765
+      Tengu_hit_5: -7009631653204384424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

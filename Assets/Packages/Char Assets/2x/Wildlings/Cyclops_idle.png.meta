@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cyclops_idle_0: -2486285520216336645
+      Cyclops_idle_1: -5865177509194714729
+      Cyclops_idle_2: -1659880095084013267
+      Cyclops_idle_3: -6231113532607049464
+      Cyclops_idle_4: 6716724693584892655
+      Cyclops_idle_5: 1986804590396096334
+      Cyclops_idle_6: 820444594105460111
+      Cyclops_idle_7: 6626116680796165467
+      Cyclops_idle_8: 4528418513225199813
+      Cyclops_idle_9: 7324689135048583653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

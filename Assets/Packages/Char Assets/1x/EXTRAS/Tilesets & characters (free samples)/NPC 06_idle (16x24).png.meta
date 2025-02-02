@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC 06_idle (16x24)_0: 5256418586138914699
+      NPC 06_idle (16x24)_1: 6422385747141796370
+      NPC 06_idle (16x24)_10: 7303306288424667140
+      NPC 06_idle (16x24)_11: 1944055605340165865
+      NPC 06_idle (16x24)_12: -6839453674930210999
+      NPC 06_idle (16x24)_13: -45145429119335610
+      NPC 06_idle (16x24)_14: 2803415857914687457
+      NPC 06_idle (16x24)_15: 3135757277897419426
+      NPC 06_idle (16x24)_2: -5945384252659106195
+      NPC 06_idle (16x24)_3: -7043756852672839190
+      NPC 06_idle (16x24)_4: -8670849796505326888
+      NPC 06_idle (16x24)_5: -7018022625570662907
+      NPC 06_idle (16x24)_6: -9062806158408832304
+      NPC 06_idle (16x24)_7: 5228794266494367938
+      NPC 06_idle (16x24)_8: 2638273026615260847
+      NPC 06_idle (16x24)_9: 5480804687005690525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

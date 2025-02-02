@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Efreet_idle_0: 3148250304935538882
+      Efreet_idle_1: 1119930240832407959
+      Efreet_idle_10: 5830039393763297461
+      Efreet_idle_11: -3120543735979756084
+      Efreet_idle_12: -6446671993623293899
+      Efreet_idle_13: -3439496732438011170
+      Efreet_idle_14: 4089248124186612283
+      Efreet_idle_15: 5473274277640272765
+      Efreet_idle_2: 2661615591699960189
+      Efreet_idle_3: 1475177020061502705
+      Efreet_idle_4: 2604037370129817489
+      Efreet_idle_5: 7835383562837826997
+      Efreet_idle_6: 8201205103244685176
+      Efreet_idle_7: -7746576751247248783
+      Efreet_idle_8: 6573057344309094796
+      Efreet_idle_9: -3423714414578223248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

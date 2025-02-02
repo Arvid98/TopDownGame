@@ -1509,7 +1509,63 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Djinn_attack_0: -751361569660240166
+      Djinn_attack_1: 7308390818353181538
+      Djinn_attack_10: 5148746515803966179
+      Djinn_attack_11: 5566715583214673314
+      Djinn_attack_12: 766945992471273352
+      Djinn_attack_13: -6466796494180505188
+      Djinn_attack_14: 4938148172803255506
+      Djinn_attack_15: 3010115299533031534
+      Djinn_attack_16: 1946110802106032893
+      Djinn_attack_17: 8322190484557472612
+      Djinn_attack_18: -4723270621895575080
+      Djinn_attack_19: 7133941934689565170
+      Djinn_attack_2: -3660322574322212671
+      Djinn_attack_20: -8015765995647442603
+      Djinn_attack_21: -3955016922127989467
+      Djinn_attack_22: 3629450252128588124
+      Djinn_attack_23: -49163002204195960
+      Djinn_attack_24: -2170457603068596107
+      Djinn_attack_25: 4123370451567506966
+      Djinn_attack_26: -710427492036683188
+      Djinn_attack_27: 710057268718704939
+      Djinn_attack_28: -656825081392864043
+      Djinn_attack_29: -1984571578614221560
+      Djinn_attack_3: -3887524546839339823
+      Djinn_attack_30: -7002894989357944775
+      Djinn_attack_31: 5161734815207604772
+      Djinn_attack_32: -408166838181740593
+      Djinn_attack_33: 2866041368824376220
+      Djinn_attack_34: 3291820094369263593
+      Djinn_attack_35: -7076867509189240562
+      Djinn_attack_36: -2049765680624539502
+      Djinn_attack_37: 6377330235871163209
+      Djinn_attack_38: 2312061959502678813
+      Djinn_attack_39: 836382043077875453
+      Djinn_attack_4: 3016328305055128845
+      Djinn_attack_40: -5140159070791160248
+      Djinn_attack_41: -5233316325032072952
+      Djinn_attack_42: 1846790128970779774
+      Djinn_attack_43: -4067483076952343235
+      Djinn_attack_44: 1070658966002125193
+      Djinn_attack_45: 8323298979787759057
+      Djinn_attack_46: -3167714928408830146
+      Djinn_attack_47: -1987909314125616162
+      Djinn_attack_48: -6944647213363127834
+      Djinn_attack_49: -2481591883530820321
+      Djinn_attack_5: -1344472273502187037
+      Djinn_attack_50: 5194192552647843450
+      Djinn_attack_51: 2500840600484469473
+      Djinn_attack_52: -43670332361509306
+      Djinn_attack_53: -3407301193280323840
+      Djinn_attack_54: 8518787783084757251
+      Djinn_attack_55: -7075236268136172257
+      Djinn_attack_6: 8864698298508455502
+      Djinn_attack_7: -407516987949747527
+      Djinn_attack_8: -6743023328657208127
+      Djinn_attack_9: 638625415481357086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

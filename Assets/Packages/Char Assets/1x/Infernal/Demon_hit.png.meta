@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Demon_hit_0: -3718488942769303868
+      Demon_hit_1: -337833009101475953
+      Demon_hit_2: -9222151984083566958
+      Demon_hit_3: 1925774796074226395
+      Demon_hit_4: -4103715501938645698
+      Demon_hit_5: 7916299051322954870
+      Demon_hit_6: -7258531615045158916
+      Demon_hit_7: 2765682635308136921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

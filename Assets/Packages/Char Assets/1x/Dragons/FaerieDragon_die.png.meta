@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FaerieDragon_die_0: 4889396324212321759
+      FaerieDragon_die_1: -1799647279909872634
+      FaerieDragon_die_2: -3596195352173196180
+      FaerieDragon_die_3: 7406598420667963151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

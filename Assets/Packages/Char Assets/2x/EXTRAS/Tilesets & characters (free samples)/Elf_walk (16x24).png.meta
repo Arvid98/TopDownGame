@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Elf_walk (16x24)_0: 7525960134512642633
+      Elf_walk (16x24)_1: 8018506868458402992
+      Elf_walk (16x24)_10: -9217901373498053015
+      Elf_walk (16x24)_11: 7351198419812591540
+      Elf_walk (16x24)_12: -1984648663201712977
+      Elf_walk (16x24)_13: 6667582602676710283
+      Elf_walk (16x24)_14: 4937392830074987619
+      Elf_walk (16x24)_15: -5371597762189543153
+      Elf_walk (16x24)_2: 2556191618973553605
+      Elf_walk (16x24)_3: -7598461096069448169
+      Elf_walk (16x24)_4: -5533825067067244166
+      Elf_walk (16x24)_5: -7693869382352577173
+      Elf_walk (16x24)_6: 5335877670404333932
+      Elf_walk (16x24)_7: 2517090770188592717
+      Elf_walk (16x24)_8: 4688804079484559765
+      Elf_walk (16x24)_9: 4175739181566791516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_walk_0: 8196131146317756580
+      Satyr_walk_1: 3335365111942351223
+      Satyr_walk_10: -7051080168720779236
+      Satyr_walk_11: -4673257152300572421
+      Satyr_walk_12: -4687200707731369472
+      Satyr_walk_13: -8337585311264062492
+      Satyr_walk_14: 1651228786470625351
+      Satyr_walk_15: -5198611995362899248
+      Satyr_walk_2: 6617379376892082947
+      Satyr_walk_3: 9134003872484031682
+      Satyr_walk_4: 4530917362473567056
+      Satyr_walk_5: -4798129877232096803
+      Satyr_walk_6: -4799058097858525341
+      Satyr_walk_7: 4926034119933444824
+      Satyr_walk_8: 2375326150834274619
+      Satyr_walk_9: -6418099483556306143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

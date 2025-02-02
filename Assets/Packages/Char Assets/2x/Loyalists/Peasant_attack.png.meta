@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Peasant_attack_0: 2378374469606519598
+      Peasant_attack_1: 8617039224336219317
+      Peasant_attack_10: 3364248073086788886
+      Peasant_attack_11: -7129509786184451277
+      Peasant_attack_12: -253322927266973054
+      Peasant_attack_13: 2954863883318160581
+      Peasant_attack_14: -5003465103975014638
+      Peasant_attack_15: 2021978961175019325
+      Peasant_attack_16: -5037936445881517088
+      Peasant_attack_17: -3225618382628083125
+      Peasant_attack_18: 5151627724809125516
+      Peasant_attack_19: -3181756810679481574
+      Peasant_attack_2: 8130666501879275155
+      Peasant_attack_20: 1169949688303128674
+      Peasant_attack_21: 2293315064793868850
+      Peasant_attack_22: 4504132700731923726
+      Peasant_attack_23: 5749230717847105602
+      Peasant_attack_24: 5422157289402757075
+      Peasant_attack_25: 7316955821247767103
+      Peasant_attack_26: 6803346394786645711
+      Peasant_attack_27: -848331177041175558
+      Peasant_attack_28: -4623612154238522275
+      Peasant_attack_3: -656787928786578409
+      Peasant_attack_4: 3039893114306332086
+      Peasant_attack_5: -5117707311814698749
+      Peasant_attack_6: -3049179893648916990
+      Peasant_attack_7: -8615551136328520527
+      Peasant_attack_8: 8723265909259946095
+      Peasant_attack_9: -2283573543683205472
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

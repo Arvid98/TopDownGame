@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RabbitSoldier_idle_0: -8020547739471309695
+      RabbitSoldier_idle_1: 6423494067127091168
+      RabbitSoldier_idle_10: 1120615186827341627
+      RabbitSoldier_idle_11: 8172359348742815170
+      RabbitSoldier_idle_12: -3005742670608526541
+      RabbitSoldier_idle_13: 8436619177003820834
+      RabbitSoldier_idle_14: -8192581404346158687
+      RabbitSoldier_idle_15: 5748780637545087193
+      RabbitSoldier_idle_2: 3614695436389521539
+      RabbitSoldier_idle_3: 5523391087809226829
+      RabbitSoldier_idle_4: 4078338012288470391
+      RabbitSoldier_idle_5: -8740991422231841297
+      RabbitSoldier_idle_6: 3137849044577270774
+      RabbitSoldier_idle_7: 503415262067910754
+      RabbitSoldier_idle_8: -4463511549399192831
+      RabbitSoldier_idle_9: -6073182943629705325
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

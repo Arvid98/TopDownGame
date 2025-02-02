@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ManticoreBishop_walk_0: 1443632220727080059
+      ManticoreBishop_walk_1: 3128277734506554575
+      ManticoreBishop_walk_10: -99852987322880787
+      ManticoreBishop_walk_11: 727399655804392408
+      ManticoreBishop_walk_12: 476479086383621787
+      ManticoreBishop_walk_13: -3993532343369266420
+      ManticoreBishop_walk_14: -926574758341968366
+      ManticoreBishop_walk_15: -2211124542054186416
+      ManticoreBishop_walk_2: -4764080124688690922
+      ManticoreBishop_walk_3: -4324453578541833020
+      ManticoreBishop_walk_4: -7500147117472093087
+      ManticoreBishop_walk_5: -3832183701518701024
+      ManticoreBishop_walk_6: 2628091220063238933
+      ManticoreBishop_walk_7: 606444773983132478
+      ManticoreBishop_walk_8: 7943448751660690100
+      ManticoreBishop_walk_9: -3077207516598287929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Owlbear_hit_0: -7318562351357572628
+      Owlbear_hit_1: 5464429709675091318
+      Owlbear_hit_10: -3624462062087119670
+      Owlbear_hit_11: -4214744955190221187
+      Owlbear_hit_12: 5949168539035801452
+      Owlbear_hit_13: 992853474342631496
+      Owlbear_hit_14: -8508747516294207402
+      Owlbear_hit_15: 356028477182014220
+      Owlbear_hit_2: -5290182288466217289
+      Owlbear_hit_3: 3373137700848227321
+      Owlbear_hit_4: 669818886658259389
+      Owlbear_hit_5: -6240741816221539468
+      Owlbear_hit_6: 5176244122150010999
+      Owlbear_hit_7: -2504848437111504898
+      Owlbear_hit_8: 8059442908664107917
+      Owlbear_hit_9: -6910852449318236007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

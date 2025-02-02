@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WolfRider_die_0: -8994471776831675398
+      WolfRider_die_1: -4250294592923127313
+      WolfRider_die_2: 4417248708909281127
+      WolfRider_die_3: -5488704822210782207
+      WolfRider_die_4: -7431245840685966186
+      WolfRider_die_5: -4717076970214980729
+      WolfRider_die_6: -8216923760990963124
+      WolfRider_die_7: 8341322815677910185
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

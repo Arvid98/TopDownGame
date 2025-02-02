@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bulette_walk_0: 8798396847039508608
+      Bulette_walk_1: -2886670177475883723
+      Bulette_walk_2: 7861790740964192556
+      Bulette_walk_3: 6399382899468665845
+      Bulette_walk_4: 940293509422766312
+      Bulette_walk_5: -6834356361892750117
+      Bulette_walk_6: -310355474783072062
+      Bulette_walk_7: -5179280536612230656
+      Bulette_walk_8: -6699430281401170325
+      Bulette_walk_9: 1457409329631267855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

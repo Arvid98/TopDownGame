@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Lich_attack_hitbox_0: -2433100712143325339
+      Lich_attack_hitbox_1: 6760446511853567561
+      Lich_attack_hitbox_10: -5719538331178772946
+      Lich_attack_hitbox_11: -6029710989937771399
+      Lich_attack_hitbox_12: 349752967829583051
+      Lich_attack_hitbox_13: -5602801178456221254
+      Lich_attack_hitbox_2: -6339468345205883942
+      Lich_attack_hitbox_3: 6160402107451499383
+      Lich_attack_hitbox_4: 7002360633071432227
+      Lich_attack_hitbox_5: -1861012892834886653
+      Lich_attack_hitbox_6: -6771361915875496658
+      Lich_attack_hitbox_7: -2406326096101181950
+      Lich_attack_hitbox_8: 6443994235046674998
+      Lich_attack_hitbox_9: -1375745017147316543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

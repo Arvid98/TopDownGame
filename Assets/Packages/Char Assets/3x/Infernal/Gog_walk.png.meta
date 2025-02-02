@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gog_walk_0: 693292473073805204
+      Gog_walk_1: -92935613437542349
+      Gog_walk_2: -6065786808252229408
+      Gog_walk_3: -7514325502337628445
+      Gog_walk_4: 5019480372872984053
+      Gog_walk_5: -1246463206022268455
+      Gog_walk_6: 3836794005627657941
+      Gog_walk_7: 6319047736426110622
+      Gog_walk_8: 7194472438347310257
+      Gog_walk_9: 1591768916640416710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

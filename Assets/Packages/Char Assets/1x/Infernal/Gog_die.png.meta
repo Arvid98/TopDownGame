@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Gog_die_0: -1131135180730609159
+      Gog_die_1: 2977973111565491291
+      Gog_die_2: 5272629666065957700
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

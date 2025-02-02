@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Satyr_hit_0: 2191235322897020013
+      Satyr_hit_1: -7921501768149369599
+      Satyr_hit_10: 4911770028631849643
+      Satyr_hit_11: -9129949510505591270
+      Satyr_hit_12: -5409857642391571476
+      Satyr_hit_13: 8523981162208791595
+      Satyr_hit_14: -3521006896383601943
+      Satyr_hit_15: -907530667712762971
+      Satyr_hit_2: 542819669944839528
+      Satyr_hit_3: -9051898715638335421
+      Satyr_hit_4: 8455509820995602771
+      Satyr_hit_5: 3174136438241793227
+      Satyr_hit_6: 1970714460130779885
+      Satyr_hit_7: -4726017537547819118
+      Satyr_hit_8: 7241950838225662583
+      Satyr_hit_9: -3282621279160857096
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

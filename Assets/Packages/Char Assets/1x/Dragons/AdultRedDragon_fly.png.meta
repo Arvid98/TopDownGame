@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      AdultRedDragon_fly_0: 5197530649594640512
+      AdultRedDragon_fly_1: 7063735108784682446
+      AdultRedDragon_fly_10: -8026080376352243620
+      AdultRedDragon_fly_11: -4564177615183797147
+      AdultRedDragon_fly_12: 8924623383369928360
+      AdultRedDragon_fly_13: 5604102299806708355
+      AdultRedDragon_fly_14: -1653995923698044136
+      AdultRedDragon_fly_15: -8326318702687328294
+      AdultRedDragon_fly_2: 8378190328492005794
+      AdultRedDragon_fly_3: -531162935820423740
+      AdultRedDragon_fly_4: -5224316075257432655
+      AdultRedDragon_fly_5: 2039437277548203384
+      AdultRedDragon_fly_6: -2613431170791731454
+      AdultRedDragon_fly_7: -1878625865856122689
+      AdultRedDragon_fly_8: -3334048524023218123
+      AdultRedDragon_fly_9: -693646014564733440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

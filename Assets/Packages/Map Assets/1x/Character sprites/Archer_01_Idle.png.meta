@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Archer_01_Idle_0: 3985435414107005403
+      Archer_01_Idle_1: 698685492721489278
+      Archer_01_Idle_10: -4604974365117387261
+      Archer_01_Idle_11: 8776458074686818394
+      Archer_01_Idle_12: 5756929966342027364
+      Archer_01_Idle_13: 4878696250718782451
+      Archer_01_Idle_14: -6263021921242171910
+      Archer_01_Idle_15: -8197504873221013647
+      Archer_01_Idle_2: -1845476462531131629
+      Archer_01_Idle_3: -1572185577349994693
+      Archer_01_Idle_4: -4544288078421137580
+      Archer_01_Idle_5: 1403868792975646095
+      Archer_01_Idle_6: -1331710655929691078
+      Archer_01_Idle_7: -1962496554749323344
+      Archer_01_Idle_8: -3658177347197062383
+      Archer_01_Idle_9: -8803227889275899900
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

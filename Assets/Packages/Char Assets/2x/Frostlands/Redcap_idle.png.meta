@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Redcap_idle_0: 8384922397746615478
+      Redcap_idle_1: -9217479917150520780
+      Redcap_idle_10: -859735323899197897
+      Redcap_idle_11: -1208308233491697453
+      Redcap_idle_12: 5233473189252245503
+      Redcap_idle_13: 4864047197273464641
+      Redcap_idle_14: -6801669834443215617
+      Redcap_idle_15: -8958235991477047112
+      Redcap_idle_2: -3799610615326826470
+      Redcap_idle_3: 1174262401860189326
+      Redcap_idle_4: -2289871112685456844
+      Redcap_idle_5: 6180860984300539339
+      Redcap_idle_6: 4432938950665423605
+      Redcap_idle_7: 9134658310111168044
+      Redcap_idle_8: -4084640668200986539
+      Redcap_idle_9: 7611592902998566213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

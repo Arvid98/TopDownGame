@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DisplacerBeast_hit_0: -2010413705993923854
+      DisplacerBeast_hit_1: -245177160561773559
+      DisplacerBeast_hit_2: -7376814607460430887
+      DisplacerBeast_hit_3: -6380426027311839347
+      DisplacerBeast_hit_4: -1871638988363603407
+      DisplacerBeast_hit_5: 6109101426230167055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
