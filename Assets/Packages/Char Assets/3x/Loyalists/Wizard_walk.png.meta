@@ -131,9 +131,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 215
-        width: 192
-        height: 68
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -152,10 +152,10 @@ TextureImporter:
       name: Wizard_walk_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 143
-        width: 46
-        height: 68
+        x: 48
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,10 +174,10 @@ TextureImporter:
       name: Wizard_walk_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 143
-        width: 47
-        height: 68
+        x: 96
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: Wizard_walk_3
       rect:
         serializedVersion: 2
-        x: 95
-        y: 143
-        width: 47
-        height: 68
+        x: 144
+        y: 213
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: Wizard_walk_4
       rect:
         serializedVersion: 2
-        x: 143
-        y: 143
-        width: 47
-        height: 68
+        x: 0
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +240,10 @@ TextureImporter:
       name: Wizard_walk_5
       rect:
         serializedVersion: 2
-        x: 2
-        y: 71
-        width: 47
-        height: 68
+        x: 48
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: Wizard_walk_6
       rect:
         serializedVersion: 2
-        x: 50
-        y: 71
-        width: 47
-        height: 68
+        x: 96
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: Wizard_walk_7
       rect:
         serializedVersion: 2
-        x: 98
-        y: 71
-        width: 47
-        height: 68
+        x: 144
+        y: 142
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: Wizard_walk_8
       rect:
         serializedVersion: 2
-        x: 146
+        x: 0
         y: 71
-        width: 46
-        height: 68
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +328,10 @@ TextureImporter:
       name: Wizard_walk_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 192
-        height: 67
+        x: 48
+        y: 71
+        width: 48
+        height: 71
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -346,11 +346,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1665d1184a8054141947736f237919f4
+      internalID: 1656313318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 71
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34adbb11d28b8f469c8d7d09e9f0d47
+      internalID: 557886708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071413b6beb7c3345a05e9902509b029
+      internalID: 937062944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d830e541741ba2249b5ced9005f504b6
+      internalID: -626607053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86a580d22aef5b48a48f4fd59e704a0
+      internalID: -341611884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wizard_walk_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be2563beb9e294fb67bf02f88dc33b
+      internalID: -1023175013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f4ee25ebca560ab4dbebe3d5d6e9da42
     internalID: 0
     vertices: []
     indices: 
@@ -362,6 +494,12 @@ TextureImporter:
     nameFileIdTable:
       Wizard_walk_0: 7967238433970245836
       Wizard_walk_1: -438409049821502968
+      Wizard_walk_10: 1656313318
+      Wizard_walk_11: 557886708
+      Wizard_walk_12: 937062944
+      Wizard_walk_13: -626607053
+      Wizard_walk_14: -341611884
+      Wizard_walk_15: -1023175013
       Wizard_walk_2: -8835464851687781610
       Wizard_walk_3: 4971596146558262523
       Wizard_walk_4: 5163564268188283314

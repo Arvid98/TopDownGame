@@ -18,10 +18,10 @@ GameObject:
   - component: {fileID: 4267772675770651664}
   - component: {fileID: 6127150451156538361}
   - component: {fileID: -7629212259748646367}
-  - component: {fileID: -2614322748661052206}
+  - component: {fileID: 60797825861657467}
   - component: {fileID: -1213105528952981277}
   m_Layer: 16
-  m_Name: WarriorPlayer
+  m_Name: MagePlayer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -86,7 +86,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1987170929, guid: 23182ccb71b624547841178a603374ff, type: 3}
+  m_Sprite: {fileID: -905941202160046434, guid: d3d4ebd2ce1e01244a53c55a2c55bc6c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GlobalObjectIdHash: 2273286773
+  GlobalObjectIdHash: 3127492209
   InScenePlacedSourceGlobalObjectIdHash: 201901893
   DeferredDespawnTick: 0
   Ownership: 1
@@ -288,7 +288,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.32490674, y: 0.45574844}
   m_EdgeRadius: 0
---- !u!95 &-2614322748661052206
+--- !u!95 &60797825861657467
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
@@ -298,7 +298,7 @@ Animator:
   m_GameObject: {fileID: 9084785863653585268}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3b5837b10db0abe4fbda7e53560ea36f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 710a4084b850770499a27c1c10229301, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -324,4 +324,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShowTopMostFoldoutHeaderGroup: 1
   TransitionStateInfoList: []
-  m_Animator: {fileID: -2614322748661052206}
+  m_Animator: {fileID: 60797825861657467}
