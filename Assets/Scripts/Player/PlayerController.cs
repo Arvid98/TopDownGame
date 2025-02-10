@@ -1,52 +1,89 @@
 using System.Collections;
 using System.Collections.Generic;
-using TMPro;
 using Unity.Netcode;
 using UnityEngine;
 
 public class PlayerController : NetworkBehaviour
 {
     [SerializeField] private float _moveSpeed = 5f;
-
     private Vector2 _movement;
-
     private Rigidbody2D _rb;
     private Animator _animator;
+    private PlayerInputHandler _inputHandler;
 
-    private const string _horizontal = "Horizontal";
-    private const string _vertical = "Vertical";
-    private const string _lastHorizontal = "LastHorizontal";
-    private const string _lastVertical = "LastVertical";
+    private string _horizontal = "Horizontal";
+    private string _vertical = "Vertical";
+    private string _lastHorizontal = "LastHorizontal";
+    private string _lastVertical = "LastVertical";
+
+    private NetworkVariable<Vector2> networkMovement = new NetworkVariable<Vector2>(Vector2.zero, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Server);
 
     private void Awake()
     {
         _rb = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
+        _inputHandler = GetComponent<PlayerInputHandler>();
     }
 
-    private void Update()
+    public override void OnNetworkSpawn()
     {
-        if (!IsOwner) return; 
-
-        _movement.Set(InputManager.Movement.x, InputManager.Movement.y);
-
-        _rb.linearVelocity = _movement * _moveSpeed;
-
-        _animator.SetFloat(_horizontal, _movement.x);
-        _animator.SetFloat(_vertical, _movement.y);
-
-        if (_movement != Vector2.zero)
+        if (IsClient)
         {
-            _animator.SetFloat(_lastHorizontal, _movement.x);
-            _animator.SetFloat(_lastVertical, _movement.y);
+            networkMovement.OnValueChanged += OnMovementChanged;
+        }
+    }
+
+    private void OnDestroy()
+    {
+        if (IsClient)
+        {
+            networkMovement.OnValueChanged -= OnMovementChanged;
+        }
+    }
+
+    void Update()
+    {
+        if (IsOwner)
+        {
+            _movement = _inputHandler.MovementInput;
+            Vector3 movement = new Vector3(_movement.x, _movement.y, 0) * _moveSpeed * Time.deltaTime;
+            transform.position += movement;
+
+            UpdatePositionServerRpc(transform.position);
+            UpdateAnimationServerRpc(_movement);
         }
 
-        UpdatePositionServerRpc(transform.position);
+        _animator.SetFloat(_horizontal, networkMovement.Value.x);
+        _animator.SetFloat(_vertical, networkMovement.Value.y);
+
+        if (networkMovement.Value != Vector2.zero)
+        {
+            _animator.SetFloat(_lastHorizontal, networkMovement.Value.x);
+            _animator.SetFloat(_lastVertical, networkMovement.Value.y);
+        }
+    }
+
+    private void OnMovementChanged(Vector2 previousValue, Vector2 newValue)
+    {
+        _animator.SetFloat(_horizontal, newValue.x);
+        _animator.SetFloat(_vertical, newValue.y);
+
+        if (newValue != Vector2.zero)
+        {
+            _animator.SetFloat(_lastHorizontal, newValue.x);
+            _animator.SetFloat(_lastVertical, newValue.y);
+        }
     }
 
     [ServerRpc]
     private void UpdatePositionServerRpc(Vector3 newPosition)
     {
         transform.position = newPosition;
+    }
+
+    [ServerRpc]
+    private void UpdateAnimationServerRpc(Vector2 movement)
+    {
+        networkMovement.Value = movement;
     }
 }
