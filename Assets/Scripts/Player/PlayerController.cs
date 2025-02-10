@@ -45,7 +45,8 @@ public class PlayerController : NetworkBehaviour
     {
         if (IsOwner)
         {
-            _movement = _inputHandler.MovementInput;
+            _movement.Set(InputManager.Movement.x, InputManager.Movement.y);
+            //_movement = _inputHandler.MovementInput;
             Vector3 movement = new Vector3(_movement.x, _movement.y, 0) * _moveSpeed * Time.deltaTime;
             transform.position += movement;
 
