@@ -1,20 +1,70 @@
-using Unity.Netcode;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class NetworkUI : MonoBehaviour
 {
-    public GameObject hostObject;
-    public GameObject clientObject;
-    public void StartHost()
+    public Client clientScript;
+    public Host hostScript;
+    public Button[] hostPrefabButtons;
+    public Button[] clientPrefabButtons;
+    public GameObject hostButton;
+    public GameObject clientButton;
+    public GameObject uiContainer;
+
+    private bool hostPrefabSelected = false;
+    private bool clientPrefabSelected = false;
+
+    void Start()
     {
-        //hostObject.SetActive(true);
-        NetworkManager.Singleton.StartHost();
+        hostButton.SetActive(false);
+        clientButton.SetActive(false);
+
+        for (int i = 0; i < hostPrefabButtons.Length; i++)
+        {
+            int index = i;
+            hostPrefabButtons[i].onClick.AddListener(() =>
+            {
+                hostScript.SelectPrefab(index);
+                hostPrefabSelected = true;
+                UpdateButtonStates();
+            });
+        }
+
+        for (int i = 0; i < clientPrefabButtons.Length; i++)
+        {
+            int index = i;
+            clientPrefabButtons[i].onClick.AddListener(() =>
+            {
+                clientScript.SelectPrefab(index);
+                clientPrefabSelected = true;
+                UpdateButtonStates();
+            });
+        }
+
+        hostButton.GetComponent<Button>().onClick.AddListener(() => StartGameAsHost());
+        clientButton.GetComponent<Button>().onClick.AddListener(() => StartGameAsClient());
     }
 
-    public void StartClient()
+    private void UpdateButtonStates()
     {
-        //clientObject.SetActive(true);
-        
-        NetworkManager.Singleton.StartClient();
+        hostButton.SetActive(hostPrefabSelected);
+        clientButton.SetActive(clientPrefabSelected);
+    }
+
+    private void StartGameAsHost()
+    {
+        hostScript.StartHost();
+        HideAllUI();
+    }
+
+    private void StartGameAsClient()
+    {
+        clientScript.StartClient();
+        HideAllUI();
+    }
+
+    private void HideAllUI()
+    {
+        uiContainer.SetActive(false);
     }
 }

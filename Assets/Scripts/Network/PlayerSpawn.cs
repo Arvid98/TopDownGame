@@ -3,39 +3,19 @@ using UnityEngine;
 
 public class PlayerSpawner
 {
-    private GameObject playerPrefab;
+    private GameObject selectedPrefab;
 
     public PlayerSpawner(GameObject prefab)
     {
-        playerPrefab = prefab;
+        selectedPrefab = prefab;
     }
 
     public void SpawnPlayer(ulong clientId, Vector3 position)
     {
-        if (!NetworkManager.Singleton.IsServer)
-        {
-            Debug.LogError("Only the server can spawn players.");
-            return;
-        }
+        if (!NetworkManager.Singleton.IsServer) return;
 
-        GameObject player = Object.Instantiate(playerPrefab, position, Quaternion.identity);
+        GameObject player = Object.Instantiate(selectedPrefab, position, Quaternion.identity);
         player.GetComponent<NetworkObject>().SpawnAsPlayerObject(clientId, true);
         Debug.Log($"Spawned player for client {clientId} at position {position}");
     }
-    //private void Start()
-    //{
-    //    if (NetworkManager.Singleton != null)
-    //    {
-    //        NetworkManager.Singleton.OnClientConnectedCallback += OnClientConnected;
-    //    }
-    //}
-
-    //private void OnDestroy()
-    //{
-    //    if (NetworkManager.Singleton != null)
-    //    {
-    //        NetworkManager.Singleton.OnClientConnectedCallback -= OnClientConnected;
-    //    }
-    //}
-
 }
