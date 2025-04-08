@@ -21,6 +21,8 @@ GameObject:
   - component: {fileID: -2614322748661052206}
   - component: {fileID: -1213105528952981277}
   - component: {fileID: 9118481600063876207}
+  - component: {fileID: 5927766642138931647}
+  - component: {fileID: -64063273201345104}
   m_Layer: 16
   m_Name: WarriorPlayer
   m_TagString: Player
@@ -341,3 +343,39 @@ MonoBehaviour:
   ShowTopMostFoldoutHeaderGroup: 1
   offset: {x: 0, y: 2, z: -10}
   smoothSpeed: 5
+--- !u!114 &5927766642138931647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9084785863653585268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c829eb2dbede3d45a1ab96d1ea9cb86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  maxHealth: 100
+  invulnerabilityDuration: 0.5
+  spriteRenderer: {fileID: 0}
+--- !u!114 &-64063273201345104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9084785863653585268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 621bb3769ae27cd4c9146eb52acac3c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ShowTopMostFoldoutHeaderGroup: 1
+  attackCooldown: 1
+  attackDamage: 20
+  attackRange: 2
+  attackWidth: 1.5
+  attackAngle: 90
+  attackDuration: 0.3
+  swingSprite: {fileID: 0}
