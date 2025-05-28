@@ -1,11 +1,11 @@
 using Unity.Netcode;
 using UnityEngine;
 
-public class PlayerSpawner
+public class PlayerSpawn
 {
     private GameObject selectedPrefab;
 
-    public PlayerSpawner(GameObject prefab)
+    public PlayerSpawn(GameObject prefab)
     {
         selectedPrefab = prefab;
     }
